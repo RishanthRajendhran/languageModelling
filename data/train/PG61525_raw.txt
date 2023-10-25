@@ -1,0 +1,919 @@
+﻿The Project Gutenberg eBook of Iets oor die Boesmankultuur
+This ebook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this ebook or online at www.gutenberg.org. If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.
+Title: Iets oor die Boesmankultuur
+ Author: Reenen J. Van Reenen
+Release date: February 27, 2020 [eBook #61525]
+Language: Afrikaans
+Credits: Jeroen Hellingman and the Online Distributed Proofreading Team at http://www.pgdp.net/ for Project Gutenberg (This file was produced from images generously made available by The Internet Archive)
+ *** START OF THE PROJECT GUTENBERG EBOOK IETS OOR DIE BOESMANKULTUUR ***
+
+Produced by Jeroen Hellingman and the Online Distributed Proofreading Team at http://www.pgdp.net/ for Project Gutenberg (This file was produced from images generously made available by The Internet Archive)
+
+
+
+
+ IETS OOR DIE BOESMANKULTUUR
+DEUR REENEN J. VAN REENEN.
+ 'n Lesing gehou voor die Suid-Afrikaanse Akademie op Stellenbosch, Januarie 1920, en gedruk op las van die Akademie.
+ De Nationale Pers Beperkt, Bloemfontein, 1920.
+
+
+
+ VOORWOORD.
+ Die boekie wat nou die wereld ingaan is 'n afdruk van 'n lesing wat ek in Januarie 1920 voor die Suid-Afrikaanse Akademie by hul sitting op Stellenbosch gehou het.
+Deur hul kuns is my belangstelling in die dwergies eers gewek, en later toe ek besef dat alleen deur 'n dieper studie van hul "kultuur" 'n mens die Boesmankuns ten volle kan waardeer, het ek besluit om die nodige kennis te probeer opdoen. Die studie het vir my die Boesman in 'n heeltemal nuwe lig getoon, en was vir my so interessant dat ek goedgedink het om my ontdekkinge aan die Akademie mee te deel in die hoop dat hulle ook die onderwerp van belang sou vind. Dat my hoop nie ongegrond was nie, word bewys deur die feit dat hul my die eer aangedoen het om die lesing in boekvorm te laat druk.
+Soos ek in die inleiding sê, is diè lesing maar 'n voorlopige rapport in verband met my studie. Later, as daar genoeg belangstelling getoon word, sal ek miskien 'n meer afgewerkte behandeling van die onderwerp kan uitgee en verder besonderhede oor die beeldende kuns van die Boesman byeenbring.
+By so 'n molike later uitgawe sal daar 'n geleentheid wees vir volledige aantekeninge in verband met die bibliografie.
+ R. J. v. R.
+Bloemfontein, Oktober 1920.
+
+
+
+INHOUD.
+ Inleiding
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7 Ouderdom van die Boesmankultuur
+
+
+
+
+
+
+
+
+7 Oorsprong van die Boesman
+
+
+
+
+
+
+
+
+
+
+ 10 Afleiding van die woord "Boesman"
+
+
+
+
+
+
+ 13 Voedsel van die Boesman
+
+
+
+
+
+
+
+
+
+
+
+ 16 Onreinigheid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17 Onsedelikheid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 18 Kindermoord
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 18 Moord en diefstal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 20 Mishandeling van diere
+
+
+
+
+
+
+
+
+
+
+
+
+20 Uitroeiing van die Boesman
+
+
+
+
+
+
+
+
+
+
+21 Die saak van die Boesman se kant beskou
+
+
+
+ 24 Godsdiens
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 28 Die Jag
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 36 Eiendomsbesef
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 41 Liggaamsbou
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 45 Boerdery
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+45 Regeringsvorm en organisasie
+
+
+
+
+
+
+
+
+
+46 Opvoeding
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 47 Persoonlike name
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+49 Verhouding tussen Boesmans en hul bure
+
+
+
+
+50 Dapperheid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+52 Vryheidsliefde
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+53 Eerlikheid en Hoflikheid
+
+
+
+
+
+
+
+
+
+
+
+56 Geduld
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+56 Taal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+57 Aardkunde
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 60 Aardrykskunde
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 60 Rekenkunde
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+60 Dierkunde
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 61 Geneeskunde
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 62 Plantkunde
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+63 Sterrekunde
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 63 Digterlikheid en Letterkunde
+
+
+
+
+
+
+
+
+
+65 Toneel- en Danskuns
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 66 Musiek
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+67 Beeldendekunste
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 69
+
+
+
+IETS OOR DIE BOESMANKULTUUR.
+INLEIDING.
+Die lesing dien as 'n voorlopige rapport in verband met my studie van die Boesman soos hy deur reisigers en ander beskrywe is.
+Die gepubliseerde materiaal wat vir 'n studie van die kultuur van dié ras beskikbaar is, is ongelukkig maar gering, en daarby so versprei--hier 'n sin en daar 'n paragraaf in die verhale van die honderd-en-een ou reisigers in ons land--dat die versameling van die bietjie materiaal alleen, sonder om dit te rangskik en gevolgtrekkinge te maak, 'n werk is wat baie tyd eis. Die nodige tyd en geleentheid het totdusver ontbreek om selfs alleen al die voornaamste bronne te ondersoek, maar daar is in die laaste tyd in Suid-Afrika, in altwee tale, soveel onjuisthede en halwe feite in die verband gepubliseer, dat dit ook miskien geregverdig is om met so 'n voorlopige halfbewerkte betoog voor die wêreld te verskyn as 'n teegif teen genoemde verkeerde voorstellinge. As dié lesing dié gevolg sal hê, en as die beskrywing van die verskillende onderdele van die onderwerp wat hier nog nie volledig uitgewerk is nie, belangstelling sal opwek, is die doel van die skrywer vereers bereik.
+
+ OUDERDOM VAN DIE KULTUUR.
+Van al die woorde in 'n taal waarvan dit moeilik is om sekuur die populêre betekenis te bepaal, veroorsaak die woord 'kultuur' miskien meer moeilikheid as enige ander. Dit beteken so veel, en tegelykertyd so min; maar hoe wyd ook, of hoe nou 'n mens die grense van die woord bepaal, bly een ding seker, dat die kultuur en die volk seer dig, byna onskeidbaar aanmekaar geheg is. 'n Indiwidu kan verraaier speel, kan sy volk se kultuur verlaat, en die van 'n ander aanneem, met 'n weinig meer moeite of inspanning as wanneer hy hom verklee; maar met 'n volk as 'n geheel gaan dit nie so maklik nie, en hoe ouer die kultuur, hoe moeiliker kom 'n verandering.
+Dit is dus 'n saak van belang in die studie van die kultuur van 'n volk, om, indien molik, die ouderdom van die kultuur vas te stel. As ons dit in verband met die Boesman probeer navors, word dit nodig om die aandag te vestig op iets ver buite die grense van Boesmanland, selfs soos dit bestaan het in die dae van Bartholomeus Diaz. En dit is treffend dat dit die beoefening van die beeldende kunste is, waarin die Boesman so wonderlik uitgeblink het, wat vir ons, na duisende jare, die spoor van die Oervolk bewaar het.
+In die jaar 1878 besoek 'n Spaanse edelman, Marcellino de Santuola, met sy dogtertjie die nou beroemde Altamira grot. Hy het gehoor van oorblyfsels van die steenperiode wat in grotte gevind word, en gaan toe daar aan grawe en snuffel om te sien of hy nie ook iets dergelyks kan ontdek nie. Die dogtertjie begin haar intussen verveel, en dwaal van haar vader se sy. Nie te lank nie, of sy roep uit "Toros! Toros!" En toe die woorde later deur die verstrooidheid van die edelman, haar vader, gedring het, blyk dit dat sy skilderye van buffels op die plafon ontdek het op 'n plek waar haar vader moes buk om deur te kom, maar waar sy regop kon loop, en alles mooi bekyk.
+Vir die eerste keer na duisende jare word die werk van die ou kunstenare--ware ou meesters--weer deur mense-oë bewonder [1].
+"Wat het dit met die Boesman te doen?" sal u miskien vra. In dieselfde omgewing, in Frankryk sowel as in Spanje, is daar toe in ander grotte skilderye gevind, en 'n verbasende ooreenkoms tussen die kuns van die ou Europeane en die Boesmans word openbaar. Deur die Abbé Henri Breuil is 'n versameling gemaak, en in drie pragwerke uitgegee wat besonder interessant is vir Palaeontoloë, Etnoloë en kunstenare. As 'n Afrikaner sy plate deurblaai, dink hy onwillekeurig aan die Boesmans. Die behandeling van die onderwerp, die kleure, die tegniek (laasgenoemde kan die skrywer nog nie self van getuie nie) bewys 'n sterk ooreenstemming. In besonder is daar een skildery wat byna dieselfde is as een wat die skrywer self in die Vrystaat gevind het [2].
+Daar bestaan altoos die gevaar van die persoonlike faktor in die ondersoek van so 'n onderwerp. Die navorser wil 'n seker ding hê, en sit eers oogklappe langs sy oë sodat hy nog herwaarts nog derwaarts kan kyk en miskien iets raak sien wat sy geliefkooste teorie sal laat skipbreuk ly nie. Om dus alleen op grond van 'n ooreenstemming, hoe sterk ook al, in die tegniek van die kuns van twee volke, wat deur sowat twintig duisend jaar geskei is, te beweer dat hulle een en dieselfde volk is, sou gewaag wees; en dit moet nog bewys word dat die ou kunstenare en ons Boesmans met mekaar verwant is.
+Laat ons nou eers die argumente hoor van Dr. Sollas (professor in Geologie en Palaeontologie in Oxford) op die gebied van rein wetenskap, afgesien van kuns.
+Hy bewys dat die beeldjies [3] van die vroue van die ras wat die skilderye gemaak het, van dieselfde liggaamsbou as die Boesmanmeide is (want hulle het nie skilderye van hulle vrouens agtergelaat nie), en na hy die ooreenstemming van die twee skilderkunste en die bou van die vrouens van die twee volke oorweeg het, sê hy dat die vermoedelike konneksie tussen die Aurignaciers (d.w.s. die gedeelte van die Palaeolietiese mens wat die Spaanse en Franse skilderye gemaak het) aan die een kant, en die Boesmans aan die ander begin 'n skyn van molikheid aan te neem; en ons kan nou voortgaan met die oorweging van die getuienis verskaf deur die oorblyfsels van die Aurignaciers self. Hy bespreek dan die kopbene en die geraamtes wat daar gevind is, en sê dan dat die bymekaargemaakte materiaal nou al byna genoeg is en voldoende bewys dat Mentone by die begin van die Aurignaciese eeu bewoon was deur 'n stam wat met die Boesman verwant is. Dat die stam oor Suid-Frankryk, en Noord-Spanje versprei was, is hoogswaarskynlik; dit is molik dat hulle selfs so ver as België te vinde was as 'n mens dit kan aflei van die poppetjie by Pont-à-Lesse gevind, en miskien ook in Oostenryk op die getuienis van die Negerse beeldjie van Willendorf.
+Die hooggeleerde dokter vind 'n haakplek in die feit dat die brein-inhoud van die ou kopbene groter is as die Boesmanskedel; maar sê in die opsomming en slot van sy argument dat dit duidelik is dat in die Aurignaciese eeu daar gelyktydig twee rasse of stamme bestaan het, een waarvan met die Boesman verwant is. 'n Eienaardige bevestiging van hierdie gevolgtrekking is onlangs gevind in ou spore van hande en voete in die sand van die grotte, want in party gevalle, soos by Gorgas, is hulle klein, en bewys 'n klein ras, terwyl hulle in Castello groot is met klein vingers en 'n lang palm wat bewys is van 'n ras bestaande uit lang mense.
+
+ OORSPRONG VAN DIE BOESMAN.
+Sollas beweer dan dat die dwergies uit Europa gedruk is deur hoër rasse wat agternagekom het, en dat die klein volk op dié manier na Suid-Afrika verdrewe is, maar hiermee kan die skrywer hom nog nie vereenselwig nie, want uit reproduksies van Boesmantekeninge in Noord-Afrika wat totdusver onder sy aandag gekom het, blyk dit dat die tekeninge en skilderye, hoe verder suid, hoe beter word, alhoewel dit nog nie molik is om so 'n teorie op te stel nie. Maar as dit sou waar wees, sou dit bewys dat die oorspronklike stam nog nie in kuns ten volle ontwikkel het voor hulle uitmekaar gegaan het nie; met ander woorde, dat die Aurignaciers nie vaders nie, maar miskien ooms of neefs van die Boesmans is. Maar dit bly ook moeilik om te verstaan hoe die Aurignaciers of "Franse Boesmans" onafhanklik van die Afrikaanse Boesmans, op kunsgebied, so gelyk ontwikkel het.
+Volgens Theal, beweer Quatrefages, die beroemde Franse antropoloog, in sy werk oor die Dwergies, dat dié volk (die Boesman inbegrepe) uit Suid-Asië kom; dat hul daarvandaan ooswaarts na Japan, en weswaarts na Afrika oor die Bab-el-Mandeb-seeëngte en die Aden-golf getrek het. As die bewering reg is, sou die Franse, Asiatiese en Afrikaanse Boesmans, as 't ware neefs van mekaar wees; maar die laaste woorde hieroor het nog nie geval nie, en die skrywer het nog nie genoeg in die saak ingegaan om een of ander van die deskundiges se teorië te kan aanneem nie.
+Hoe dit ook al mag wees, "Boesmantekeninge" (d.w.s. tekeninge van primitiewe volke wat na die tekeninge van Boesmans lyk) is gevind nie alleen oor die hele Unie van Suid-Afrika en Basoetoeland nie, maar ook in Suid-Algerië, in die Sahara noord, oos, en suid van Mursuk, suid van Oran, in Morokko, ens. [4]
+Dat die Boesman gevoel het dat hy aan 'n ou, ou ras behoort, is bewys deur 'n storie wat Campbell die sendeling vertel. As Campbell die Boesmans kon raad gee, was hy in sy skik, en hy beveel ook eenkeer vir Houkay, 'n Boesmankaptein, aan, om 'n jong kameelperd te vang, en dit te dresseer, sodat hy dit as 'n jagperd kon gebruik. "Nee," sê Houkay, "my voorvaders het met die oerkameelperd saamgespeel; as hulle die dier geleer het, sou ek dit ook doen, maar nou het hul te sterk geword."
+Van die ou voor-historiese tyd tot die witman na Suid-Afrika gekom het, weet ons maar min van die Boesman af.
+Sollas praat van gebakte kleibeelde van vrouens, soos Boesmanmeide, van voor-dinastiese tye wat in Egipte gevind is. Theal en ander skrywers haal ook aan wat Plinius en Herodotus oor die Troglodiete skrywe: dat hul dwergies is, in grotte woon, en nie praat nie, maar soos vlermuise of kalkoene kwaak. Ook sou die Egiptiese konings enige van die dwergies laat kom het van die land ten suide van Egipte om voor hulle te dans. Dit moet dan bewys dat die Boesman in daardie dae nog nie deur die Bantoe verdrywe was nie; maar ook hier moet ons voorsigtig wees want die beroemde Duitse professor Friederich Ratzel gebruik dieselfde aanhaling uit Herodotus om die hedendaagse mense van Tibboeland te beskrywe.
+Wat ook die waarheid is, bly een ding seker, naamlik dat die Boesmans in Suid-Afrika was voor die Hottentot, en voor die Bantoe; maar of hul die eerste mense in Suid-Afrika was, en soos Fitsimons in sy "Monkeyfolk of South Africa" grappig beweer, die land van die bobejane afgeneem het, is seer twyfelagtig. Gelukkig is dit vir ons doel nie van veel belang nie. Soos Theal neerlê, sou dit onmolik gewees het vir die Boesman wat ongetwyfeld uit die Noorde kom, om sy pad deur die sterker rasse te veg, en ons kan dus seker wees dat die Boesman voor die Bantoe hier in ons land aangekom het. Die naam "Baroa" (d.w.s. die mense van die suide), wat die Basoetoes vir die Boesmans gebruik, is ook 'n bewys hiervan.
+
+ AFLEIDING VAN DIE WOORD BOESMAN.
+Van die name wat ander nasies vir hul gegee het, sal later weer iets gemeld word as ons die verhouding tussen die Boesmans en hulle bure behandel; maar ons sal nou eers ons eie woord vir die eienaardige dwergies moet bespreek. Boesmans, Bushmen, Buschmänner, Boschimans--al die beskaafde tale lei die woord af van die Neerlandse Bosjesmannen. Hoe Bosjesmannen verkort word tot Boesmans en nie Bosmans of Bossiesmans nie, kan ons voorlopig oorlaat aan ons Afrikaanse taalgeleerdes; maar hoe kom die Hollanders aan die naam Bosjesman? Al die oudste Hollandse reisigers gebruik die woord Sonqua (wat vandag, sover die skrywer weet, alleen nog bestaan in die woord sonquariet) vir die nasie. Hoe het dit dan gekom dat die ander naam populêr geword is? En waar kom dit vandaan? Die mense was tog nie bos-bewoners nie. Soos Fritsch in sy "Die Eingeborenen Südafrikas" sê, Lichtenstein se bewering dat hulle Bosjesmannen genoem word, omdat hulle agter bossies woon, is belaglik; net soos die rede van die "Select Committee on Aborigines" wat beweer het dat die naam te wyte is aan die feit dat die ras liewer op die veld of in die bos wou lewe as om diensbodes van die blanke te word. Fritsch gee 'n ander afleiding van die woord. Hy wil hê dat die Neerlandse woord sou gelyk staan nie met die Duitse woord "Waldbewohner" nie, maar met "Waldmensch" d.w.s., 'n indiwidu van 'n seker fabelagtige ras wat soölogies tussen man en aap staan. Om dit te bewys haal hy aan dat Van Riebeek in sy dagboek melding maak dat hulle op die berg, 'n dooie "Boschmanneken" gevind het, wat in Batavia "Ooerang-oetang" heet. Dit sou dan 'n skelnaam vir die Boesmans geword het wat mettertyd meer en meer populêr geword het, en meer in die Nederlandse mond pas as die uitheemse woord "Sonqua." Fritsch siteer ook 'n offisiële berig van die jaar 1685 wat meld dat "Kaptein Klaas, 'n Hottentothoofman, oorlog gemaak het met die Sonqua, algemeen 'Bosjesmannen' genoem."
+Dit mag vir sommige ongeloofbaar klink dat die koloniste deur dié aangenome naam, dit feitlik in twyfel trek of die Boesman werklik mens is, maar selfs tot in die dae van "Die Patriot" het daar twyfel bestaan, en die lesers het serieus die vraagstuk in die korrespondensie-kolomme van genoemde blad bespreek. Lichtenstein in die begin van die neentiende eeu vertel dat die Boere nie meer eerbied vir die lyk van 'n Boesman betoon het, as die van 'n wilde dier nie. In 1850 is daar 'n boek geskrywe deur Rev. Thornley Smith, 'n Wesleyaanse sendeling met sewe jaar ondervinding in Suid-Afrika, en die volgende vertaling van 'n paar sinne uit sy boek bewys dat dié Eerwaarde heer self twyfel had, of dag dat sy Engelse lesers miskien sou twyfel of die kleintjies regtig mense was. Hy beskrywe 'n grot met Boesmantekeninge versier, en dan sê hy:--
+ "Waarvandaan, mag 'n mens vra, het die wilde bewoners van die kranse hulle kuns gekry? Durf ons dit beskou as 'n bewys van 'n bewussyn? Word sulke vaardigheid ooit geopenbaar buiten deur die mens?"
+ En as die mense van die neentiende eeu--Afrikaners sowel as uitlanders--nie oor die punt eens is nie, is dit tog heeltemal aanneembaar dat Van Riebeek se mense, ongewoon aan die neger, seker was dat die Boesmans nie aan die menslike ras behoort.
+Fritsch se verklaring dan van die afleiding van die woord Bosjesman is waarskynlik die regte; maar molik sal ons taalgeleerdes deur die vorm "Boesman", op 'n verklaring kom wat nog meer aanneembaar is as die van Fritsch.
+
+ VOEDSEL VAN DIE BOESMAN.
+Maar dit is nie te sê, al het die Boesmans ook 'n pedigree soveel duisende jare oud, dat hulle aristokrate was, of die fyn maniere had wat 'n mens van die lui verwag nie. Om nou met hulle ete en drinke te begin: soos Fritsch dit uitdruk, eet hulle enigiets wat hul tande kan kou, en drink hulle alles wat nat is. En dit is byna letterlik waar. Die ou reisigers gaan nog taamlik diep in onaangename besonderhede om te vertel hoe hulle die hele dier skoon opgeëet het--net die bene bly oor, en hulle word vir die murg gebreek. Weliswaar dat hulle bygeloof hul belet het om een of ander, vir ons heeltemal skoon, deel van 'n dier te eet, soos byvoorbeeld die biltongvleis van die hasie; maar dit was alleen hulle bygeloof, en dit was geen idee van gesondheid of fynheid wat hul beweeg het nie! By die slag van 'n dier, maak hul, volgens die beskrywing van Barrington in 1810, 'n bloeddrank aan wat afskuwelik morsig en vuil is. Wie verder informasie hieromtrent verlang moet maar die eerste band van Barrington se boek "An Account of a voyage to New South Wales", naslaan.
+Maar dit gebeur dikwels dat 'n Boesman die oorblyfsels van 'n leeu se buit of ander aas raakloop, en dan as daar nog veel kos op sit, trek hy met sy hele famielie na die plek en kampeer daar tot die bene kaalgekou is.
+Dit is moeilik vir ons om 'n idee te vorm van die aptyt van 'n Boesman, maar 'n kort uittreksel uit Lichtenstein se Reisverhaal sal darem 'n bietjie lig op die saak werp. Hy vertel van ene Baardman, 'n berugte Boesman-dief wat voor die Landdros gekom het. Toe die Landdros hom vra waarom hy gesteel het,
+ "wys hy na sy lyf wat in plooie hang, en nadat hy 'n plooi in sy hand beetgeneem het, trek hy dit uit sover dit kon gaan, om te wys hoeveel sy huid kon hou as dit vol is; en toe, sonder om te wag op 'n aanmerking op die aanskouelike rede vir sy rowery, smeek hy vir iets om te eet, alhoewel hy, sowat 'n uur van te vore, op 'n goeie ontbyt trakteer is."
+ Mej. Bleek vertel vir die skrywer dat die Boesman in sy taal nie minder as vyf werkwoorde het om te beskrywe hoe dik hy hom geëet het nie, en ons kry dus alweer hulp van die filoloog in ons poging om die eetvermoë van dié mensies te besef.
+
+ ONREINIGHEID.
+Maar selfs met hulle enorme kapasiteit, as die dier groot is, en die famielie klein, spreek dit vanself dat die Boesman in die somer werklik wedywer met die aasvoël, nie alleen in die skerpte van sy oë nie, maar ook in sy smaak vir geurige kos. En as die geur van die sterkruikende aas hul nie verhinder om dit tussen hul lippe te sit nie, moet ons ons ook nie verwonder as die teenwoordigheid van 'n Boesman dikwels deur die neus te bespeur is voordat die oog hom sien, want hul het hul lyf met vet besmeer, en 'n Boesman sou nie somaar goeie eetbare vet gebruik nie! Op die vet kom dan stof, as, of op feesdae, rooi of ander kleur verf. En, was? Nee, dit was by die Boesman 'n onbekende iets. Fritsch in sy behandeling van die huidkleur van die ras, gee vir ons terloops 'n goeie idee van hoe vuil hul was. Hy bekla die moeilikheid wat 'n mens het om die ware kleur te sien, want die huid lê onder 'n dik laag vuil. Maar gelukkig, sê hy, kom daar darem water op hul huid as hul deur 'n rivier moet gaan, en met die natuurlike werking van die huid, skilwer die stof ook af, sodat daar hier en daar 'n min of meer skoon kolletjie sigbaar word totdat hul hul weer smeer.
+Maar miskien is die beste aanhaling nog die naïewe manier waarop Campbell vertel van hoe hulle sy raad ontvang het. Hy sê:
+ "Ek het die Boesmans, wat baie vuil is, aanbeveel om hulle af-en-toe in die naburige vleie te was. Hulle het die idee grappig gevind, maar kon nie verstaan waartoe dit sou dien nie."
+ Later vertel hy ons weer van 'n ander paartjie wat hy ontmoet het, en toe hy vir die man vra wanneer hy hom laas gewas het, bly die hom 'n antwoord skuldig, maar die meid die skater van die lag!
+
+ ONSEDELIKHEID.
+Vuil met hul kos, vuil op hul liggaam, wat moet ons van hul sedes sê? Die beste is dat hulle sedes nie ons sedes is nie. As ons danse maar 'n tiende so erg was as hulle 'Ko-'Ku-curra of fluitjiedans, of die Wysgeerdans, sou geen fatsoenlike Afrikaner na 'n dansparty kan gaan nie.
+
+ KINDERMOORD.
+Kindermoord by hulle was ook niks kwaads nie--'n mismaakte of abnormale kind word vermoor; as die moeder sterwe voordat die kind gespeen is, moet hy dood. Selfs ouer kinders word in die graf van hul moeder begrawe. Campbell vertel hoe Adam Kok twee Boesmanmeidjies, van tien, en twee-en-'n-half jaar, gered het van hulle ouma wat hulle lewendig in hul moeder se graf wou begrawe. Toe sy haar sin nie kon kry nie dreig sy om hulle te vermoor. Ja, die lewe van 'n kind was maar onseker onder die Boesmans in die ou dae, miskien nog meer onseker as die lewe van die Boesman se hond, die enigste dier wat hy ooit makgemaak het--sy enigste lewende hawe.
+As 'n man sy vrou verlaat, vermoor sy die kinders. As twee mans rusie maak, vermoor die verlieser 'n kind of wat van die oorwinnaar om die skuld te vereffen!
+En hul oumense het ook maar swaar gekry. As hulle in 'n geveg met man of dier hul doodhou kry, kan hul vir hul maar gelukkig ag; want anders breek die dag so seker wanneer die ou grysaard uitgesleep word om vir wolwekos te dien, of wanneer hy met 'n klein rantsoen agtergelaat word as die span moet trek. Dieselfde noodlot tref hul tog. Mans, ja selfs vrouens sleep op hierdie manier hul moeders uit die grot uit na die kaal veld, en kom terug net so kalm as wanneer hulle van die fontein met 'n volstruiseierdop vol water terugkom.
+
+ MOORD EN DIEFSTAL.
+En dit het alles plaasgevind toe Boesman alleen 'n onverdeelde Suid-Afrika besit het. Toe hy sy eie mense moes vermoor as die moordlus in hom begin opwel; maar toe ander rasse begin inkom, en 'n nuwe soort "wild" (d.w.s. skape en beeste) op sy jagterrein verskyn het, was daar nuwe mense om te vermoor, en nuwe redes daartoe. Na die witman se aankoms was dit eers die Hottentotskaapwagter wat hul vermoor het om die vee in die hande te kry. Die geliefkoosde wyse was om sy kop in te slaan terwyl hy slaap, sê Fritsch, en al die ou reisigers vertel van moord van die wagters en steel van die vee. Maar hulle het nie alleen wagters vermoor nie, ook loslopende mense, soos onder ander, een van Lichtenstein se bodes. Hoe erg hulle by die begin van die neentiende eeu was, kan 'n mens besef as jy die dagverhaal van die reisigers van daardie dae lees, en merk hoe dikwels hulle, selfs in die kort tydjie van die duur van hul reis, iets van moord en diefstal van die Boesmans te sê het. En hoe langer die stryd aanhou, hoe wreder word die Boesman. Dieselfde Barrington al vroeër aangehaal, vertel hoe hulle 'n Hottentot begrawe het sodat sy kop net uitsteek, en hoe hy die hele dag lank die kraaie moes wegja met kopbeweginge. Gelukkig is die Hottentot die aand nog gered.
+
+ MISHANDELING VAN DIERE.
+En met vee wat hul gesteel het, het dit ook maar sleg gegaan. Soos Mentzel sê, die Boesman wil nie, of weet nie hoe om, vee op te pas nie, om hulle te laat wei en vermenigvuldig nie, en so moet die gebuite vee maar daar bly totdat die Boesman en die roofdiere van hul skoonveld gemaak het! En as die Boer die verlies merk, en die Boesman agtervolg en inhaal voordat hy by sy kraal kan kom, beseer die Boesman eers die vee voor hy hul verlaat, en vlug om die veiligheid van sy eie vel te verseker. Dié onnodige, doellose, wrede behandeling van die stomme diere het die Boere baie vererg.
+Die getalle vee wat gesteel is, word dikwels aangehaal deur die ou reisigers, maar gewoonlik is daar so min bygaande feite gegee dat die blote syfers nie veel waarde het nie; maar Lichtenstein getuig van grensboere wat verplig was om hul plase te verlaat weens die rowery en moor van die Boesmans. Joachim, Baron van Plettenberg, ook, 'n vyf-en-twintig jaar vroeër, bespreek ernstig of seker distrikte of grense al dig genoeg deur die Blankes bewoon is om dit veilig teen die Boesman te maak. Die feite spreek baie meer duidelik as onvolledige statistiek.
+Daar het u 'n beeld van die Boesman soos die Koloniste van 'n anderhalf eeu gelede hom geken het--die vuil dief, die onsedelike moordenaar, bewoner van 'n vuil grot, met die wêreld tevrede as daar net genoeg vleis, heuning (vir karrie) en dagga (of tabak) by die hand is. "Das unglückselige Kind des Augenblickes" soos Fritsch hom beskrywe, byna sonder enige idee van spaarsaamheid of voorsorg--kortom, 'n knaende iets wat nie saam met die beskawing van die Blankes kon bestaan, en ook nie daarmee ingelyf word nie.
+Vandag is hul binne die grense van die Unie feitlik uitgesterwe. Alleen die wrede woestyn het 'n vriendelike hand vir hul uitgestrek, en in sy boesem ontvang; en daar, waar Witman nie kan woon nie, bestaan die laaste klompie van die volk wat eenkeer 'n groot deel van die hele wêreld besit of bewoon het.
+
+ UITROEIING VAN DIE BOESMAN.
+En hoe is hulle uitgesterwe? Uitgeroei deur die koeël van die Blanke! Die geskiedenis van daardie moord is nie plesierig vir ons Blankes om te lees nie, noudat ons nie die skade wat die mense veroorsaak het, kan voel nie. Gruweldade was daar in oorvloed! Die Blankes het maar hier te werk gegaan soos in Australië en ander lande waar Europeane 'n lae ras kleurlinge tref, ja, soos hul twee- of drie-en-twintig jaar gelede weer in die Langberg gedoen het. Ons kan maar herhaal wat Mark Twain, in sy ligsinnig geuite, maar raak en fyn-uitgedagte sinne geskrywe het in sy skets van die verhouding tussen die eerste Australiese Koloniste en die inboorling:
+ "More promising materials for a tragedy could not have been gathered together."
+ En soos dit in Australië 'n treurspel afgegee het, het dit hier ook maar 'n treurspel afgegee. Vir ons doel is dit gelukkig onnodig om in besonderhede in te gaan. Dit is politieke en nie kultuurgeskiedenis nie, en 'n donker geskiedenis met maar weinig ligstrale daarin; maar daar dit tog die uitwerking is van 'n stryd tussen die kultuur en beskawing van die Blanke teen die beskawing en kultuur van die Sonqua, om hom sy deftige naam te gee, sal dit miskien toepaslik wees om twee uittreksels te gee uit die werke van twee Engelse skrywers voordat ons die gordyn laat sak op hierdie onaangename tonele in die geskiedenis van ons land.
+ "Is it not the fate of the savage and uncivilized on this earth to give way to the more cunning and the better informed, to knowledge and civilization? It is the order of the world and the right one: nor will all the lamentations of a mawkish philanthropy, with its more absurd or censurable efforts, avail one jot against an order of things as wise as it is assuredly established."--[Sir John Ross--Narative of a voyage in search of a Northwest Passage--1835, bds. 257.]
+ Sprekende oor die uitroei van die Tasmaniërs, sê Sollas in "Ancient Hunters and their modern Representatives":
+ "It is a sad story, and we can only hope that the replacement of a people with a cranial capacity of only about 1200 c.c., by one with a capacity of nearly one-third greater may prove ultimately of advantage in the evolution of mankind."
+
+ DIE SAAK VAN DIE BOESMAN SE KANT BESKOU.
+Die beskuldigde het voorgekom, en ongehoord, is hy ter dood veroordeel. Dit help nie nou om sy pleidooi op te stel nie, sy bene, deur die aasvoëls skoongevreet, is al lankal vergaan; maar om die toestand van die jagterras beter te verstaan, is dit goed om ook die saak van hulle kant te bestudeer.
+Hulle was vuil, ja, gewis; maar is dit 'n rede waarom hulle moes uitgeroei word? Hulle was nie kieskeurig wat hulle ete betref nie, maar waarom moet hulle as 'n lekkerny vir die aasvoëls opgedis word? Hulle bure, die Hottentotte, was maar net so vuil. Die ingewande van diere, effens skoongemaak en opgeblaas het hul gedien as sieraad om hul enkels en as beskerming teen slange. Die toestand van die halfskoongemaakte versieringe na 'n paar dae kan die geagte leser vir homself maar voorstel. En as meneer Hottentot miskien 'n rukkie daarna hongerly, eet hy sy enkelbande maar op! Is daar veel te kies tussen die Boesman en Hottentot wat reinheid betref?
+En bestaan daar nie 'n goeie rede vir die laag stof wat die Boesman oor die huid gedra het nie? Soos Jonkvrou Augusta Uitenhage de Mist, dogter van die Kommissaris opmerk, het dit gedien as 'n beskerming teen die steek van insekte, en Ratzel vertel ons van die inboorlinge van Australië wat dieselfde mode gevolg het, met die resultaat dat alleen na die koms van die Blanke, en na hulle die liggaam begin was het, hulle nader kennis gemaak het met seker intieme wesentjies waarmee die Afrikaner in die Engelse oorlog ook in baie nou aanraking gekom het.
+So verwyt mense ook die Boesmans omdat hulle nie huise gebou het nie, nie bedde gehad het nie, maar in neste in die grond soos volstruise geslaap het; maar hulle moet darem daarby voeg wat die Boesmans sê, naamlik, dat van die Blanke in die land gekom het, hulle nooit met hul voete onder die karos geslaap het nie, en met die uitbreiding van die vervolging van die Boesman deur die Blankes, die arme Barbaar later verplig was om sy woning so eenvoudig, en soveel molik na 'n bossie te laat lyk, sodat dit nie die aandag van sy beskaafde vyand moet trek nie. Kortom, het hy gebruik gemaak van die kuns nou weer deur die Franse ontdek: "camouflage."
+Sedelikheid is maar relatief. Hoe onsedelik moet ons dames by 'n teater of bal nie lyk vir die Slamse vrouens wat net hul oë voor die publiek ontbloot! Vir ander rasse is die mond iets onsedeliks wat moet bedek word, en hulle beskou dit as 'n bewys van 'n betreurenswaardige gebrek aan opvoeding as iemand, voor ander, kos in sy mond sou neem! So is dit ook in die geval van die Boesman; ons noem onsedelik alles wat nie pas by die sedes van ons kultuur nie, en dit is ook moeilik om van enige ander standpunt die saak te beskou. Van ons oogpunt egter, moet ons erken dat die Boesman baie minder onsedelik is as ander inboorlinge in Suid-Afrika, en selfs as die grootste meerderheid van inboorlinge in die hele wêreld.
+Die moord van suigelinge, ouder 'n jagterstam soos die Boesman, na die dood van die moeder, is nie 'n bewys van wreedheid nie. Hulle had geen meelbol of ander spesiaal vervaardigde kinderkos nie. Hulle had nie gomelastieke tepels en bottels nie. Was die moord van die suigeling nie die gouste en genadigste einde aan die lyding van die kindjie nie? En die verlaat van die oumense is 'n verstandige opoffering van die indiwidu vir die hele stam, wat by alle jagter-rasse gevind word. Die oues bring nie alleen niks in nie, maar is nog bo-op 'n hindernis en 'n las wat die werksaamhede en beweeglikheid van die stam strem, nog te meer as deur droogte of wat ook al, die wild trek en hul agterna moet volg.
+Van die begrawe van die ouer kinders in die graftes van hul moeders is daar nie 'n goeie ekonomiese rede te vinde nie. Tot dusver, egter, is die skrywer nie oortuig dat dit algemeen onder die Boesmans was nie, en het ook niks gevinde wat hy as die rede kan aannneem nie. Molik het dit 'n godsdienstige sy, iets in verband met hul Geloof, wat ons later weer sal aanroer. Maar terwyl ons met die moord van famielielede besig is, is dit miskien nuttig om een uit honderde gelykstaande feite aan te haal, om die regte perspektief te kry in verband met die onderwerp. Omtrent die helfte van die kinders van die Australiese inboorlinge is vermoor by hulle geboorte deur die moeder wat 'n skerp houtpen deur die oor, in die babetjie se brein slaan, en hoe meer van haar eie kinders 'n vrou vermoor, hoe hoër staan sy in die samelewing!
+Vir die moord van skaapwagters en steel van vee is dit amper nie nodig om die Boesmans se sienswyse te gee nie--die rede is so duidelik. Lank voor die koms van die Blanke was die Boesmans al baas in Suid-Afrika: die hele land was sy weiveld, en die wild, sy vee. Elke stam of famielie het sy eie jagterrein gehad en 'n oortreding van die grense daarvan deur 'n ander stam het oorlog veroorsaak. En toe kom die veeboer--Hottentot, Bantoe, of Boer--en neem besit van sy fonteine, jag op sy terrein, en laat die vee daarop wei. Van die Boesman se staanpunt, is dit 'n oortreding van sy wet, van die wet van die land. Soiets moet gestraf word, en dit ook volgens die wet van die land. 'n Oog vir 'n oog, 'n tand vir 'n tand sê die wet van Moses--diefstal vir diefstal sê die Boesman: "Jy het my water gesteel, my boerdery omvergegooi, ek sal jou daarvoor beboet, en as dit nodig is om jou skaapwagter dood te maak om my vonnis uit te voer, wat daarvan?"
+Daar is verskillende vermoedelike redes waarom die Boesman die vee mishandel het by 'n onsuksesvolle strooptog, maar dit is moeilik om te weet wat die regte doel was. Was dit maar die kinderagtige weerwraak wat 'n mens ook sien in die beweerde moord van die oorwinnaar se kind na 'n stryd? Is dit dat hulle gehoop het om ook na 'n paar dae van die vleis van die verlate diere te kom eet? Of is dit werklik die uitwerking van 'n vaste idee om die vee, d.w.s. die bestaan van die blanke, uit te roei, en dit daardeur vir hom onmolik te maak om dit daar uit te hou? Wat ook al die rede is, soas al gemeld, het dit in baie gevalle dié gevolg gehad.
+Dat die Boesman nie oneerlik is nie, maar alleen 'n ander idee van eerlikheid had, is al lankal bewys. Onder die eerste Koloniste wat dit ingesien het, en die feit in 'n pleidooi vir die Boesmans gebruik het was Ds. A. Faure. Die grensboere in die ou dae het dikwels hul kuddes aan Boesmans toevertrou om hulle in Boesmanland te laat wei, en altoos is die vee veilig teruggebring. Soos Mnr. Smit van Dasfontein naby Beaufort, 'n man wat van kindsbeen die Boesman en sy taal geken het, vir Campbell in 1820 gesê het, en soos Mnr. E. B. Watermeyer vandag ook konstateer, kan jy 'n Boesman vertrou met alles wat jy formeel in sy sorg plaas, maar wat opgesluit is, of wat aan die buurman behoort, is nie veilig nie.
+
+ GODSDIENS.
+En soos sy idee van eerlikheid 'n verdraaide was vergeleke met ons ideë, so was dit ook met hulle Geloof of Godsdiens of wat gewoonlik by sulke primitiewe rasse godsdiens heet.
+Die meeste outoriteite beweer dat die Boesman glad geen godsdiens, of glad geen idee van 'n Opperwese had nie; maar daar is veel feite wat nie maklik te verstaan is as dit werklik waar is. Om hieroor 'n duidelike begrip te kry, is dit nodig om eers te besluit wat ons verstaan deur godsdiens. As dit 'n geloof is in bowenatuurlike wesens, en in 'n lewe of iets na die dood, dan het die Boesmans ongetwyfeld van godsdiens iets af geweet. Bestaan godsdiens in die geloof aan een enkele Almagtige Opperwese, dan het daar geen Boesmangodsdiens bestaan nie. Maar om 'n geloof aan een God te soek onder die Boesmans wanneer die Grieke selfs met al hul ontwikkeling nie die begrip gehad het nie, is dwaas.
+Hier weer voel die skrywer die onrypheid van sy behandeling van die onderwerp, en hier weer is 'n deel van die kultuur van die Boesman wat 'n aparte lesing vra. Die materiaal is nie alles vertroubaar nie, en lê so ver versprei, dat dit maar partykeer moeilik gaan om, soos die jong in die ou storie, die agterpoot en die oor bymekaar te kry. En daar bly ook altyd die gevoel by 'n mens dat by die volgende bron wat jy insien, jy iets sal vind wat jou ideë geheel en al omvergooi, en wat dit nodig maak om heelwat dood te krap wat jy op 'n vroeër geleentheid geskrywe het. Met hierdie verder waarskuwings en aanmerkings in die oog, laat ons maar na die Geloof van die Boesman terugkeer.
+Mejuffrou Bleek beweer ook dat die Boesman geen God, en dus ook geen naam vir hom had nie. Daar was wel bowenatuurlike wesens wat hul gevrees het, waarvan die meesgevreesde miskien die Reen of Reenbul [5] was; maar uit wat sy sê, lyk dit asof dit nie soseer die reen, maar meer die droogte is wat hul gevrees het. "As jy so en so doen, of sê, dan kom die reent nie!" het hulle mekaar gewaarsku. Sal dit nou 'n geloof wees wat hul met hul saamgebring het uit die Noorde, of is dit iets wat hul hier in ons dorre streke opgedoen het?
+In die Noorde vind ons sonaanbidders, maar sover die skrywer weet is daar nie in die hele Suid-Afrika een enkele stam of ras inboorlinge wat die Son as die hoof aanbid nie, terwyl vir almal die maan die plaas van die son min of meer in hul godsdiens inneem. So het die Boesman nou ook die maan en sterre aanbid. Op so weinig getuienis as die skrywer het, durf hy nie 'n teorie baseer nie; maar vra is vry. In kou, nat Europa is die son altoos 'n ding van vreugde; maar tussen die keerkringe, of op ons dorre Karo, is dit die koelte dikwels wat 'n mens soek. In Europa is daar rede vir sonaanbiddery; maar sal 'n volk wat met so 'n geloof 'n trek begin en 'n duisend jaar miskien in die nabyheid van die ewenaar vertoef nog altoos aan die ou geloof vashou? Is dit nie redelik om te vermoed dat die heerlike koel maanligaande hul sal verlei nie, en dat die valse maangodin hul sal oorwin nie? Die Boesman het vir Dr. Bleek vertel dat hul hulle oë toemaak wanneer hulle die sterre aanbid. Is dit nog 'n oorblyfsel van die sonaanbiddery? Fakkels word ook gebruik in hul gebede, en in hul folklore vind 'n mens ook die idee van wierook.
+In bose geeste, towery en paljas het hule vas geglo, ook in die Reenbul.
+Stow beweer dat hul die Hottentotsgot, en ook 'n ander rispe aanbid het, maar alhoewel dit waar mag wees, moet ons daardeur nie verstaan dat dit vir hulle heilig was, of dat hul selfs soveel eerbied daarvoor getoon het as die Bantoe vir sy "Siboko" of die Australiër vir sy "totem" nie; want hulle het nie omgegee om die insekte te vang, en dood te maak nie. Dat daar iets geheimsinnigs was in verband met die Hottentotsgot of !Kaggen soos hul hom noem, was hulle van seker, soos die stories van die diertjie getuig, maar die mees treffende gebed wat die skrywer nog van hul gelees het, is die gebed aan die ster Canopus, 'n ster wat in die koudste deel van die jaar net kort voor sonop opkom. En die Boesman bid dan vir die ster om hitte in die son te sit! Daar is ook ander pragtige stories van Gode en Godinne, soos die van Goha en Ka wat Makoon 'n Boesmankaptein vir Campbell vertel het, maar dit kan ons nou nie ondersoek nie. Vir al die Gode het hul om kos gebid--om hul te wys waar die miereiers die sogenaamde Boesmanrys te vinde is, of vir wild, of vir sekerheid by hul pylskiet.
+Makoon, dieselfde Boesman wat vir Campbell die storie van Goha vertel het, het hom ook vertel dat hy nie in 'n lewe na die dood glo nie, maar dat as 'n mens doodgaan, jy heelternal dood is. Uit wat ander Boesmans weer sê, sowel as uit hul gedigte, is dit weer duidelik dat hul wel in 'n toekomstige lewe glo. En hul folklore-stories is net so teenstrydig; maar dat daar darem onder hul 'n geloof is dat daar iets anderkant die graf lê, is taamlik seker. Soos die ou Palaeolietiese man, en baie ander barbare, het die Boesman die gewoonte gehad om 'n lid van 'n vinger (gewoonlik van die pinkie) af te sit. Die ware betekenis van die afsit is moeilik om agter te kom. By seker volke het dit duidelik iets met die huwelik te doen, by ander word dit deur die towerdokter vir geneeskundige doeleindes aanbeveel. Dan is dit weer 'n offerande aan die bose geeste in geval van epidemies; ook word daar by die begrafnis van die hoof van seker volke 'n getal vingerlitte met die grootman begrawe, min of meer soos baie volke weduwees en ander famielie van 'n man saam met hom die ewigheid vir geselskap instuur. Waarom volg die Boesman die gewoonte? Barrington beweer dat die Boesmans dit gedoen het om van siektes ontslae te raak, en Mejuffrou Bleek vertel die skrywer dat in die ongepubliseerde materiaal deur haar vader en Mejuffrou Lloyd versamel, daar 'n storie voorkom wat dieselfde rede gee. In die "Bushman Folklore" van Bleek en Lloyd, word vertel dat die mans die eerste lit van die regterpinkie, en die vrouens die van die linkerpinkie afgesit het, maar daar word geen rede gegee nie. Stow beweer weer dat die rede is dat hul na hul dood baie kos sal hê op hul reis na 'Too'Ga, die vergaderplek van die oorledene. As Stow se bewering reg is, kan daar geen twyfel bestaan dat hulle in 'n lewe na die dood geglo het nie.
+Die vroeër genoemde mnr. Smit van Dasfontein het ook vir Campbell vertel dat die lyke begrawe word met die oorlede se wapens aan sy sy, sodat hy hom na sy opstanding weer kan verdedig, en kos verkry; maar as die oorledene onpopulêr is, begrawe hul hom sonder wapens.
+Sir George Keith (1819) in die beskrywing van sy reis na Suid-Afrika, vertel dat na die dood van 'n vriend hul sy gees aanspreek, en beledig hom omdat hy hul so vroeg verlaat het. Hy kon mos, sê hul, nog 'n bietjie by hul vertoef het. Livingstone vertel weer dat by 'n seker Boesman-begrafenis die vriende die dooie aanspreek en hom beleef vra om nie kwaad te wees nie al wil hulle (d.w.s. die vriende?) nog 'n tydjie op die aarde bly.
+Die paar aanhalings is vermoedelik genoeg bewys dat die Boesmans nie geglo het dat met die dood alles eindig nie.
+Daar is ander interessante feite in verband met die godsdiens wat baie aanloklik is om na te gaan, maar die skrywer is huiwerig om op die oomblik enige gevolgtrekkinge te maak, en lê die feite maar voor soos hy hul gevind het. Almal wat met inboorlinge gewerk het, weet hoe lief hul is om maar, ja, te sê op alle vrae wat hul nie goed verstaan nie, en hoe moeilik dit is om die waarheid te leer. Daarby moet 'n mens nog rekening hou met die feit dat die Boesman al jare in aanraking met ander stamme gewees het, en daarom moet ons ook voorsigtig wees met ons gevolgtrekkings gebaseer op die informasie deur later skrywers verskaf. Die sendelinge het ook aan die Boesmans gearbei, en by die oorweging van die Boesmanstories moet hulle invloed ook in die oog gehou word. Wat die invloed van die sendeling was, het die skrywer nog nie genoeg bestudeer nie, maar die volgende uittreksels word voorgelê, en as hulle verteenwoordigend is, was die invloed van die sendelinge maar gering.
+Kircher het in 1799 probeer by Zakrivierspoort om die Boesmans te bekeer. Hy het die heiden leer bid in 'n vreemde taal met die hoop dat hulle later sou verstaan; maar die getrouheid aan die godsdiens het geduur net solank soos daar slagskape in die sendeling se kraal was, en nie 'n dag langer nie.
+Campbell het omtrent net so te werk gegaan. Soos die storie lui, het hy eenkeer, blykbaar by 'n uitspan, twee Boesmanmeide uitgenooi en begin om hul te bekeer--hoe? Dit is byna ongelooflik, maar nietemin waar. Sy eerste stap was om hul die alfabet te leer! 'n Mens is verplig om hier Campbell se eie woorde aan te haal:
+ "... two of the women persevered in attempting to learn the alphabet till one of them knew half the letters. I left two Hottentots as their instructors, but they soon returned to the waggons saying their scholars had fled to the hills."
+ Selfs in die stad waar 'n sendeling hom vestig, was sy invloed in daardie dae nie besonder sterk nie. Campbell vertel van die siekte van Matabee, 'n Betjoeana-kaptein. Hy het gemeen dat dit die towery van 'n Boesman is, en laat 'n Boesman en 'n Betjoeana-dokter roep. Toe hy gesond word, word dit publiek aangekondig dat die medisyne van albei hom goed gedoen het, sowel as die medisyne en gebede van die sendelinge. Geskenke is toe aan altwee dokters gegee, maar die sendeling kry niks.
+Hoe min simpatie Campbell met die volkie gehad het blyk uit die volgende aanhaling. Hy (Campbell) het 'n Boesman se lewe gespaar; daaroor, sê Campbell, was die Boesman bly, iets wat vir ons almal maklik te verstaan is, maar nie vir Campbell nie: hy moes eers byvoeg die rede: "Life is precious even to a Bushman!" Nog een aanhaling om die verhouding tussen Boesman en Sendeling te wys, en weer moet ons Campbell se eie woorde gee. Dit was by Ramah, nou in S.W. Vrystaat waar hy die Boesmankaptein Kiewiet besoek het.
+ "I spoke to him of God, and his soul, and eternity; but he seemed quite indifferent about these subjects, making no reply, and asking for a tinderbox."
+ Met die voorafgaande waarskuwings en aanmerkings, kan die skrywrer nou die volgende twee stories voorlê, en dit aan die geagte lesers oorlaat om hul eie gevolgtrekkings te maak uit die wonderlike ooreenstemming van die een met ons idee van die Drieëenheid, en van die ander met die dood en wederopstanding van Kristus.
+Stow vertel dat die kruis enkel, of in groepe van drie, 'n ou Boesmanteken is, en van besonder nut by die behandeling van siek mense; ook dat daar drie groot kapteins bestaan: !Kaggen, Kogas (sy seun) en 'Qwanciqutchaa. Hulle is almal groot en magtig, maar !Kaggen het beheer oor hul almal en gee sy bevele deur die ander twee.
+Uit Bleek en Lloyd se Bushman Folklore kom die volgende baie verkort. Kogas die seun van !Kaggen gaan stokke haal (waarskynlik om 'n boog en pyle te maak) vir sy vader om die mense-wat-op-hulle-hakke-sit, mee te beveg (d.w.s. die bobejane toe hulle nog mense was). Nadat hulle die saak lank bespreek het, kom hul dit agter en slaan vir Kogas sodat sy oog uitspring en hy self sterwe. Toe speel hulle met die oog bal-bal. En !Kaggen sien dit en is so ontroerd, dat hy huil. Na 'n rukkie staan hy op en gaan na hul toe; maar eers dro hy sy oë af. Toe speel hy saam, en met behulp van 'n bietjie goëlery steel hy die oog van hulle, en gooi dit in die water waar na 'n paar dae die seun Kogas weer aan die oog gegroei het, en splinternuut weer uitkom.
+
+ DIE JAG.
+Van 'n bespreking van hulle godsdiens, keer ons nou na die meer materialistiese sy van hul lewe, en die eerste wat ons moet bespreek is natuurlik hulle nering en hulle lewensmiddele. Die honger beheers die wêreld, en totdat die barbaar iets gedoen het om die inwen van sy kos effens te vergemaklik, sal ons tevergeefs soek na kuns of 'n estetiese lewe. Die Boesman was 'n jagter; sy hele lewe het afgehang van die wild wat sy vee was, en ons kan nie dankbaar genoeg wees vir die eerste Boesman-voorvader wat die pyl-en-boog ontwerp het, en vir al sy nakomelinge wat met hul vernuftigheid al die ander kunsies uitgevinde het nie, sodat die kunstenare van die ras tyd had om te droom, en ons van hul verskillende kunswerke iets na te laat. Sy kennis van jag en sy metodes is dus van belang vir ons, want dit vind ook 'n weerkaatsing in sy kuns.
+As ons "jag" in sy wydste betekenis aanneem as kos soek, het die Boesman se jagkunde bestaan uit kennis in verband met die insameling van eetbare bolle (selfs as die blare al verdwyn het) van miereiers of Boesmanrys (d.w.s. die larwe van die miere) van insekte, van heuning, vis, en wild van alle groottes tussen 'n muis en 'n olifant.
+Hier is daar weer 'n interessante studie--die jagmetodes van die Boesman, en alles wat daarmee samehang. Die eerste wat 'n mens sou merk as jy met 'n Boesman gaan jag, sou sy wonderlike skerp gesig wees. Ons sal later weer op hierdie punt moet terugkom, maar om hier aan te toon hoe skerp sy gesig was, afgesien van sy veldkennis wat dikwels sy gesig gesteun het, moet ons hoor wat Lichtenstein sê van 'n seker Boesman, ene "Flamingo," wat Generaal Jansens met hom na Europa geneem het. Hy sê dat die Boesman se gesig so skerp was, dat hy op die reis dikwels skepe van die dek gesien het wat die matrose, selfs van die mastoppe met hul vêrkykers amper nie kon raaksien nie! Bye in die vlug het hul gevolg, en op die manier die byneste gevind. Von Wielligh vertel ook van 'n ander manier waarop hul die rigting van die neste ontdek het. As 'n nes dan gevind is en dit hoog in 'n kransskeur sit, beklim hul die krans, indien nodig, met behulp van penne wat hulle inslaan, of anders kom hulle van bo af met behulp van lang rieme.
+Die twede punt wat 'n blank jaggenoot van 'n Boesman sou merk, is sy wonderlike, byna geheimsinnige, kennis van spore. Vir hom was spoorvolg so maklik soos brieflees vir ons. Baie van die hedendaagse skrywers beweer dat die wild altoos kort na 'n gifpyl hul tref, gevrek het; maar die rede van hierdie bewering hoef ons nie nou te bespreek nie. Dit kan bewys word dat dikwels, (waarskynlik met die grootste wild) dit ure en ure geduur het voor die dier gaan lê, maar die Boesman het so 'n dier nie dadelik gevolg nie--hy het gewag tot dit tyd was vir die gif om te werk, en toe die spoor afgeloop--deur al die duisende spore van dieselfde soort dier! Die betekenis van die spoor en sy verhouding tot die dier of mens self leer ons uit die geloof van die Boesman dat, as ons sterwe, die wind kom en ons spore wegneem--"anders sou dit nog lyk," sê hulle, "asof ons nog lewendig is."
+Ja, die Boesman kon "loop en lees"! 'n Boesman kon te voet spoorvolg, en by berede Blankes hou! En sy spoed is iets om te bewonder. Wat nou die "record" sal wees, weet die skrywer nie, maar onlangs hoor hy uit 'n geloofbare bron dat 'n Boesman tussen sononder en sonop 48 myl afgeloop het, en die oggend na die werk kom sonder om te wys dat hy iets besonders gedaan het of 'n slaaplose nag gehad het; en ook uit dieselfde bron, van 'n ander Boesman wat weer tussen 4 uur v.m. en ongeveer 8 uur namiddag, 84 myl geloop het; en dan nog kla dat hy vroeër sou teruggekom het, maar die Baas het nog na die ete gaan slaap voordat hy hom die antwoord wou gee! Bleek en Lloyd se Boesmans vertel hoe hul lewendige (d.w.s. sonder wonde) wild ingehol het. Verbeel jou 'n springbok of 'n hasie inhol! Uit genoemde stories blyk dit dat een man 'n hasie kon inhol, maar wat meer waarskynlik is, is dat 'n partytjie saamgewerk het, en mekaar afgelos het soos Fritsch dit ook beskrywe. Fritsch, soos enige man wat oor die Boesmans skrywe moet doen, het taamlik baie aggegee op die jag, en sy opsomming van die onderwerp is goed. Die skerpte van die sintuie van die Boesmans, sê hy, en in die besonder van hul oë, is hulle tot groot nut gewees, maar dit maak nie vir hom 'n jagter nie; daarby is daar sy skranderheid en sy slimheid wat hom lei om alles aan sy doel diensbaar te maak. Hy het vernuftige valle en vangmetodes uitgedink om die wild in sy hande te kry wat baie van die ander inboorlinge nie eers kon naäap nie. En dan moet ons Fritsch se eie woorde hoor:
+ "Er kennt die Gewohnheiten der Thiere auf's Genauste und mit eiserner Geduld lauert er am bestimmten Ort auf seine Beute und fühlt nicht Hunger, Durst, oder Hitze, solange noch eine Hoffnung auf Gelingen vorhanden ist."
+ Oor die valle wat Fritsch van skrywe, is dit onnodig om nou verder te spreek; maar daar is een vangmetode wat by hulle so algemeen was, en met soveel variasies toegepas is, dat dit die moeite werd is om dit te ondersoek. In beginsel bestaan die metode uit 'n seker gevaarlike sentrum, en 'n tregter om die prooi op genoemde punt te konsentreer. Die gevaarsentrum bestaan miskien uit 'n vanggat, of 'n groepie skutters, of in die geval van vis--uit 'n mandjie, spesiaal ontwerp en gevleg vir hierdie doel. Die tregter bestaan uit klipmure, of uit ander jagters met veel strategie op seker punte geplaas, of uit 'n ry stokke met koppe van met-rook-deurtrokke volstruisvere, of in die geval van die visvang, uit 'n damwalletjie dwarsdeur die rivier gebou. Die prooi word dan aangeja na die bek van die tregter en by die tuit gedood.
+Die vanggate van die Boesmans is ook iets wat ons aandag trek. Campbell vertel van 'n groep van twaalf gate wat hy gesien het in die vorm van 'n halfmaan 20 voet lank, 10 voet wyd, en 5 voet diep in die grond gegrawe, met twee rye kleintjies in die middel van elke put. Dit is byna ongeloofbaar dat die Boesman dit met hul 'kibie-stokkie kon gemaak het.
+Toe die ander rasse Suid-Afrika ingetrek het, en die Boesman in sy jagtery gestrem het, het hulle by die weerwraak van die Boesmans 'n ander merkwaardige kuns van die dwergies ontdek, naamlik dat die Boesman hom so goed kon wegsteek en vermom dat jy byna op hom kon trap voordat jy hom sien. Dit was werklik 'n groot kuns van die Boesman. Met 'n graskroon op sy kop, was hy in die gras onsigbaar; met 'n kop en vel van 'n dier oor sy lyf en sy kort bene deur die gras bedek, het hy wild bekruip. Hy het dit nie gewaag om diere te bekruip wanneer hy soos een van hulle vermom was nie, maar altoos wanneer vermom soos 'n diersoort wat gewoonlik met hul saamwei--met een uitsondering alleen, sover die skrywer weet, naamlik in die geval van die volstruis. Is dit omdat die voël so vreeslik dom is, so min harsings het in verhouding met sy groot liggaam?
+Maar vermom soos stof of gras, of dier of voël, het hy met sukses sy vyand of prooi bekruip, en het ook geweet hoe om selfs sy vermomde lyf weg te steek. Baie Boesmans is voorsien van gelaatstrekke so plat dat 'n plank tegelykertyd ken, lippe, neus, wange, en voorhoof kan raak, terwyl die uitpuilende oë nie ver van die plank sal sit nie. Uit die vorm van sy kop het die Boesman ook voordeel getrek, want, volgens Stow, as hy wild bekruip, en wil sien hoe dit voor lyk, lê hy plat op sy rug met sy voete na sy prooi en lig sy kop dan net so hoog op dat hy oor sy wange kan sien wat hy wil sien. As hy so lê, is sy oë (sy periskoop) feitlik die hoogste deel van sy kop, en alles te same is daar nie een vierkant duim oppervlakte van sy kop te sien nie.
+As hy naby genoeg aan die prooi kom, los hy 'n gifpyl. Sy boog is maar klein, sy pyltjie so lig, dat hy baie naby moet kom voordat hy kan skiet; en dan is dit alleen deur die gif dat hy iets met die wapen kan uitvoer. Die gif is van verskillende soorte--onder ander, slanggif, bolletjies-gif of malkopgif, klipgif, en 'Ngwagif. Die slanggif het hulle uit die gifkliere van slange gekry; die malkopgif van die gif-amarillis (Haemanthus toxicarus); die klip-gif (volgens Fritsch) van seker bolle wat tussen die rotse groei. Maar die giftigste van almal is die 'Ngwagif van die ingewande van die 'Ngwa, 'n seker soort rispe of wurm gemaak. Al die verskillende gifte is gemeng met een of ander soort harpuis van 'n norsboom versamel, en dik gekook, sodat dit maklik op die pyl kan gesmeer word. Soos 'n skilder, nou hierdie, dan weer daardie penseel gebruik, of 'n kolfspeler nou die, nou daardie stok kies, so het die Boesman ook vir verskillende doeleindes verskillende gifpyle uit sy koker uitgesoek. Klein wild is gou dood, selfs met 'n swak gif; groot wild, en leeus het sterker gif nodig, maar die sterkste is nodig om die volstruis te dood.
+Die uitwerking van die aparte soorte gif was ook anders: die een het meer op die senuweegestel gewerk--die malkopgif--die ander het weer 'n "septiese" wond veroorsaak. Die dood volg gewoonlik binne twaalf uur van dat die man of dier deur die pyl getref is.
+Gewoonlik dra die Boesman sy pyle onderstebo in sy koker, maar as hy 'n geveg tegemoet gaan, dan dra hy die pyle in 'n band om sy kop waar hy hul maklik kan by, en dan kan hy, sê hulle, tot drie pyle in twee sekonde skiet!
+
+ EIENDOMSBESEF.
+Die maak van die pyle met sy los kop is vir ons doel van belang omdat ons daarin sien hoe die Boesman die giftige pylkop bewerk het sodat dit in die wond kan bly steek, al breek die pylriet af.
+Ook om een ander rede is die pyle vir ons belangryk, naamlik omdat die jagter sy eie pyl met sy eie teken merk; want hier sien ons die begin van skrywe, en ook 'n bewys van 'n vaste eiendomsbesef wat ons graag verder wil ondersoek. Dieselfde beginsel van 'n teken wat aandui dat 'n artiekel aan die of daardie behoort, is te vinde by die byneste wat altoos deur die ontdekker gemerk is as sy eiendom en daarna, soos een Boesman gesê het, soos sy melkkoei word. Kom daar 'n kolonis wat die teken nie sien of ken nie, en die nes berowe, het die Boesman weer 'n klagte teen die Blanke wat hy dan geregtig voel om te berowe.
+Die kos wat 'n Boesman gewen het, was sy eiendom, maar hy was baie gasvry, en het gewoonlik sy kos gedeel onder die ander. Dit word ook bewys deur die skelnaam "Vrot arm" wat hul gebruik om die gierigaard te beskrywe. Die verdeel van kos was so algemeen dat daar spesiale beleefdheidsvorme teenoor die gasheer ontwikkel het, soos byvoorbeeld die terugbring van die bene na die gasheer as die maaltyd oor is. Maar om absoluut seker te wees dat daar 'n eiendomsbesef onder hulle was, is dit nodig om te bewys dat hulle ook koop of ruil geken het, en ook diefstal bestraf het, want dit moet mos met eiendomsbesef gepaard gaan. Uit die vertellinge van Bleek en Lloyd se Boesmans kan dit gelukkig bewys word, want daarin lees ons dat die !Kun Boesmans 'n dief selfs met die dood straf, terwyl ander verhale melding maak van die verruil van goed saggebreide karosse vir rooi-smeergoed en gifpyle. Dit was natuurlik net onder hulselwe. Later, toe hul met ander inboorlinge gehandel het, het hulle, so vertel Mejuffrou Bleek vir die skrywer, velle en heuning vir ysterpylkoppe gegee (meestal heuning). Maar daar is ook 'n ander soort handel wat hul met die vreemdeling en uitlander gedrywe het wat interessant is in verband met die eiendomsbesef, en dit is die grondhandel.
+Toevallig is al die informasie in die verband wat die skrywer tot dusver ingewen het, van aparte bronne, net oor die handel tussen die Boesmans en die famielie Kok. In 1811 (of 12) was daar net een Boesman, Oktober Bailie, op die terrein waar die dorp Campbell vandag staan, en Adam Kok het hom 150 dalers betaal om van die fontein weg te trek. In 1819 het Cornelis Kok weer seker bome afgekap om lande te maak. Die plaaslike Boesman-Kaptein het by hom kom protesteer teen die uitroei van die bome wat vir hom en sy volk in die somer skaduwee verskaf het. As skadevergoeding gee Cornelis vir hom twee osse, tien bokke, en die wins van 'n half boesel koring (d.w.s. ses sakke).
+In die ou dae, toe die Boesmans alleen Suid-Afrika besit het, het elke stam sy eie jagterrein gehad, en geen een kon sonder toestemming op 'n anderman se terrein jag nie. Mejuffrou Bleek vertel vir die skrywer dat dit nie soseer die grond was wat hul besit het nie, maar seker fonteine met al die wild wat by dié fonteine suip. Vergelyk dit met die volgende aanhaling uit Stow se "Native Races of South Africa":
+ "His territory extended from the Zeekoe river to van der Walts, Buffelfontein, and in describing it 'Na 'na 'Kow used to say he drank of the Zeekoe river and of van der Walts fontein."
+ In die Kaapstadse museum is daar seker bewerkte klippe wat as bakens gedien het. By 'n ooreenkoms tussen twee naburige stamme, is die bakens in die fontein gesink om later, indien nodig, as getuigenis te dien by 'n stryery oor die grense.
+Daar bestaan twyfel of die bakenklippe dan Boesman- of Hottentotklippe is. Hahn sê dat die Hottentotte hulle grense by fonteine bepaal het, en die Boesmans alleen by berge, ens. As dit waar is, is die bakens ongetwyfeld Hottentotklippe, maar van wat hierbo aangehaal is, is dit duidelik dat die saak nog verder moet ondersoek word. Ons moet ook nie vergeet dat die fontein as sulks 'n groot rol in die jag van die Boesmans gespeel het nie. Dit was sy lokaas vir die diere in die droogte. Die klein fonteintjies word toegeprop--letterlik met 'n platklip met 'n sponsgat daarin, en by die groot fontein, dan die enigste water in die omgewing, lê hy die wild voor. Die grond dus, of in elk geval die fonteine en die wild wat daar suip, behoort aan die stam, en alle ander artiekels wat arbeid gekos het by die vervaardiging daarvan, kan beskou word as eiendom, tot selfs die smeergoed wat uit die "myn" moet gekap word. So sou daar dan eienare gewees het van die rooi en die swart smeergoed waarmee hul hul gesmeer het, en die groen blinkende erts waarmee die meide hulle by hul feeste gepoeier het; die volstruiseierdop-krale wat hul so mooi gemaak het, en in snoere om hul lyf, nek, arms en gesig gehang het; die klein 'kibie-hangertjies, hul halssnoere van tande gemaak; hul karosse; hul sandale en ander kledingstukke; hul skilpaddop- en volstruisborsbeen-skottels; hul kleipotte; hul mooi versierde volstruiseierdop-waterkraffies; hul been- en ivoorelse; hul gifklip, hul pyl- en kraal-skuurklippe; hul vuisbyle; hul 'kibies, hul maalklippe, hul verf-potjies, hul pensele en palette, hul velsakke, hul pyle, hul boë, hul pylkokers, hul vuurmaak-stokkies; hul fluitjies, tamboere, goura's en ander musiekinstrumente; hul matte; hul eiernette; hul vismandjies; hul oorbelletjies, ens. Die Boesman het baie daarvan gehou om sy lyf te versier, maar nie soveel soos die Bantoe nie. Hy self was nie mooi nie--sy gelaatstrekke het ons alreeds bespreek. Die ander merkwaardige deel van sy liggaam was sy fyn hande en klein voete. Die studie van die liggaamsbou van die Boesman behoort egter nie hier by ons tuis nie wat meer belang stel in sy karaktertrekke en in die ontwikkeling van sy brein.
+
+ BOERDERY.
+Ons reken dat 'n volk die eerste stap in die beskawing gedoen het wanneer hul nie langer bereid is om te neem net wat die Natuur vir hul gee nie, maar wanneer hul daarvan werk maak om die Natuur te help kos lewer. Dit word dan gewoonlik verder uitgelê dat die "hulp" beteken veeteelt of landbou. As dit die toets is, dan is die Boesmans nog laer as die eerste stap, maar as ons reken watter inspanning dit gekos het om die eerste boog te maak, (wat die Australiërs nooit geken het nie) en al die gifsoorte uit te dink, en al die valle, dan moet ons erken dat die Boesman wel bewus te werk gegaan het om die Natuur 'n weinig milder haar rykdom met hom te deel. Sy vanggate, en die arbeid wat hy bereid is om in dié verband uit te oefen lewer verder bewys van sy ontwikkeling. Daar bestaan wel beskrywings van die boerdery van seker Boesmans, maar dit was al in die neentiende eeu, en hul het dit van die Hottentotte en Bantoe geleer.
+
+ REGERINGSVORM EN ORGANISASIE.
+Dit word dikwels beweer dat daar geen regeringsvorm of organisasie onder die Boesmans bestaan het nie. Dit kom gedeeltelik deurdat die meeste skrywers maar die mense begin bestudeer het na hul as 'n volk opgehou het om te bestaan, en gedeeltelik deurdat die ideale regeringsvorm vir 'n volk soos die Boesmans so anders is dat dit nie so in-die-oog-vallend vir die reisiger kan wees nie. Francis Leguat wat in 1708 sy reisverhale gepubliseer het, sê:
+ "nog die Hottentotte nog enige ander nasie by die suid punt van Afrika is absoluut sonder regering nie."
+ Ons het dus skriftelike beweringe aan albei kante. Laat ons die aparte feite wat met die saak te doen het, ondersoek en sien wat ons daaruit kan aflei. Lichtenstein, sowat 'n honderd jaar na Leguat skrywe:
+ "daar is maar min verkeer tussen die aparte groepies; hulle werk selde saam, as dit nie in 'n groot onderneming is waarvoor die verenigde krag van 'n groot getal geëis word nie."
+ Starrman, 'n twintig jaar vantevore, herhaal wat 'n trekboer vir hom gesê het, naamlik dat, van die Blanke met ywer die Boesman begin uitroei het by Bruintjieshoogte, het dié hul aantal vermeerder. Dit steun wat Lichtenstein vertel, en wat Lichtenstein gesê het, bewys wel die bestaan van 'n organisasie wat die mense in geval van nood bymekaar kon roep, en dit weer veronderstel 'n hoof, d.w.s. 'n regering hoe swak of vaag ook al vergeleke met ons stelsels. Die skrywer is dus geneig om aan te neem wat Stow sê.
+Hy skrywe dat 'n Boesman hom vertel het dat die ou Boesmans in seker groot stamme verdeel is onder een groot hoof wat een stuk grond had (jagterrein), taamlik goed afgebaken. Die stamme is dan verder verdeel en onder onderhoofde geplaas wat elkeen byna onbeperkte magte had. Maar in tye van gevaar het hul altoos weer rondom die groot Kaptein vergader. Hulle was baie getrou.
+As Stow verder reg is in sy bewering dat die Tamboekies bestaan uit Boesmans en 'n deel van die Abatemboe wat by Boesmans beskerming teen hul vyande na 'n burgeroorlog kom soek het, dan is die bestaan van 'n organisasie absoluut bewys, want 'n Bantoe-stam, al is dit verslaan, kon onmoontlik 'n veiligheidsoord by twee of drie loshangende "huisgesinne" van Boesmans gevind het.
+
+ OPVOEDING.
+By die studie van 'n hoogbeskaafde volk, is dit gebruiklik om saam met die regeringsvorm ook die opvoedingstelsel te ondersoek. Hier is daar maar min te vertel. Die kleintjie word gebore en dit duur miskien twee en 'n half jaar voor hy gespeen is. Intussen het hy al begin ronddwaal en saadjies en bolle begin toets. Soos die kinders van ander rasse moet hulle maar altoos klaar staan om te doen wat die ouers sê. 'Soggens na 'n fuif, as die ouderlike tong droog uithang van die katsenjammer, moet die kleintjies opstaan en water haal--vader en moeder het mos nog nie uitgerus nie. Daar was nie kweperlat in daardie dae nie, maar wat ook al die surrogaat was, dit was doeltreffend; alhoewel daar ook 'n ander middel was om die Boesmannetjies soet te hou, naamlik deur Paaiboelies waarvan ons ook hoor. Verder was die speel van die kinders maar die werk van die ouers verklein. Mejuffrou Bleek vertel die skrywer dat die ou Boesmans klein pyle en boë vir hulle seuns gegee het, en !goin-!goins vir die dogters. In die Kaapstadse museum is daar klein 'kibies wat volgens Dr. Peringuey speelgoed is. As dit so is, styg die Boesman as vader hoër in die agting van die skrywer. Watter ouer sal vandag 'n 'Kibie vir sy kind maak? Dat die seuns met hul vaders uitgegaan het om te jag, en so kennis opgedoen het van diere en wind en spoor, kan die skrywer nie bewys nie; maar dit is vermoedelik. Dat hul in skyngevegte geleer skiet het, weet ons. Twee seuns (of mans) met egte gifpyle bewapen, skiet in dié gevegte op mekaar so vinnig as hul kan, en elkeen probeer om te koes sodat die ander se pyl hom nie raak nie.
+In verband met die opvoeding van die kinders is die volgende verhaaltjie te kostelik om uit te laat. Een van Dr. Lloyd haar klein Boesmannetjies was 'n bietjie onmanierlik. Dit het die ander Boesmans soseer vererg dat hulle na die Dokter gaan om beleef verskoning vir die kind te vra, want, sê hulle, haar ouers is dood toe sy nog 'n babetjie was, en sy is by blankes groot geword!
+
+ PERSOONLIKE NAME.
+Was die Boesman ernstig toe hulle dit kom sê, is die storie pragtig; het hulle dit vir 'n grap bedoel, is dit nog mooier. En daar is mense wat wil beweer dat 'n man wat soiets kon sê, nie eers sy kind 'n naam kon gee nie. Daar is mos baie skrywers wat weet te vertel dat die Boesmans nie name gehad het nie. Dit is nie nodig om die bewering ernstig te weerspreek nie, ons weet dat hul name had, maar daar moet darem 'n rede wees waarom so 'n storie begin het, en die skrywer meen dat hy die rede ontdek het. Ons moet weer Campbell raadpleeg--die arme sendeling wat die inboorling in die algemeen en die Boesman in besonder nie kon verstaan nie, maar wat tog deur die snaakse kaskenade wat hy met die Boesman aanvang, so 'n helder lig op die vraagstuk werp. Campbell skrywe:
+ "It was some time before I could even learn what was the captain's name. They consulted together three or four minutes laughing several times. The captain appeared to be requesting his wife to help him, either to recollect, or to decide what was his proper name. At length ... he said his name was Hoakay...."
+ Onder baie inboorlinge word dit nie toegelaat om 'n man se naam te noem nie. Onder seker Bantoe-stamme was dit nie eers toegelaat om enige lettergreep te gebruik wat voorkom in die naam van die kaptein nie, en as 'n gevolg, by elke verandering in die kapteinskap, moet 'n nuwe klomp woorde opgemaak word. Dit is die werk van die vrouens en dié gewoonte heet die Hlonipa. Die skrywer het nog nie bewys gevind dat daar ook so 'n taboe onder die Boesmans bestaan het nie, met uitsondering van die verhaal van die seun wat bal-bal met die Wind gespeel het, en een of twee ander verhale van dieselfde soort; maar tog sou die bestaan van die gewoonte of bygeloof heel wat feite verklaar.
+
+ VERHOUDING TUSSEN BOESMANS EN HUL BURE.
+Onlangs is deur een van ons Afrikaanse staatsmanne die beginsel neergelê dat wat die ander rasse van jou dink, byna net so belangryk is as wat jy self is. Sonder om dié teks te bespreek, kan ons daarvan gebruik maak as 'n inleiding om vir die volgende indeling van ons onderwerp te dien: Wat was die verhouding tussen die Boesmans en hul bure? Wat het hul van mekaar gedink?
+Die Boesman het die Blanke beskou as 'n gevaarlike, magtige, wrede vyand wat sy land wou steel, en hom 'n slaaf maak, of vermoor. Die Blanke, soos ons alreeds gesien het, het hom aangesien vir iets wat nie heeltemal mens is nie, 'n vuil, lastige pes wat nie vir hom wou kom werk nie, maar gedurig sy vee wou steel. Die ander inboorlinge het almal die Boesman geminag--soos die Blanke het hulle ook gemeen dat die Boesman nie mens is nie, en dit is duidelik te bespeur in hul "folklore" en hul bygelofies. Renshaw byvoorbeeld in 1821 vertel dat onder die Kaffers 'n mens eers 'n leeu of 'n Boesman moet gedood het voordat hy seker poste kan beklee, terwyl die folklore praat van die eerste man wat gekom het toe daar maar net Boesmans en diere op die aarde was. Die name wat die meeste Bantoe-stamme vir die Boesman het is Abatwa of Abatua--d.w.s. dwergies. Ook tref ons die woord Wak-Wak--d.w.s. die mense wat soos bobejane praat (vergelyk Barbatos). Die Sesoetoe-woord het ons alreeds gehad--Baroa, die mense van die Suide. Die Soeloe-name beteken olifant-jagters en aardmannetjies, maar saam met die minagting bestaan daar ook 'n vrees vir die geheimsinnige dwergies wat hulle nie heeltemal kan verstaan nie. By waterwys, en vuurmaak met die vuurstokkies, kan die Bantoe nie met die Boesman konkureer nie. So ook met die gifpyle; die Bantoe probeer ook gif maak, maar het nooit dieselfde vertroue in sy eie preparaat nie, sê Fritsch, terwyl Lichtenstein se Betjoeanas die gifpyle van Boesmans wat hulle optel, bêre. Soos ons alreeds gesien het, het hulle kaptein ook eenkeer 'n Boesman-dokter geraadpleeg. As die slot van hierdie indeling kom goed te pas 'n vertaling van die inleiding tot 'n artiekel oor Boesman-skilderye deur Rev. T. W. Green. Hy sê:
+ "Die naam waaronder die skilderye onder die Kaffers gaan is o datiwe ba Batwa--, Skeppinge van die Batwa (Boesmans). Dit is merkwaardig dat die voorsetsel o persoonlik is, en neem aan die persoonlike vorm van die twede naamval van die woordjie ba (van): asof die inboorling se gees deur bewondering of eerbied aangetas is."
+
+ DAPPERHEID.
+En daar het rede bestaan vir die eerbied, nie alleen vir hulle kuns nie, maar ook vir die dapperheid van die klein mensies wat so dapper was dat oorlogvoerende Bantoe-stamme Boesmans gebruik het in die voorfront van die geveg.
+Vir dapperheid en vryheidsliefde is die Boesman nog nooit oortref deur enige ander nasie nie. Die punte kan miskien die beste duidelik gemaak word deur stories en uittreksels uit die geskiedenis van die Boesmans in die laaste jare van hulle eensydige stryd vir hul land en hul vryheid. Maar voordat die verhale voorgelê word, om diegene stil te maak wat miskien sal beweer dat dit nie skone dapperheid was nie, moet dit geboekstaaf word dat Boesmans al uit louter mensliewendheid hul lewe in pand gestel het om Kaffers te red--ja om selfs 'n jong hondjie te red.
+In die volgende storie is dit nie alleen die dapperheid maar die brutale humor van die Boesman wat jou tref. Campbell praat weer:
+ "'n Groot span Boesmans het 'n rukkie gelede na ou Lattakoo gegaan en in die helder middag 'n klompie vee in gesig van die dorp gebuit. Die inwoners, om rede 'n pak wat hul onlangs van die Boesmans ontvang het, was so bevrees, dat hul geweier het om hul op te volg. Dié bangbroekigheid het die Boesmans so aangemoedig, dat hul na die grens van die dorp kom en potte eis om die vleis van die buitgemaakte diere in te kook."
+ Om die dapperheid van die Boesman te bewys, kan daar baie gevalle aangehaal word, maar vir ons doel is dit genoeg om te vertel hoe die Boesmans leeus jag. Hulle wag tot die leeu hom dik gevreet het en rustig slaap, dan bekruip hulle hom, en party van die jagters, want hulle gaan nie alleen nie, skiet hom, terwyl die ander 'n groot karos om sy kop woel sodat hy hul nie kan verslind voor die gif werk nie. Mense wat hartkwaal het, behoort so 'n jag nie by te woon nie!
+Op Bainsvlei, naby Bloemfontein, het die ou Mnr. Bain baie leeus geskiet. Hy het 'n heel klompie mak Boesmans ook op sy plaas gehad wat hy daar vir sy plesier aangehou het, en as daar 'n leeu moet geskiet word, gaan hy op 'n plek voorlê en hulle, ongewapend, moet die leeu gaan lok van sy lêplek, tot waar die baas voorlê. Fritsch vertel dié storie vir die waarheid [6].
+
+ VRYHEIDSLIEFDE.
+Theal prys "the intense love of liberty" van die Boesman; Fritsch, "diese Freiheitsliebe" maar Stow gee vir ons 'n skets wat hy van Dr. Rubidge, wat blykbaar self teenwoordig was, gehoor het. Dit het geen verder aanmerking of aanvulling nodig nie:
+ "......Nadat hulle seker skade teweeg gebring het, is die stammetjie omsingel deur 'n kommando wat hul nagevolg het, en daarin geslaag het om hul af te sny tussen die rotse van 'n oorhangende punt bo 'n steil afgrond. Hier vir die laaste keer het dié Boesmans gestaan om slag te lewer. Hulle onversadigde vyande dreig aan die een kant, aan die ander lê die afgrond wat alle moontlike hoop van ontsnapping belet. 'n Bloedige maar hopelose stryd vir die lewe begin--een na die ander val hul voor die koeël-reen wat hul teenstanders op hul uitgiet. Die gesneuwelde en sterwende lê opgehoop op die skrikwekkende krans; veel, met hulle laaste worsteling met die pyn, rol en val tussen die omliggende punte en splete. Maar weerstand bied hul nog, en beswyk een na die ander tot alleen een enkele oorbly.
+"En tog, met die bloedige hoop dooies om hom, en die verbryselde lyke van sy kamerade op die rotspunte onder hom, het hy net so onbevrees daar uitgesien as toe hy deur die ganse genootskap van sy dapper broederkrygers omring was. Op die uiterste punt van die oorhangende rotse neem hy sy posiesie in; daar, met 'n afgrond van sowat tweehonderd voet aan ieder sy van hom waar geen man hom sou durf volg nie, daag hy sy vervolgers uit. Tussen die koeëls wat soos haelstene om hom heen slaan, het dit gelyk as of hy met paljas betoor is, en met nimmer feilende hand los hy pyl na pyl op sy vyande waar en wanneer een van hulle onversigtig hom ontskuil.
+"Die snaar van sy boog lê al teen sy laaste pyl; 'n gees van medelyde trek blykbaar oor die venynige vyandelike skaar wat hom van alle kante bedreig; hulle roep na hom dat sy lewe sal gespaar word as hy hom oorgee. Met minagting skiet hy sy laaste pyl op die spreker met dié woorde: ''n Opperhoof weet wel hoe om te sterwe, maar nooit om oor te gee aan die ras wat hom uitgebuit het nie!' Toe met 'n wilde kreet van minagting draai hy om, en spring daar onbevrees die steil afgrond af waar hy, op die rotse vermorseld, sy dood ontmoet. So het vergaan met onverskrokke moed die laaste van sy stam, en met hom verdwyn sy stam ook uit die geskiedenis van Suid-Afrika."
+
+ EERLIKHEID EN HOFLIKHEID.
+Dapperheid en vryheidsliefde bewonder ons, maar dit het vir ons nog meer waarde wanneer dit gepaard gaan met 'n gevoel van eer en eerlikheid--en dit het die Boesman gehad. Hierdie punt het ons al vroeër aangeraak, maar die getrouheid aan hul vriende moet ook beskrywe word. Van sy baas sou hy byvoorbeeld nooit steel nie. Sy baas sou hy nooit namaak nie, alhoewel hy die dramatiese kuns goed verstaan het, en baie lief was om dit te beoefen. Alles van sy baas wat verlore raak, bring hy vir sy baas terug as hy dit optel. Mejuffrou Bleek vertel hoe daar twee Boesman-kwaaddoeners, wie se tyd op die breekwater om was, by Dr. Bleek vir kos ens., aankom. Hulle is vriendelik onthaal, en na 'n dag of twee sou hulle hulle reis voortset. Die aand voor hulle vertrek, groet hulle mooi vir die Blankes en kry hul padkos, want hulle sou douvoordag vertrek. Die volgende dag toe die mense opstaan, is die tuin van alle blare skoon gevee--'n teken van dankbaarheid wat 'n arm witman nie beter kon bedink het nie. Dit was hulle erekode: "getrouheid aan jou vriende!"
+
+ GEDULD.
+En getrouheid ook aan die werk wat begin is. Wat die Boesman aanvaar, gaan hy mee entuit. Geduld het die Boesman in oorvloed gehad. Die 'kibie, en die vanggate is daarvan genoeg getuienis, maar daar is baie feite wat almal 'n bewys lewer van dié deug. Geduld en ywer het die Boesman uitgeoefen--die lui niksnuts soos ons te lief is om hom te beskrywe! 'n Man wat 'n haas of 'n springbok kan inja, is nie lui nie! In die warm son ja hulle die wild tot een van die twee flou val. 'n Muil, sê hulle, kan jy nie doodwerk nie, want hy besit nie moed of trotsheid nie, maar 'n perd kan jy aanja tot hy in die tuie doodval. En die Boesman dryf homself tot hy inmekaarsak, en as sy maters hom nie kom help nie, sal hy daar sterwe.
+
+ TAAL.
+Sy brein is maar klein, maar sy lyf ook; en sy brein, sy wilskrag hou hom gespanne as hy opgewonde raak. Met hom, soos met ons kunstenare vandag, word 'n werk wat begin, en afgewerk kan word, met ywer gepak, en klaargemaak; maar die nimmereindigende dagelikse klein werkies wat die siel van 'n kunstenaar breek, kon die Boesman ook nie baasraak nie, en daarvandaan die feit dat hul nie verder ontwikkel het nie. Brein, nieteenstaande wat baie skrywers sê, had hulle bepaald. Dink maar byvoorbeeld aan hulle ontwikkeling in hulle jagmetodes ens., wat hulle hier in Suidafrika moes uitgewerk het, afgesien van die kennis wat hulle uit die Noorde saamgebring het. Ook lewer die Boesman bewys van sy vermoë deur die gemaklike wyse waarop hy tale aanleer. Verskillende outoriteite maak spesiaal melding hiervan, en een vertel van 'n Boesman wat buiten en behalwe sy eie taal vlot Afrikaans praat, meer Engels ken as baie Boere, en sowat ses ander Hottentot- en Bantoe-tale magtig is. Om hierdie punt te bespreek, sal ons 'n bietjie te ver van ons onderwerp aflei. Ook die bespreking van hul taal is buiten die bevoegdheid van die skrywer. Alle Afrikaners weet dat Boesman-taal, saam met Hottentot- en een of twee Bantoe-tale die klappers besit, maar dat die Boesman taal meer het as die ander. Die klappers is moeilik vir die Blanke om uit te spreek, ja selfs om die aparte klappers vanmekaar te onderskei, en die moderne uitvindsel die praatmasien, probeer nie eers om die klappers weer te gee nie! Mejuffrou Doris Bleek, een van die weinige Blankes wat vandag nog kennis het van die Boesman-taal, het die skrywer 'n paar feite meegedeel; onder ander, ook wat aantoon hoe die Boesman aggee op die gang van 'n mens, vertel sy dat die Boesman byna tweemaal soveel werkwoorde het vir verskillende maniere van loop, kruip, slinger ens.
+Maar terwyl ons die behandeling van die onderwerp van taal moet oorlaat aan die taalkundiges, is daar een metode van gedagtewisseling wat die Boesman gebruik het, wat ons wel hier kan bespreek, naamlik die seintaal. Dit is te verwag dat die Boesman 'n seintaal had. Alle nasies of klasse wat met mekaar wil gesels waar daar te groot geraas is, of waar daar nie mag gepraat word nie, het so iets. Die skooljong, die arbeiders in seker fabrieke, die spoorwegwerkers ens., het almal hul eie seintaal. Die bewoner van "flats" in Napels kan lang besigheidsgesprekke met die groentesmouse onder in die straat voer sonder om 'n woord uit te spreek. Die Grieke kon met gebare feitlik enige getal merk of weergee. En wat vind ons in die geval van die Boesman? Ongelukkig maar min besonderhede. Stow vertel dat hulle voor 'n strooptog die hele aanval in al sy besonderhede bespreek, en alle moontlike uitslae bedink en 'n kode van seine uitwerk om mekaar bekend te maak met die loop van sake gedurende die aanval. As dit so is, moet ons verwag dat vir eenvoudigheid hulle, sover moontlik, gedurig dieselfde seine gebruik het, en so 'n seintaal ontwikkel het. Campbell en 'n paar ander skrywers vertel vir ons van enkele gebare. Bleek en Lloyd vertel dat as 'n man by 'n jag flouval, hy stof opgooi as 'n teken dat hy hulp nodig het. Campbell vertel ook hoe hulle (d.w.s. onbekende wilde Boesmans) nog een aand met vuurseine hom op die regte pad na water gehelp het. Vergelyk ook die volgende twee uittreksels, een byna 'n eeu en 'n kwart oud van Lichtenstein, dat ander nog geen ses maande gelede nie deur Reuter uit S.W. Afrika gesein:
+ "Die Bosjesmanne het 'n onafgebroke kommunikasie met mekaar, so goed, dat hulle alles weet wat in die land aangaan, nie alleen gouer nie; maar meer akkuraat as enige ander nasie. Indiwiduele Bosjesmanne, sê hulle (d.w.s. die Betjoeanas) kom ongewapend en alleen na hulle (Betjoeana) veewagters en smeek om kos, in terugbetaling waarvoor hulle meedeel enige nuus wat hulle van wis."
+ Die twede uittreksel is uit een van Reuter se telegramme oor die geval van 'n seker patrollie onder Kapt. Swemmer wat 160 myl van Grootfontein al hul kamele en al hul water buiten een kameel en een bottel water kwytgeraak het.
+ "Toe kom een van die geheimsinnige gebeurtenisse wat in die wilde Afrika gebeur. Op een of ander wyse stuur die Boesmans die boodskap aan dat Kapt. Swemmer deur leeus aangeval is, en met een kameel aankom en water nodig het. Die Boesmans op die grens van Grootfontein ontvang die boodskap, en deel dit met die beamptes by Grootfontein mee...... Hoe die nuus vervoer is, bly onbekend. Boesman-bodes mag miskien die moeite gedaan het om dit na Grootfontein te bring. Dit, dink die mense is nie baie waarskynlik nie, en die ou Blanke-inwoners glo liewer dat die Boesman die groot primitiewe gawe van telepatie besit."
+ En waaroor gesels die Boesman? Natuurlik oor sake wat binne of naby die grense van sy kennis lê. Die Jonkvrou Augusta Uitenhaag de Mist het in 1802 baie kortaf die kennis van die Boesman beskrywe. "Hy het kennis van niks," skrywe sy, "as van gifpyle en vuurmaak." Dit is egter nie so nie, en buiten en behalwe sy kennis wat ons alreeds ondersoek het, wil die skrywer 'n paar feite voorlê in verband met hulle kennis onder die volgende hoofde: aardkunde, aardrykskunde, rekenkunde, dierkunde, geneeskunde, plantkunde, sterrekunde, letterkunde, digkuns, toneelkuns, danskuns, musiekkuns, graveerkuns en skilderkuns. In seker van genoemde indelinge van kennis, is hulle vordering groot gewees, in ander weer, minder; maar afgesien van hulle kunste, was hul almelewe prakties. So was dit ook met hul kennis van aardkunde. Die stowwe wat hulle van wis, was die grondstowwe waaruit hulle hul verf gemaak het, waarvan hul hulle pylkoppe gemaak het, en hulle bore; maar hulle het ook geweet wat vandag amper 'n verlore kuns is, d.w.s. hoe om die vuurklip te slaan om die verskillende werktuie te maak; ook wis hul waar om vir water te soek en dit was vir hulle altoos al te mooi, wanneer in die diens van die Blanke, om met hul kennis te pronk, en gou water te vind na die Bantoe tevergeefs probeer het.
+
+ AARDRYKSKUNDE.
+As deur Aardrykskunde verstaan word 'n kennis van waar riviere hulle oorsprong het, en waarheen hul loop, en dergelyke dinge, dan het die Boesman feitlik geen kennis van aardrykskunde gehad nie. Hulle het name vir riviere gehad, en ook ander plekke soos berge en fonteine het name gekry; maar in die vrugbare dele van ons land het die Boesman nie veel gereis nie, en dus nie veel kennis van die land as 'n geheel opgedoen nie. Boesmans wat Campbell mee gepraat het, is oud geword sonder om 'n vyf-en-twintig myl van hul geboorteplaas te gaan. Maar terwyl soveel dorpelinge wat vandag met hulle kennis van aardrykskunde kan spog, op die veld verdwaal, ja, selfs binne tweehonderd tree van hul eie woninge, het die Boesman die wonderlike gawe gehad om altyd die regte koers huis toe te ken, al neem jy vir hom hoe ver, en langs watter kronkelende paaie ook al.
+
+ REKENKUNDE.
+In rekenkunde was hulle ook swak. Hulle het name gehad vir een, twee, en drie, en geen hoër getal nie, vertel Mejuffrou Bleek, maar hulle het gesê veel, of met hulle vingers gewys: "soveel" vir getalle tussen drie en elf. As dit verby die tien kom, is hulle verlore, en sê net "seer veel." Mejuffrou Bleek egter sê dat sy nog nooit 'n Boesman gekry het wat nie kon tel nie, maar dan maak hul gebruik van die Afrikaanse of Engelse of Bantoe-telwoorde.
+Die waarde van rekenkunde word eers deur 'n volk gevoel as hul begin handel, of voorsorg vir die toekoms maak, soos by voorbeeld vir die winter ens. Die Boesmans, soos ons al gesien het, het wel 'n bietjie handel gedrywe, maar alhoewel hulle nou en dan 'n bietjie biltong maak of miereiers of sprinkhane braai en maal, duur dit maar 'n week of twee voor alles weer op is. Onder hierdie omstandighede is daar maar min ontwikkeling in rekenkunde te verwag. Tussen hakkies is dit miskien nodig om te sê dat die gebrek aan hoër getalle as drie nie beteken dat hul nie met hoër getalle kon werk nie. Die Indiërs byvoorbeeld het twee woorde lakh en crore vir getalle wat ons nie woorde voor het nie, maar tog werk ons met daardie getalle (d.w.s. honderdduisend en tien miljoen). Die Australiër het ook maar woorde vir een en twee; maar drie is vir hulle twee-een; vier, twee-twee; nege, twee-twee-twee-twee-een; tien, twee hande; twaalf, tweehande-twee; twintig, een man; en drie-en-neentig, byvoorbeeld, tweeman-tweeman-tweehande-twee-een. Stow beweer dat die Boesmans op dieselfde manier tot tien getel het.
+
+ DIERKUNDE.
+Maar dit was in dierkunde dat die Boesman uitgeblink het. Dit is waar dat hy nie 'n klassifikasie van die diere had of vir hulle lang Latynse name gegee het nie, maar hy het hul spore geken en gegraveer op rotse. Hy het hulle manier en gewoontes tot op 'n haar geken, en gaan ure en ure van tevore sy posiesie inneem waar hy weet dat die wild op 'n seker tyd sal kom. Die gevalle alreeds gesiteer met die leeujag bewys byvoorbeeld dat hulle die leeu se gewoontes baie goed geken het. Ja, en daar is van hulle wat beweer dat hulle die taal van die leeu en ander diere kan verstaan. Moet ons die bewering as verspot verklaar? Nee geensins. Laat ons weer hoor wat Campbell sê, die man wat hier in ons land in 'n wit-en-blou-gestreepte broek rondgery het om die Boesmanmeide die alfabet te leer. Hy sê dat 'n leeu en 'n volstruis so amper dieselfde geluid maak dat hy die een nie uit die ander kon onderskei nie. Dat hulle in dieselfde musikale klas kom, is waar, en Boesman folklore bewys dat die Boesman dit ook besef het, maar geen volstruisboer sal vir 'n minuut twyfel wanneer hy die een of die ander hoor nie. Blinddoek enige boereseun, en plak hom by 'n hoenderhok neer. Van wat die hoenders daar gesels sal hy haarfyn kan beskrywe wat onder hul daar plaasvind. Van 'n hond se blaf kan 'n mens sê wat vir wild hy gevind het, en kortom, verstaan ons die taal van die diere wat ons rondom ons het. Wat die Boesman dus beweer van die dieretaal is heeltemal geloofbaar. Dat hy hul gewoontes so goed ken dat hy as 'n dier vermom, tussen hulle kan ingaan, bewys ook dat hy in daardie opsig baie meer kennis had as ons hedendaagse dierkundiges. Dit is nou nie te lank gelede nie dat Fabre, die Franse entomoloog, ontdek het waar die gif op die hare van rispes vandaan kom. Die kortbeen-jagters het dit al lankal geken, en na die bron daarvan gegaan om pylgif te kry. En die wonderlikste van alles is nie dat hulle die en ook ander gifte ontdek het nie, maar dat hulle met die verskillende teëgifte wat miskien die grootste deel van hulle geneeskunde uitgemaak het, bekend geraak het. Hulle het wel ook van ander medisyne af geweet, en hul dokters het kennis gedra van nog meer; maar, soos selfs by ons moderne dokters in seker mate oogverblindery uitgeoefen word, omdat die mensdom dit wil hê, het hulle dokters ook getoor. Wat nou ook weer onlangs gebeur het, bewys, alhoewel nie absoluut nie, dat die Boesman medisyne het. Tien Boesmans (Marsarwes) is op 'n beskuldiging van moord, gevang, en in die tronk vir tien maande opgesluit. Toe, na tien maande die regering besluit het om nie met die saak aan te gaan nie, was daar maar vyf oor! Die ander is intussen gesterwe, maar die oorblywende, wat darem ook siek was, kom dadelik weer reg toe hul weer by hul wortels kon kom. Van hul towermedisyne soos die gekruiste houtjies, en snye oor hul liggaam, is dit onnodig om nou hier verder oor uit te brei. Hul geneeskunde, as 'n ware kennis apart van bygeloof, het afgehang van hul kennis van plantkunde, en dit soos ander kennis van hulle was eg prakties. Van bolle en blare en saad, het hulle geweet wat eetbaar is, wat medisyne is, en wat gif is--en dié vraag bly onbeantwoord: waar, hoe, en wanneer het hulle die belangryke kennis opgedaan? Hulle het nooit plante gekweek nie, nooit geploeg of gesaai nie, en dus verwag 'n mens nie dat hulle die jaar in jaargetye sou verdeel nie, maar hulle het 'n woord vir somer, 'n ander vir winter, en een vir lente wat beteken vroeg-somer. Mejuffrou Bleek weet egter van geen woord vir herfs nie. Die skrywer meen dat die begin van ware sterrekunde in die landbou en die seevaart lê, en dat later die studie weer 'n verder stoot gekry het deur die Bygeloof wat altoos met die sterre gepaard gegaan het. Onder die Boesmans vind ons dus ook nie 'n ware kennis van sterrekunde met kennis van die reis van die son deur die konstellasies nie, maar 'n kennis alleen van seker sterre en sterregroepe. Canopus, een van die groter sterre, en Sirius het hulle ook geken en aanbid soos alreeds vermeld, maar wat interessant is, is hulle stories oor die Hart van die Dageraad. Uit die twede Rapport van Dr. Bleek oor Boesman-Navorsinge, aan die Kaapse Parlement, 1875, kom die volgende:--
+ "The 'Dawn's Heart' (The Star Jupiter) has a daughter who is identified with some neighbouring star preceding Jupiter (at the time when we asked, it was Regulus or Alpha-Leonis). Her name is the 'Dawns-Heart-child' and her relation to her father is somewhat mysterious. He calls her 'my heart', he swallows her, then walks alone as the only Dawns-Heart Star, and, when she is grown up, he spits her out again. She then herself becomes another (female) Dawn's-Heart, and spits out another Dawns-Heart-child which follows the male and female Dawn's-Heart."
+ Die eerste punt wat ons hier moet opmerk, is dat Dr. Bleek nie heeltemal seker is watter ster met die planeet Jupiter geassosieer is nie. Die tweede punt is dat uit die verhaal ons moet aanneem dat die Hart van die Dageraad en sy kind en kleinkind hemelse liggame is wat altoos naby mekaar bly, anders sou so'n intieme verhouding nie aan hulle toegeskrywe word nie. Ten derde, is dit vermoedelik, dat die gebeurtenis wat beskrywe word een is wat hom dikwels herhaal, anders sou dit nie besonder indruk op die primitiewe brein gemaak het nie.
+Dit is vir die skrywer heeltemal duidelik dat Dr. Bleek nie die Boesman verstaan het toe laasgenoemde hom die "Hart van die Dageraad" in die hemel probeer wys het nie.
+En waarom het die misverstand ontstaan? omdat die Boesman na iets wys wat die Blanke nie met sy blote oog kon sien nie! Die enigste liggame wat met Jupiter die hemel deurreis is sy vyf mane, wat eers in 1610 deur Galileo ontdek is, die eerste sterrekundige ontdekking gedaan nadat hy sy verkyker gemaak het.
+Om sy bewering te staaf, dat die Boesman twee uit die vyf mane geken het, en dus waarskynlik lank voor Galileo hul ontdek het, is dit nodig vir die skrywer om by bowestaande nog die volgende by te voeg uit 'n boek oor sterrekunde deur Dr. Chas. A. Young, Professor in Sterrekunde by Princeton Universiteit.
+ "When Jupiter is in opposition, the fourth satellite is sometimes nearly 10-1/2' away from the planet, or one-third of the moon's diameter; and in a very clear air (soos byvoorbeeld in die Karo) can be seen by a sharp eye without telescopic aid. The third, though larger, never goes more than 6' from the planet and it is perhaps doubtful whether it is ever seen with the naked eye unless when the fourth happens to be close beside it."
+ Hier sien ons hoe die prosaïese sterrekundige probleem van die beweginge van Jupiter se mane wat ons soveel hoofbrekens op die Universiteit veroorsaak het, in 'n digterlike manier deur die Boesman behandel is. Digterlik is ook sy beskrywing van die oorsprong van die maan dat dit 'n sandaal is wat !Kaggen in die lug gegooi het. Digterlik omdat hulle altoos praat van die maan wat loop oor die hemel en die skoen vir hulle die stoflike voorstelling van "loop" is. Soveel van wat hul sê en doen is so deurtrek van digterlikheid, dat 'n mens dikwels twyfel of die volk wat sulke wonderlike werk in die beeldende kunste gelewer het, werklik nie meer as digters moet waardeer word nie. Alleen die internasionale medium van die eersgenoemde kuns sal waarskynlik altoos die skaal aan sy kant aftrek, daar die oorgrootste meerderheid hul digkuns alleen deur 'n tolk kan geniet.
+In die besit van die skrywer is 'n stoflike gedig--'n Boesman gifpyl--die snel bode met 'n doodlike boodskap. Vooraan, op die kop lê die slanggif dik, en agter in plaas van die gewone seningband, is 'n ringetjie van slangvel aangekrimp. 'n Stoflike gediggie wat die slang beskrywe. 'n Toehoorder mag miskien beswaar hê dat die digterlikheid net in die verbeeldingskrag van die skrywer sit, maar met jou studie van die Boesman sien 'n mens soveel van dié gees dat dit nog lank nie onmolik is dat die pyl so afgewerk het nie. Dit is swaar om 'n gedig aan te haal, want die skrywer moet ongelukkig vertaal van 'n vertaling. Hier volg egter so 'n vertaling, en uit dit inleiding blyk dit dat die digter 'n man is wat deur die sendelinge sou beskrywe word as 'n man wat in die diepste ellende van onkunde verkeer, en tog hoe pragtig is sy beskrywing van die leegheid nou dat sy maat nie meer by hom is nie.
+ "Dit is 'n treurlied deur Gaattin gesing na die dood van sy vriend die towenaar en reenmaker !Nuin !Kuiten wat aan die gevolge van 'n skot gesterwe het wat hom een aand getref het terwyl hy, in die vorm van 'n leeu rondloop. (Hy sê die snaar wat daar so lief in die blou hemel gesing het in die leeftyd van die towenaar, word nie langer gehoor nie).
+ DIE GEBROKE SNAAR.
+Dit was die mense die, wat daardie snaar vir my gebreek 't. Daarom word die plek nou so vir my daaroor. Want daardie snaar was wat vir my gebreek 't. Daarom voel die plek nie meer vir my soos dit hier eers gevoel het daaroor. Want die plek voel net asof dit ope voor my gebreek het. die plek voel net asof dit ope voor my staan omdat die snaar vir my gebreek het. Daarom is die plek nie aangenaam vir my daaroor.
+ 'n Volledige, selfs seer uitgebreide behandeling van die digkuns en letterkunde van die Boesman kan onmolik hier 'n plek kry, maar die Filistyne wat nie wil glo in die digterlikheid van die Boesman nie, moet die gediggie aan 'n nog nie ontluikte blom lees, en dit ernstig probeer verteer.
+Onder Dr. Bleek se ou Boesmans was ene IIKabbo, 'n oubandiet wat verantwoordelik is vir een van die mooiste digterlike prosastukke wat nog in ons land in enige taal saamgestel is. Dit is die beoordeling van die skrywer, en hy word in sy opienie gestaaf deur een van ons Afrikaanse digters wat hoog aangeskrewe staan. In die Boesman-kultuur gaan toneelkuns nie saam met letterkunde nie, maar maak feitlik met danskuns en musiek een geheel uit. Soos my toehoorders sal weet is die Bantoe-ekwiwalent vir die Afrikaanse vraag: "Wie is jy, en waar kom jy vandaan?" 'n vraag wat beteken: "wat dans jy?" (m.a.w. wat is jou 'siboko' of jou stam?) Dit wys op die feit, dat by die Bantoe die dans 'n half-nasionale, half-godsdienstige betekenis het. Dat dit so by die Boesmans was is vir die skrywer nog nie duidelik nie. Dat iets bowenatuurliks, mense straf wat te kwaai dans is 'n vaste geloof by hul. Ook is daar storie van 'n Godin en haar feë wat met die mense dans; en in seker van hul danse is daar 'n tydelike opheffing van die streng sedewette, iets wat by die Bantoe ook in seker Godsdienstige seremonies plaasvind. Dit is wel molik dat party van die danse, soos onder baie barbare half godsdienstig is; maar ander danse lyk meer op 'n gevolg van 'n opborreling van lewenslus as die heuning en vleis volop is; terwyl ander weer die egte tekens van toneelkuns dra. Vir die grootste gedeelte van hulle danse is al die dansers of die meerderheid vermom soos diere wat dan ook die gang van die diere namaak. Die danse sal ook waarskynlik dien as 'n oefenskool vir die jonger jagters. Die musiek word gewoonlik deur die meide verskaf, maar nie altoos nie.
+
+ MUSIEK.
+Die musiekinstrumente van die Boesmans is die 'Kopo, 'Joum-'Joum, 'Kangan, en 'Goura wat almal op die boog gebaseer is. Siedaar 'n tema vir ons Afrikaanse digters--om te beskrywe die mooiklinkende klank van die singende snaar in die oor van die jagter wat weer indring in sy siel as hy die aand by die vuur sit en sy maters vertel, miskien nog in versmaat, van sy gelukkig jagtog. Onwillekeurig, onbewus gly sy hand na sy boog, en onwillekeurig pluk-pluk hy aan die snaar, half uit bewondering vir die klank, en half omdat die voel van die snaar en die klank van sy noot hom help om die jagtoneel weer voor sy oë saam te stel.
+Hieruit is gebore die musiekinstrumente van die Boesmans--'n stel boë wat elkeen 'n aparte noot weergee of 'n boog met drie of vier snare; snare wat opgeblaas word, of gepluk of geslaan word, en miskien ook met 'n strykstok aan 't trille gesit. Vir klankvergroting is 'n die later instrumente 'n skilpaddop of 'n kalbas vasgemaak. Buiten die snaarinstrumente is daar die fluitjie, die rommelpot of tamboer, en die Boesman-klokkies gewees. Laasgenoemde is uit gedroogde springbok-ore of soiets gemaak met klippies of saadjies daarin, en om die enkels van die danseres gedra.
+Verskillende poginge is al gemaak om die Boesman-musiek op te skrywe, maar deskundiges sê dat dit nie met ons note molik is nie. Musiekkenners weet dat die ag note van ons Europese toonleer willekeurig is, en buite vir die eerste en laaste note daar geen egte wetenskaplike rede vir die aanneming van so 'n toonleer bestaan nie. In die musiek van ander nasies, dus, tref ons dikwels die vaste bestaan van kwart-tone, en ander, vir ons, uitheemse dinge. En dit is nie alleen onder minontwikkelde musikante nie; selfs die Skotte wat lank moes musiek gespeel het voordat hulle die wonderlike en wonderbare doedelsak ontwikkel het, gee bewys (as die skrywer hom nie misgis nie) deur hul ouer volksliedere, van die bestaan van 'n toonleer met maar vyf note in plaas van ons ag. So verskil ook die Boesman toonleer, maar die skrywer kan nog nie beskrywe presies waar die verskil lê nie.
+Stow beweer, dat die Boesman onder al die inboorlinge die musikaalste aangelê is. Dit is moeilik om te bewys, en moeilik om te glo, nog te meer as 'n mens hulle musiekinstrumente vergelyk met die van die Bantoe; maar dat die digterlike skilders ook besiel is met 'n musikale gevoel wat tot in hul murg deurdring het, is duidelik uit die storie wat Stow ons vertel. Dit is van twee ou Boesmans, man en vrou vir wie hy sy kopieë van Boesman-skilderye gewys het.
+ "Eindelik kom ons by die prente van ou danse. Ou 'Kou'ke roep dadelik uit, 'dit, a, dit was 'n pragdans, dit is die 'Ko'Ku-curra!' Dit, sê sy, is uit die mode geraak toe sy nog 'n dogter was, maar is altoos in die dae van haar ouma se ouma gedans. 'Ek ken 'dit, en ken die lied.' En dadelik met haar kop en lyf aan 't roere, begin sy sing"----dan volg die musiek--"Terwyl 'Kou'ke die boonste reël sing, word die ou man meer en meer aangeroer en hou aan, aan haar arm pluk, terwyl hy herhaal: 'Moenie! Moenie!' Maar sy gaan maar deur; toe hy weer vreeslik treurig sê, 'Moenie, moenie, die ou liedere sing nie, dit maak my hart te weemoedig', maar sy wil nie luister nie, en hou aan selfs met meer lewe as eers, asof die herinneringe uit die verlede haar opgewonde maak, tot eindelik die ouman, nie meer in staat om sy gemoed te bedwing nie, uitbars met die lied van die twede reël", (d.w.s. van die aangehaalde musiek). "Hul kyk na mekaar en was uiters gelukkig, die blik van die vrou was asof sy wou sê 'A, ek dog dit sou jou omhaal!' 'n Mens het nie verwag om 'n vertoning van sulke egte gevoel te vinde onder mense nie wat beskou en behandel word as die ontembare, venynige ongediertes wat die tot-die-dood-bestemde ras kamte is."
+
+ BEELDENDE KUNSTE.
+Dié verhaal van Stow vertel ons van die musikale ekstase van 'n seker egpaar; laat ons onder die folklore van die Boesmans soek na iets wat ons miskien kan vertel van wat die volk dink en voel oor musiek en klanke. Ongelukkig is daar tot dusver nog so min gepubliseer, dat dit moeilik is om so 'n vraag te beantwoord, maar van wat gepubliseer is, kry ons 'n verhaal van wat feitlik 'n singwedstryd is ('n Boesman-Eistedfodd) tussen die volstruise en die leeus toe hulle nog mans was. Ook leer ons uit een van die verhale, dat die woord vir bewussyn beteken "dinksnare," en as dié stilstaan, word die persoon bewusteloos. Vergelyk ook die gedig van die gebroke snaar wat eers die singer se heelal met soetklinkende trillinge gevul het. Hier het die musiek in die taal ingedring soos die "poker"-woorde in die taal van die Amerikaner, en die ossewawoorde in ons taal. Maar wat 'n mens merk in die gepubliseerde stukke is hoe dikwels, vergeleke met die paar plekke waar klank en musiek van gepraat word, die gevoel van skoonheid van vorm en kleur voorkom. Plekke, byv. beskrywe hulle as mooi, ook wolke en diere word bewonder. Ook die diere van hul fantasie word beskrywe as mooi diere--"gestreep soos 'n sebra". Een van die verhalers vertel van 'n potjie wat gemaak is, 'n kleipotjie, pragtig bo al sy maters, ook en hier durf ek nie die vertaler se woorde weer vertaal nie, praat een van "a handsome young man, his head is surpassingly beautiful."
+En hul idee van skoonheid was nie bepaal deur kleur soos in die geval van die gestreepte dier of vorm soos by die kleipotjie nie; maar hulle het ook kan waardeer grasieuse beweginge as bewys deur !Han !Rasso wat vertel van die hasie wat hy had toe hy 'n seuntjie was, en wat hy so bemin het, want, hy dag "dat daar niks was wat sig so liefies beweeg, as die hasie wanneer dit saggies huppel, saggies daar rondhuppel."
+Dit is kunstenaarstaal, en kunstenare is uit die volk gebore wat nie die kop in skaamte hoef te buig in watter geselskap van skilders hul ook mag kom nie. Vir die kunskenner is dit onnodig om verder uit te brei oor hierdie punt, en die man wat geen oog vir die beeldende kunste het nie, kan 'n mens moeilik leer om die Boesmankuns te waardeer, of te geniet; maar met die name van reuse slaan 'n mens sulke Filistyne dood.
+Neem byvoorbeeld die bekende skildery van die leeu wat die man opeet, die Filistyn beskrywe dit en dergelyke kunsstukke as "unbedeutende Kritzeleien welche gar keine Beachtung verdienten", maar in daardie selfde gekrabbel sit Kuns! Net 'n paar lyne wat glad nie die omlyning is van "Felis Leo" nie, en tog staan daar die "vaal kat" met die gewig van 'n os in sy skouers en die ratsheid van 'n kat in sy voete! Nog nooit was daar 'n man soos die een wat daar sy doodskreet uit nie, en tog vertolk daardie krom lyntjies die wanhoop van die arme man, en sy skreë vir hulp klink in die ore van die toeskouer. Dit is die werk van 'n barbaar, onontwikkeld. Maar die Franse is tog die wêreld deur bekend vir 'n hoog ontwikkelde, kunsvolle nasie, en wat produseer daardie volk na al die jare, na al die eeue; nadat hul die kuns van Assirië, Egipte, Griekeland, Italië, Spanje, Holland, Indië, en Japan bestudeer en verteer het? 'n Skool wat werk lewer soos "Die Dans" van Matisse [7]. 'n Skool wat die Gees, die Siel probeer skilder sonder om te veel ag op die liggaam, op die uiterlike te gee. Die dorpeling gaan op die veld met 'n jagter; daar gunter is daar 'n beweging, wat oor is byna voor dit begin. "Dit is so-en-so 'n dier," sê die jagter, en die dorpeling bewonder die jagter se skerp gesig, maar wat hy behoort te bewonder is die jagter se kennis. In daardie oomblik was daar byna geen kans om kleur te merk, seker geen kans om vorm te sien nie, maar wel tyd om die beweging te besef en te herken as van die of daardie dier. En dit verklaar een van die eienskappe van baie van die Boesman-kunsstukke. Soos in "die Dans" is die omlyning foutief, maar die beweging wonderlik, kunsvol, akkuraat. Voor 'n Boesman tekening staan baie met die gedagte: "Presies die jakhals wat ek nou-nou daaronder tussen die bossies gesien draf het." Terwyl voor die doeke van baie van die moderne diereskilders, kom dié gedagte op: "Watter pragtige hare! Maar is die huid nie goed geskilder nie! Dit lyk kompleet die jakhals wat ek eergister in die museum gesien het!"
+Die ander punte in verband met Boesmankuns moet ons maar net korteliks aanroer, want 'n behandeling van die Boesman-kuns verdien 'n aparte lesing. Maar ons kan hier darem op 'n paar ander eienskappe van die Boesman-kuns wys.
+Die wanhoop van die leeuprooi [8], die tergende speelgees van die bobejane, die wakkerheid van die jakhals, die gerustheid, of die argwaan van die bok [9], die lompheid van die vermomde jagter, hoe duidelik het die Boesman kunstenaar ons dit vertolk; hoe duidelik is die bewys van sy vermoë op dié gebied. Die vorse spring van die leeu [8], die sorglose, trotse, parmantige draf van die olifant en die "vry hotnot" wat hom houdings gee, hoe natuurlik is dit geskilder! Trek vir die laasgenoemde 'n rooibaadjie en blou broek met 'n rooi naadstreep aan, druk 'n platdop-pet op sy kop, en daar het jy 'n Phil May-tekening van Tommy Atkins.
+Diere in profiel is baie algemeen [10], en hier en daar vind 'n mens een wat baie vry, byna matematies versier is, maar die durf van die Boesman is partykeer brutaal in sy keuse van 'n onderwerp, en hy skilder diere in houdings wat geen Europeaan sou durf weergee nie [11]. Terwyl hulle dikwels enkele diere en mense skilder, is daar baie werke van hul bekend waar 'n jagavontuur of 'n dans, of 'n toneel uit hul geskiedenis afgebeeld is. Daar is bekend 'n 'goin 'goin-dans, 'n 'Ko'ku-curra-dans, 'n Mo'Koma-dans, en een wat waarskynlik die Wysgeer se dans weergee. Jagavonture is volop, die jag van die olifant, die elande, die volstruis en die leeu. En van die laasgenoemde, is daar twee wat die skrywer besonder interessant vind, een waar gebruik gemaak word van die elandsvel-skilde, en een waar die Boesman die leeu na die skutters toe lok. Oorlogtonele bestaan uit afbeeldinge van gevegte tussen Boesman en Bantoe, Boesman en Hottentot, Bantoe en Bantoe, en Boesman en Boesman. 'n Pragtige voorbeeld van hul kuns is die tekening van 'n klompie Boesmans wat van die Bantoe 'n twintigtal vee steel, 'n ander vertel weer van hoe hulle 'n Boer doodgemaak het en sy vee gebuit het terwyl sy Bantoe-veewagters vlug. Wat besonder die oog vang in hierdie tonele is, wat tegnies heet die komposiesie, en 'n wonderlike ineenloping van lyne is in hulle werk te bespeur wat nie toevallig kan wees nie. Mense en diere is dikwels te vinde, maar landskappe en plantelewe minder algemeen. Die skrywer weet alleen van een verdroogde pan, 'n paar bome (een uit Rhodesië met 'n papegaai daarin) 'n klompie takke, enige kiepersolblare, en 'n klein klompie bome en bolle wat hul uit hul eie gedaan het. Hulle het ook bewys gegee van 'n liefde vir mooi lyne wat niks stofliks voorstel nie.
+Die kleure wat hul gebruik het is wit, swart, geel, oranje, bruin, sjokolaad, rooi, rosskleur, pers, blou en groen. Mej. Bleek weet van geen woord in hul taal vir pers nie en sê dat hul maar een woord het vir blou en groen. Dit beteken natuurlik nie dat hulle nie die verskil weet nie, want ons noem byvoorbeeld al die volgende kleure rooi, alhoewel ons goed besef dat hul nie almal dieselfde kleur is nie: die kleur van 'n pennieposseël, en die kleur van die posbus, die kleur van 'n rooi os, en die kleur van rooi hare, die kleur van 'n rooi-roman, van rooi-koper, en die kleur van bloed.
+Maar buiten die ge-illustreerde geskiedenis en versieringe alreeds omskrewe, is daar honderde tekens waarvan ons nog nie en waarskynlik nooit die ware betekenis sal weet nie [12]. In byna enige grot is hul te vinde, en dieselfde ontwerpe wat 'n mens langes die Vaalrivier naby Kimberley op die harde rotse graveer, vind, pryk in verf op die rotse in Basoetoeland. Alleen van een of twee van die tekens is die betekenis bekend. Is hulle 'n primitiewe skrif wat miskien alleen deur 'n klein getal ingewydes bekend is? Is hulle 'n oorblyfsel van 'n ou Geloof? Wie kan vandag sê! Hulle is geheimsinnig, of om meer akkuraat te wees, is hulle betekenis vir ons 'n geslote boek. Dat 'n geheimsinnige of godsdienstige of toweragtige agtergrond of oorsaak bestaan vir die Boesman-skilder en -graveerkuns is die idee van seker deskundiges, maar ander soos Hahn en Stow ontken dit ronduit. Daar is tekeninge wat met hul Geloof en Bygeloof te doen het, maar sover die skrywer kan oordeel is daar net so min towery of godsdiens daaraan verbonde as aan die prente in ons ge-illustreerde Bybels. Baie van die tekeninge het eenvoudige verklaringe, maar ons kennis van die volkies is te beperk. Fritsch byvoorbeeld skrywe:--
+ "Zuweilen scheinen die Künstler aber ihrer Phantasie freien Spielraum gelassen zu haben wie sich z.B. eine nackte menschliche Figur mit rothem Zickzack streifen um die Lenden und einem Ding wie ein zusammengefalteter Regenschirm in der Hand auf einem Felsen in Key Poort (östliche Colonie) vorfand, welche sich nicht wohl deuten lässt."
+ Vandag weet ons dat wat Fritsch nie kan verstaan nie 'n afbeelding is van 'n Kaffer met 'n steekasgaai wat soveelmaal groter en breër is as die Boesman-pyl, en vir hom so lomp lyk, dat hy digterlike vryheid gebruik het en die lompheid te oordrywe soos ook in die grot by Modderpoort, O.V.S.
+Die handigheid van die Boesman om gebruik te maak van die natuurlike vorm van die rotsoppervlakte in sy tekeninge; sy wonderlike graveerkuns waarmee hy ook pragstukke gelewer het [13], Stow se teorie dat die Boesmans uit twee aparte stamme die skilders en die graveerders of beeldhouers, soos hy hul noem, bestaan; en die praktiese moderne toepassing van die Boesmankuns, behoort meer tuis by 'n behandeling van hul kuns, en sal ons hul maar vir 'n later geleentheid laat bly.
+En so laat ons tydelik afskeid neem van die Boesman, die dwergie, die barbaar, wat in sy primitiewe staat beter kon teken as die Egiptenaar en selfs as die Griek toe die al die fondament van ons wysbegeerte en boukuns aangelê het. Ons bejammer die Boesman, en daardeur minag ons hom. Is sy primitiewe toestand voor die koms van die Neger en Blanke rasse meer te betreur as die van ons? As hy genoeg kos het, (en hy kry genoegsame gesonde liggaamsoefening om dit te wen) kom hy tuis na sy vrou en kinders en geniet daar sy vleis en groente met sy bier. Daarna kan hy vir hom besig hou met die kunste en sy geestelike genot uit die wêreld trek. Kom daar nie duisende Blankes van hongersnood om nie? Is die krotjies in die agterstrate van die stede te vergelyk met die grotte onder die kranse wat uitsien op myle en myle varse lug?
+En waar bestaan die volk wat soveel digterlikheid en letterkundige smaak sal vertoon onder so 'n klein klompie indiwidue as wat Dr. Bleek by hom had, en dié nog almal uit die tronk uitgehaal?
+Ekonomies is ons vooruitgegaan, maar as die ware geluk, die doel is van die mensdom, die mikpunt van almal, kan ons ons nog die vraag stel--Is ons werklik nader aan ons doel as die Boesmans?
+
+
+
+ AANTEKENINGE
+ [1] Sien Plaat A.
+[2] Sien Plaat B.
+[3] Sien Fig. I.
+[4] Sien Fig. II en III.
+[5] Sien Fig. VI. 'n Uitleg van hierdie prent verskyn in "The Cape Monthly Magazine," Julie 1874.
+[6] Onder Stow se tekeninge is daar een wat bewys dat die storie waar is.
+[7] Sien Plaat C.
+[8] Sien Fig. VII.
+[9] Sien Fig. VIII.
+[10] Sien Fig. IX.
+[11] Sien Fig. X.
+[12] Sien Fig. XI.
+[13] Sien Fig. XII.
+
+
+
+ *** END OF THE PROJECT GUTENBERG EBOOK IETS OOR DIE BOESMANKULTUUR ***
+
+ Updated editions will replace the previous one—the old editions will be renamed.
+Creating the works from print editions not protected by U.S. copyright law means that no one owns a United States copyright in these works, so the Foundation (and you!) can copy and distribute it in the United States without permission and without paying copyright royalties. Special rules, set forth in the General Terms of Use part of this license, apply to copying and distributing Project Gutenberg™ electronic works to protect the PROJECT GUTENBERG™ concept and trademark. Project Gutenberg is a registered trademark, and may not be used if you charge for an eBook, except by following the terms of the trademark license, including paying royalties for use of the Project Gutenberg trademark. If you do not charge anything for copies of this eBook, complying with the trademark license is very easy. You may use this eBook for nearly any purpose such as creation of derivative works, reports, performances and research. Project Gutenberg eBooks may be modified and printed and given away—you may do practically ANYTHING in the United States with eBooks not protected by U.S. copyright law. Redistribution is subject to the trademark license, especially commercial redistribution.
+ START: FULL LICENSE
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+To protect the Project Gutenberg™ mission of promoting the free distribution of electronic works, by using or distributing this work (or any other work associated in any way with the phrase “Project Gutenberg”), you agree to comply with all the terms of the Full Project Gutenberg™ License available with this file or online at www.gutenberg.org/license.
+Section 1. General Terms of Use and Redistributing Project Gutenberg™ electronic works
+1.A. By reading or using any part of this Project Gutenberg™ electronic work, you indicate that you have read, understand, agree to and accept all the terms of this license and intellectual property (trademark/copyright) agreement. If you do not agree to abide by all the terms of this agreement, you must cease using and return or destroy all copies of Project Gutenberg™ electronic works in your possession. If you paid a fee for obtaining a copy of or access to a Project Gutenberg™ electronic work and you do not agree to be bound by the terms of this agreement, you may obtain a refund from the person or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+1.B. “Project Gutenberg” is a registered trademark. It may only be used on or associated in any way with an electronic work by people who agree to be bound by the terms of this agreement. There are a few things that you can do with most Project Gutenberg™ electronic works even without complying with the full terms of this agreement. See paragraph 1.C below. There are a lot of things you can do with Project Gutenberg™ electronic works if you follow the terms of this agreement and help preserve free future access to Project Gutenberg™ electronic works. See paragraph 1.E below.
+1.C. The Project Gutenberg Literary Archive Foundation (“the Foundation” or PGLAF), owns a compilation copyright in the collection of Project Gutenberg™ electronic works. Nearly all the individual works in the collection are in the public domain in the United States. If an individual work is unprotected by copyright law in the United States and you are located in the United States, we do not claim a right to prevent you from copying, distributing, performing, displaying or creating derivative works based on the work as long as all references to Project Gutenberg are removed. Of course, we hope that you will support the Project Gutenberg™ mission of promoting free access to electronic works by freely sharing Project Gutenberg™ works in compliance with the terms of this agreement for keeping the Project Gutenberg™ name associated with the work. You can easily comply with the terms of this agreement by keeping this work in the same format with its attached full Project Gutenberg™ License when you share it without charge with others.
+1.D. The copyright laws of the place where you are located also govern what you can do with this work. Copyright laws in most countries are in a constant state of change. If you are outside the United States, check the laws of your country in addition to the terms of this agreement before downloading, copying, displaying, performing, distributing or creating derivative works based on this work or any other Project Gutenberg™ work. The Foundation makes no representations concerning the copyright status of any work in any country other than the United States.
+1.E. Unless you have removed all references to Project Gutenberg:
+1.E.1. The following sentence, with active links to, or other immediate access to, the full Project Gutenberg™ License must appear prominently whenever any copy of a Project Gutenberg™ work (any work on which the phrase “Project Gutenberg” appears, or with which the phrase “Project Gutenberg” is associated) is accessed, displayed, performed, viewed, copied or distributed:
+This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org. If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.
+1.E.2. If an individual Project Gutenberg™ electronic work is derived from texts not protected by U.S. copyright law (does not contain a notice indicating that it is posted with permission of the copyright holder), the work can be copied and distributed to anyone in the United States without paying any fees or charges. If you are redistributing or providing access to a work with the phrase “Project Gutenberg” associated with or appearing on the work, you must comply either with the requirements of paragraphs 1.E.1 through 1.E.7 or obtain permission for the use of the work and the Project Gutenberg™ trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+1.E.3. If an individual Project Gutenberg™ electronic work is posted with the permission of the copyright holder, your use and distribution must comply with both paragraphs 1.E.1 through 1.E.7 and any additional terms imposed by the copyright holder. Additional terms will be linked to the Project Gutenberg™ License for all works posted with the permission of the copyright holder found at the beginning of this work.
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™ License terms from this work, or any files containing a part of this work or any other work associated with Project Gutenberg™.
+1.E.5. Do not copy, display, perform, distribute or redistribute this electronic work, or any part of this electronic work, without prominently displaying the sentence set forth in paragraph 1.E.1 with active links or immediate access to the full terms of the Project Gutenberg™ License.
+1.E.6. You may convert to and distribute this work in any binary, compressed, marked up, nonproprietary or proprietary form, including any word processing or hypertext form. However, if you provide access to or distribute copies of a Project Gutenberg™ work in a format other than “Plain Vanilla ASCII” or other format used in the official version posted on the official Project Gutenberg™ website (www.gutenberg.org), you must, at no additional cost, fee or expense to the user, provide a copy, a means of exporting a copy, or a means of obtaining a copy upon request, of the work in its original “Plain Vanilla ASCII” or other form. Any alternate format must include the full Project Gutenberg™ License as specified in paragraph 1.E.1.
+1.E.7. Do not charge a fee for access to, viewing, displaying, performing, copying or distributing any Project Gutenberg™ works unless you comply with paragraph 1.E.8 or 1.E.9.
+1.E.8. You may charge a reasonable fee for copies of or providing access to or distributing Project Gutenberg™ electronic works provided that:
+• You pay a royalty fee of 20% of the gross profits you derive from the use of Project Gutenberg™ works calculated using the method you already use to calculate your applicable taxes. The fee is owed to the owner of the Project Gutenberg™ trademark, but he has agreed to donate royalties under this paragraph to the Project Gutenberg Literary Archive Foundation. Royalty payments must be paid within 60 days following each date on which you prepare (or are legally required to prepare) your periodic tax returns. Royalty payments should be clearly marked as such and sent to the Project Gutenberg Literary Archive Foundation at the address specified in Section 4, “Information about donations to the Project Gutenberg Literary Archive Foundation.”
+• You provide a full refund of any money paid by a user who notifies you in writing (or by e-mail) within 30 days of receipt that s/he does not agree to the terms of the full Project Gutenberg™ License. You must require such a user to return or destroy all copies of the works possessed in a physical medium and discontinue all use of and all access to other copies of Project Gutenberg™ works.
+• You provide, in accordance with paragraph 1.F.3, a full refund of any money paid for a work or a replacement copy, if a defect in the electronic work is discovered and reported to you within 90 days of receipt of the work.
+• You comply with all other terms of this agreement for free distribution of Project Gutenberg™ works.
+ 1.E.9. If you wish to charge a fee or distribute a Project Gutenberg™ electronic work or group of works on different terms than are set forth in this agreement, you must obtain permission in writing from the Project Gutenberg Literary Archive Foundation, the manager of the Project Gutenberg™ trademark. Contact the Foundation as set forth in Section 3 below.
+1.F.
+1.F.1. Project Gutenberg volunteers and employees expend considerable effort to identify, do copyright research on, transcribe and proofread works not protected by U.S. copyright law in creating the Project Gutenberg™ collection. Despite these efforts, Project Gutenberg™ electronic works, and the medium on which they may be stored, may contain “Defects,” such as, but not limited to, incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other medium, a computer virus, or computer codes that damage or cannot be read by your equipment.
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right of Replacement or Refund” described in paragraph 1.F.3, the Project Gutenberg Literary Archive Foundation, the owner of the Project Gutenberg™ trademark, and any other party distributing a Project Gutenberg™ electronic work under this agreement, disclaim all liability to you for damages, costs and expenses, including legal fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGE.
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a defect in this electronic work within 90 days of receiving it, you can receive a refund of the money (if any) you paid for it by sending a written explanation to the person you received the work from. If you received the work on a physical medium, you must return the medium with your written explanation. The person or entity that provided you with the defective work may elect to provide a replacement copy in lieu of a refund. If you received the work electronically, the person or entity providing it to you may choose to give you a second opportunity to receive the work electronically in lieu of a refund. If the second copy is also defective, you may demand a refund in writing without further opportunities to fix the problem.
+1.F.4. Except for the limited right of replacement or refund set forth in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+1.F.5. Some states do not allow disclaimers of certain implied warranties or the exclusion or limitation of certain types of damages. If any disclaimer or limitation set forth in this agreement violates the law of the state applicable to this agreement, the agreement shall be interpreted to make the maximum disclaimer or limitation permitted by the applicable state law. The invalidity or unenforceability of any provision of this agreement shall not void the remaining provisions.
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the trademark owner, any agent or employee of the Foundation, anyone providing copies of Project Gutenberg™ electronic works in accordance with this agreement, and any volunteers associated with the production, promotion and distribution of Project Gutenberg™ electronic works, harmless from all liability, costs and expenses, including legal fees, that arise directly or indirectly from any of the following which you do or cause to occur: (a) distribution of this or any Project Gutenberg™ work, (b) alteration, modification, or additions or deletions to any Project Gutenberg™ work, and (c) any Defect you cause.
+Section 2. Information about the Mission of Project Gutenberg™
+Project Gutenberg™ is synonymous with the free distribution of electronic works in formats readable by the widest variety of computers including obsolete, old, middle-aged and new computers. It exists because of the efforts of hundreds of volunteers and donations from people in all walks of life.
+Volunteers and financial support to provide volunteers with the assistance they need are critical to reaching Project Gutenberg™’s goals and ensuring that the Project Gutenberg™ collection will remain freely available for generations to come. In 2001, the Project Gutenberg Literary Archive Foundation was created to provide a secure and permanent future for Project Gutenberg™ and future generations. To learn more about the Project Gutenberg Literary Archive Foundation and how your efforts and donations can help, see Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+The Project Gutenberg Literary Archive Foundation is a non-profit 501(c)(3) educational corporation organized under the laws of the state of Mississippi and granted tax exempt status by the Internal Revenue Service. The Foundation’s EIN or federal tax identification number is 64-6221541. Contributions to the Project Gutenberg Literary Archive Foundation are tax deductible to the full extent permitted by U.S. federal laws and your state’s laws.
+The Foundation’s business office is located at 809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up to date contact information can be found at the Foundation’s website and official page at www.gutenberg.org/contact
+Section 4. Information about Donations to the Project Gutenberg Literary Archive Foundation
+Project Gutenberg™ depends upon and cannot survive without widespread public support and donations to carry out its mission of increasing the number of public domain and licensed works that can be freely distributed in machine-readable form accessible by the widest array of equipment including outdated equipment. Many small donations ($1 to $5,000) are particularly important to maintaining tax exempt status with the IRS.
+The Foundation is committed to complying with the laws regulating charities and charitable donations in all 50 states of the United States. Compliance requirements are not uniform and it takes a considerable effort, much paperwork and many fees to meet and keep up with these requirements. We do not solicit donations in locations where we have not received written confirmation of compliance. To SEND DONATIONS or determine the status of compliance for any particular state visit www.gutenberg.org/donate.
+While we cannot and do not solicit contributions from states where we have not met the solicitation requirements, we know of no prohibition against accepting unsolicited donations from donors in such states who approach us with offers to donate.
+International donations are gratefully accepted, but we cannot make any statements concerning tax treatment of donations received from outside the United States. U.S. laws alone swamp our small staff.
+Please check the Project Gutenberg web pages for current donation methods and addresses. Donations are accepted in a number of other ways including checks, online payments and credit card donations. To donate, please visit: www.gutenberg.org/donate.
+Section 5. General Information About Project Gutenberg™ electronic works
+Professor Michael S. Hart was the originator of the Project Gutenberg™ concept of a library of electronic works that could be freely shared with anyone. For forty years, he produced and distributed Project Gutenberg™ eBooks with only a loose network of volunteer support.
+Project Gutenberg™ eBooks are often created from several printed editions, all of which are confirmed as not protected by copyright in the U.S. unless a copyright notice is included. Thus, we do not necessarily keep eBooks in compliance with any particular paper edition.
+Most people start at our website which has the main PG search facility: www.gutenberg.org.
+This website includes information about Project Gutenberg™, including how to make donations to the Project Gutenberg Literary Archive Foundation, how to help produce our new eBooks, and how to subscribe to our email newsletter to hear about new eBooks.
+

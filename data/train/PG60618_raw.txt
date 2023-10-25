@@ -1,0 +1,713 @@
+﻿The Project Gutenberg EBook of Fragments d'épopées romanes du XIIe siècle, by Edward le Glay
+This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever.
+You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+If you are not located in the United States, you'll have to check the laws of the country where you are located before using this ebook.
+
+Title: Fragments d'épopées romanes du XIIe siècle traduits et annotés par Edward le Glay
+Author: Edward le Glay
+Translator: Édouard André Joseph Le Glay
+Release Date: November 3, 2019 [EBook #60618]
+Language: French
+Character set encoding: UTF-8
+*** START OF THIS PROJECT GUTENBERG EBOOK FRAGMENTS D'ÉPOPÉES ROMANES ***
+
+ Produced by Clarity, Eleni Christofaki and the Online Distributed Proofreading Team at http://www.pgdp.net (This file was produced from images generously made available by The Internet Archive/Canadian Libraries)
+
+
+
+
+Note sur la Transcription
+Les erreurs clairement introduites par le typographe ont été corrigées. Une liste d'autres corrections faites se trouve à la fin du livre. L'orthographe d'origine a été conservée et n'a pas été harmonisée.
+Marquage: _mots en italique_
+
+ LITTÉRATURE
+DU MOYEN-AGE.
+FRAGMENTS D'ÉPOPÉES ROMANES
+DU XII.e SIÈCLE.
+
+ Lille.--L. LEFORT, Imprimeur-Libraire. 1838.
+
+ FRAGMENTS D'ÉPOPÉES ROMANES DU XII.e SIÈCLE,
+TRADUITS ET ANNOTÉS PAR EDWARD LE GLAY.
+[Illustration]
+PARIS. TECHENER, LIBRAIRE, PLACE DU LOUVRE, 12. 1838.
+
+ [Illustration]
+
+ TOUTE littérature commence par la poésie: singulière destinée dont l'explication importe peu ici, mais qu'il faut signaler pourtant, ne fût-ce que pour constater l'origine toujours antique, toujours mystérieuse de cette forme du langage humain. Quand une société vient à naître, elle chante tout d'abord, et elle conte: c'est l'enfance qui s'émeut et qui s'émerveille, qui s'éprend et qui veut que tout s'éprenne, s'ébaudisse autour d'elle:
+«Oyez chançons de joie et de baudour!»
+Imprévoyantes et insoucieuses de l'avenir, les jeunes nations, comme les jeunes individus, se complaisent dans le passé. Ce sont de pieux enfants qui voient en beau tout ce qu'ont fait leurs pères, qui professent un doux culte pour les souvenirs, non pour ceux de la triste réalité et de l'histoire nue et froide, mais pour les souvenances embellies de tous les charmes de l'imagination, colorées de toutes les fantaisies du mystère.
+Et remarquez qu'au milieu de ces rêveries où s'égare la jeune raison des peuples, c'est encore l'histoire qu'ils croient écrire ou entendre; ils sont de bonne foi dans leurs gracieux mensonges; car leurs œuvres ne seraient pas empreintes de tant de génie, s'ils avaient menti sciemment. Ils ont été les premiers à croire en leurs propres créations.
+Et d'ailleurs, qui oserait affirmer que la vérité n'y est point? Je veux dire la vérité morale, poétique, la vérité de sentiment et d'impression.
+C'est dans les plus beaux siècles de l'antiquité, que l'on a manifesté le plus d'admiration pour les écrivains poétiques des premiers âges. La Grèce a eu des temples pour Homère, des autels pour Hésiode. Elle a, pour ainsi dire, divinisé les neuf livres de l'histoire un peu fabuleuse d'Hérodote, en désignant chacun d'eux sous le nom de l'une des neuf Muses. Là il ne s'est pas trouvé des hommes qui, sous prétexte de je ne sais quelle renaissance, ont répudié les premiers et les plus beaux monuments de la littérature nationale. On n'a point vu dans Athènes des professeurs d'égyptien et de persan, impatroniser, dans les jardins d'Académus, les livres venus de Memphis et d'Ecbatane, et proscrire ceux des rapsodes, d'Eschyle ou de Thespis.
+Nous avons été moins sages.
+--Dans notre fanatisme pour l'antiquité grecque et latine, nous autres Français, nous avons oublié tout-à-coup les titres de notre propre gloire pour une gloire d'emprunt; d'inventeurs qu'étaient les pères, les fils sont descendus au rôle de traducteurs.
+Au temps de saint Louis, on créait une langue; et avec cet idiome tout neuf on écrivait de gigantesques épopées. L'architecture, la sculpture, autres expressions de la société, élevaient des monuments qui n'avaient point eu de modèles jusque-là, et qui depuis n'eurent point d'imitateurs. Au quinzième siècle, on parut se lasser de ses propres richesses; l'art chrétien sembla ne plus suffire. Il se fit en Europe une invasion de Grecs et de Latins qui nous imposèrent leur langue, leur littérature et presque leurs mœurs; ce que n'avaient pu faire autrefois la conquête romaine et une occupation de trois siècles. Nous fûmes presque honteux de nos vieux romans de chevalerie, de nos vieilles églises, de notre vieille foi.
+On vit alors des savants, des prélats qui, pour l'amour du grec, se seraient faits volontiers prêtres de Jupiter ou d'Apollon. Ne s'est-il pas rencontré un cardinal Bembo, qui recommandait à Sadolet de ne pas trop lire les épîtres de saint Paul, de peur de gâter son style cicéronien: _Omitte has nugas_, disait-il....
+Bref, nous en sommes venus au point d'oublier qu'avant Malherbe et Racan il y avait des poètes plus grands, plus originaux surtout que Racan et Malherbe.
+Si, de temps à autre, un souvenir tombait sur ces œuvres du moyen-âge, c'était un souvenir de mépris et d'insulte. (Voyez Boileau, Art poétique).
+A la vérité, au siècle dernier, quelques littérateurs ont cherché dans l'ancienne poésie française des motifs de romans et des sujets d'opéras comiques. Quelques-uns même, comme Legrand d'Aussy, se sont livrés avec un certain soin et non sans un certain succès à l'étude de ces vieux monuments. Ce n'était point assez...--Les bénédictins, plus érudits et surtout plus judicieux que le cardinal Bembo, ont commencé dans leurs amplissimes collections, et dans l'histoire littéraire de la France, à rendre justice aux productions de tant de génies méconnus. C'est dans les bibliothèques de leurs couvents que furent religieusement conservées, durant des siècles, ces chroniques, ces poèmes dont l'existence n'était révélée qu'au petit nombre. Ne pouvant lutter contre l'ignorance et le dédain universels, ils gardaient ces précieux dépôts, en attendant des temps meilleurs; et se bornaient à en montrer parfois quelques parcelles, comme pour essayer et préparer le goût public.
+Parmi les causes qui ont longtemps inspiré une sorte de dégoût pour cette littérature romane, il en est une qui peut-être n'a pas été assez remarquée; c'est l'ignorance où l'on est resté jusqu'à nos jours des formes et des règles de l'ancien langage français. Le lecteur était comme rebuté par l'incohérence et la barbarie qui paraissaient régner dans cet idiome; on se figurait qu'il n'était soumis à aucune loi grammaticale, à aucune convenance syntaxique.
+On se demandait pourquoi l'écrivain emploie tantôt l'article _li_ et tantôt l'article _le_; pourquoi un nom singulier prend parfois l'_s_ final, et pourquoi le même mot au pluriel en est souvent dépourvu; par quel caprice les noms propres varient-ils sans cesse de terminaison: _Pierre_, _Piéron_; _Gui_, _Guion_; _Marie_, _Marien_; _Alaïs_, _Alaïde_, _etc._
+Ainsi, outre l'obscurité nécessaire d'un langage dont la plupart des mots sont aujourd'hui rayés de nos vocabulaires et mis au rang des morts, on était encore déconcerté et comme fourvoyé par ce mépris apparent de toute règle; et l'on n'avait guère confiance dans les œuvres d'écrivains qui semblaient violer si outrageusement les plus simples lois de l'orthographe.
+Ces objections étaient demeurées sans réponse; et les bénédictins qui avaient tout entrevu, mais qui n'ont pas eu le temps de tout approfondir, ont consigné dans leur _Nouveau traité de Diplomatique_ une remarque qui a donné l'éveil sans doute à notre illustre Raynouard. Cet académicien, poète lui-même, a étudié avec un amour de poète les œuvres dédaignées des troubadours et des trouvères; et c'est véritablement lui qui en a retrouvé et refait la grammaire. Il résulte de ses travaux que cet idiome, loin d'être livré à l'arbitraire et à l'anarchie, comme on se le persuadait, a été soumis à des règles vraiment rationnelles. Fils du latin, il est, comme le latin, au rang des langues transpositives où les désinences varient, suivant la fonction que remplit le mot dans la construction phraséologique. Ainsi s'expliquent toutes ces anomalies; ainsi disparaissent les accusations d'irrévérence pour la syntaxe.
+Il est vrai que souvent dans les manuscrits, dans les chartes, ces règles se trouvent violées; mais alors il faut s'en prendre à l'ignorance des copistes, ignorance peu surprenante dans ces temps reculés, puisque de nos jours elle est encore si commune parmi nos scribes de profession, voire même parmi certains magistrats municipaux, plus habiles, j'aime à le croire, à faire des règlements de police qu'à observer eux-mêmes ceux de la grammaire.
+Les grandes compositions poétiques du moyen-âge, que l'on nomme _romans de chevalerie_ ou _chansons de geste_, sont de trois sortes, ou plutôt sont renfermées dans trois cycles principaux: 1.º _cycle d'Alexandre._ 2.º _cycle de la Table ronde._ 3.º _cycle de Charlemagne._
+Les romans du premier cycle sont consacrés au récit des exploits d'une foule de héros antiques: Jason, Enée, Hector, Philippe de Macédoine et son fils. Ce sont des fictions qui ne supportent pas la critique historique. Les lieux, les temps et les personnes y sont étrangement dénaturés et confondus.
+Au cycle de la Table ronde, se rapportent les poèmes qu'ont inspirés les traditions bretonnes, qui nous racontent tant de merveilles de Clovis et d'Arthur, tant de victoires remportées sur les Pictes, les Angles et les Saxons.
+Karle le Grand, avec sa race et ses douze pairs, vrais ou faux, a fourni matière au plus ancien et au plus beau cycle poétique du moyen-âge. Là encore l'histoire proprement dite n'est pas toujours religieusement respectée; et l'on rencontre dans ces épopées, tout-à-fait françaises et de fond et de forme, bien des héros fictifs, bien des évènements imaginaires.
+C'est que jamais les trouvères ne célébraient les _gestes_ contemporains auxquels il manque toujours un certain prestige, mais des faits advenus un siècle ou deux auparavant, faits que leur imagination échauffée par les souvenirs populaires pouvait quelquefois dénaturer, mais qu'elle revêtait toujours des formes les plus poétiques.
+De là ce caractère de vérité morale, et cette couleur de localité qui feront à jamais le charme principal de nos vieux romans de chevalerie.
+Et, en effet, ces actions héroïques, ces évènements singuliers, ces personnages merveilleux qui _posent_ si bien dans les récits de nos bardes, c'étaient des personnages jadis fameux dans la contrée; c'étaient des traditions recueillies à l'âtre des chaumières, dans les salles d'armes des châteaux, au réfectoire des monastères.
+Tout le moyen-âge est là vivant, parlant, agissant.
+Mais, hélas! il y a bien longtemps que les foyers de la Flandre, du Haynaut, de l'Artois et du Cambrésis n'ont plus ouï chanter les belles rapsodies de Godefroi de Bouillon, de Bauduin de Sebourg, du chevalier au Cygne, de Chyn de Berlaimont, de Jehan d'Avesnes, de Raoul de Cambrai, et tant d'autres romans délicieux dont notre positive époque soupçonne à peine l'existence.
+Et cependant, le public accueille avec faveur ces vieux monuments que lui exhume une érudition laborieuse; mais, il faut en convenir, jusqu'à ce jour le public a paru moins apprécier le mérite des œuvres éditées que la bonne volonté et le zèle patriotique des éditeurs.--On le conçoit; le public, c'est tout le monde: tout le monde ne comprend pas la langue romane, et chacun l'entend à demi.--C'est là ce qu'il y a de fâcheux. On est porté à trouver insipide un livre déchiffré avec peine, et pour l'intelligence duquel il faut avoir un glossaire sous la main. Le lecteur n'aime pas qu'on lui impose une tâche; il lit pour le plaisir de lire, et non pour la peine de traduire.
+Ce n'est pas tout de rendre à la lumière ces textes que notre ingratitude a méconnus si longtemps; ce n'est pas tout de les faire connaître aux érudits et aux philologues, et leur fournir par là l'occasion de faire de la science, et de procréer des théories et des systèmes magnifiques sur les origines de notre littérature, toutes choses fort bonnes sans doute, et qui vaudront peut-être à leurs auteurs un fauteuil à l'académie, mais qui ne rendront pas le moins du monde nos vieilles poésies à la popularité dont elles ont joui lors de leur apparition, et dont elles devraient jouir encore.
+La popularité, pour elles, c'est la traduction.
+Non pas une traduction libre comme celles du siècle dernier, qui hissaient les antiques châtelaines sur des vertugadins, et leur collaient des mouches aux joues; mais une traduction littérale, servile même, reproduisant avec une facile clarté le style énergique, naïf, rustiquement chevaleresque de la poésie romane.
+Indiquer les qualités que doit avoir cette espèce de traduction, c'est peut-être faire d'avance la censure de celle que j'offre aujourd'hui au public. Aussi je ne la présente que comme une tentative qui a besoin d'indulgence.
+«On le peut: je l'essaie, un plus savant le fasse.»
+[Illustration]
+
+ [Illustration]
+ LES trois premiers épisodes qu'on va lire sont extraits d'un roman du XII.e siècle, dont Raoul, comte de Cambrai vers 940, est le héros.--Ce roman, tout-à-fait inédit, repose, en manuscrit de l'époque, à la bibliothèque du roi, sous le N.º 8201, petit in-4.º vélin. Il renferme environ six mille vers et est écrit en tirades _omoioteleutes_ ou monorimes. L'auteur est resté ignoré jusqu'à ce jour[1].
+Pour mettre le lecteur en connaissance avec les acteurs des drames épisodiques que nous reproduisons littéralement, nous donnons d'abord la traduction analytique de l'exposition du poème.
+
+ EXPOSITION DU POÈME.
+TRADUCTION ANALYTIQUE.
+ LE Comte de Cambrai, Raoul Taille-fer, vient de trépasser, laissant sa femme Alaïs, sœur du roi de France Loys[2], sur le point de devenir mère. Les barons ensevelissent leur droit seigneur, le portent au moustier Saint-Géri, et après avoir célébré ses funérailles, l'enterrent dans l'église. La franche comtesse Alaïs a grand deuil de la mort de son époux.
+--Cependant les jours et les mois s'écoulent; elle met au monde un fils, et ses larmes tarissent. La belle dame enveloppe son enfant dans un drap pourpré et le confie à deux hauts barons; ceux-ci le portent sans délai à l'évêque de Beauvais, Gui, cousin de la comtesse, qui le baptise et lui donne le nom de son père, Raoul de Cambrésis.
+Le roi de France Loys avoit à sa cour un jeune comte, qu'on appeloit Gibouin le mancel. Il a servi le roi de sa bonne épée d'acier, et en récompense il lui demande le fief de Cambrai, laissé vacant par la mort de Raoul. Le roi le lui accorde jusqu'à ce que le fils de Taille-fer soit assez grand pour porter ses armes et lui promet une autre terre pour cette époque. Gibouin accepte; mais il voudroit que le roi lui fît épouser la comtesse Alaïs. Loys lui en donne l'assurance, et envoie un message au moustier Saint-Géri à Cambrai, où étoit sa sœur...[3].
+Le fils de Taille-fer a un peu grandi.--Son oncle, le comte d'Arras, Géri le sor[4], se rend à la cour du roi à Paris, et prie Loys de remettre le fief de Cambrai à son neveu. Le prince répond qu'il ne le peut ôter au manceau.
+--Géri alors lui adresse les reproches les plus violents; et ne pouvant rien obtenir, il s'en vient à Cambrai, près de sa belle-sœur, promettant de faire une guerre à mort à Gibouin, aussitôt que son neveu sera en âge de combattre.
+Il demeure quelque temps au moustier Saint-Géri, auprès de la comtesse Alaïs et de son fils. La dame, à cette occasion, donne un grand festin où elle délivre aux barons de riches fourrures; puis, le sor retourne à Arras.
+Les années s'écoulent.--Raoul a quinze ans; il est grand et bien formé.
+--Le comte Ybert de Ribemont avoit un fils nommé Bernier. Il n'existoit pas dans la contrée un jeune homme plus beau ni plus habile à manier la lance. Bernier est en outre fort bon et plein de sens. La comtesse Alaïs le donne pour écuyer et pour compagnon à son fils[5]...
+Enfin il paroît que les discordes se sont apaisées; car Raoul est à la cour de Paris avec son écuyer. Le roi Loys qui chérit son neveu, le fait chevalier, lui donne des armes magnifiques, un beau coursier et un glaive, valant Durandal, la fameuse épée de Roland; puis au bout de quelque temps il le nomme sénéchal de Ponthieu.
+Raoul se rend à son poste.--Il n'y a pas de seigneur qui n'envoie son fils, son neveu ou son cousin à la cour du sénéchal pour se former. Raoul distribue à ces jeunes barons des armures de fer, de bons destriers d'Arabie, et les héberge à plaisir.
+Le lundi de Pâques on doit s'ébaudir. Raoul sort du moustier et s'en va jouer avec ses chevaliers sur la place de Saint-Cenis, où une quintaine[6] a été dressée. Mais les barons s'échauffent; et dans la joûte les deux jeunes fils du comte Ernaut de Douai sont jetés morts à terre par Raoul. Les chevaliers l'en ont grandement blâmé; et, de la vie, le comte Ernaut ne sera l'ami de Raoul.
+A la Pentecôte, le roi Loys tient cour plénière. Raoul, accompagné de son écuyer, lui sert le piment[7] au dîner. Tout le monde admire la beauté de Bernier et son riche équipement. Une quintaine est dressée; l'on combat et l'on brise maints écus, maints hauberts. Bernier fait des merveilles; et quand tous les barons sont rentrés au palais, il s'agenouille devant le roi, à qui il rend foi et hommage; puis il implore sa bienveillance en faveur de ses cousins, les enfants du comte Herbert de Vermandois, lequel alloit trépasser.
+Géri le sor vient ensuite trouver le roi; et, lui rappelant ses services, il le conjure derechef de rendre au fils de Raoul Taille-fer le fief de Cambrésis. Le roi a refusé de nouveau.
+Alors Géri d'Arras sort courroucé; il trouve dans une des salles du palais son neveu Raoul qui jouoit aux échecs; il le tire violemment par sa pelisse d'hermine, et le maltraite à cause de son indifférence. Raoul ébranle la salle de ses cris, et furieux va trouver le roi.--Il réclame son héritage. Loys lui répète qu'il ne peut l'enlever au mancel Gibouin, à qui il l'a accordé. Raoul jure que le lendemain, avant le soleil couchant, il aura attaqué Gibouin, qu'il veut mettre à mort de sa propre main.
+Le roi sort de la salle ému des menaces de Raoul.
+Le mancel est venu près du roi; il le supplie de garantir ce qu'il lui a donné. Le roi écoutant ces prières, appelle son neveu et le conjure de laisser Cambrai à Gibouin encore deux ou trois ans; il lui promet que si, dans cet intervalle, un des fiefs de Vermandois, d'Aix-la-Chapelle ou de Laon demeure vacant, c'est pour lui.--Raoul, après avoir consulté son oncle Géri d'Arras, consent à la proposition de Loys; mais il demande quarante otages que le roi lui accorde.
+Raoul étoit de retour en Cambrésis depuis un an et quinze jours, lorsque le vaillant comte Herbert de Vermandois vint à trépasser. Il tenoit sous sa puissance Roye, Péronne, Origni, Ribemont, Saint-Quentin, le château de Clary, et tout le pays d'alentour.
+En apprenant sa mort, Raoul incontinent monte à cheval avec son oncle Géri, et ils ne cessent d'éperonner jusqu'au palais du roi à Paris, où ils sont bientôt arrivés.
+--Raoul rappelle au roi sa promesse et demande le fief d'Herbert. Loys dit qu'il ne peut le lui accorder, ni déshériter les quatre fils d'Herbert en sa faveur, ajoutant que ces quatre jeunes barons, puissants et valeureux, ne voudroient plus désormais le servir et deviendroient ses ennemis.
+A ces paroles, Raoul pense perdre la raison de colère; et mandant ses otages, il les menace de les faire enfermer dans une tour; Joffroi, l'un des otages, s'agenouille aux pieds du roi et lui peint la position précaire dans laquelle ils vont se trouver.
+Loys attristé appelle Raoul et lui jure que jamais ni lui ni ses hommes ne s'opposeront à son entreprise contre le Vermandois.
+Bernier, présent au discours du roi, se lève et supplie Loys de ne pas agir au moins ouvertement contre ses cousins, les fils d'Herbert, lesquels sont de vaillants hommes, capables de se défendre dignement. Puis s'adressant à son maître Raoul, l'écuyer Bernier lui montre combien ses cousins sont bons et francs chevaliers, et combien il y auroit déloyauté à ravir leur héritage.
+Raoul n'écoute rien: à toute force il veut leur terre que Loys lui a accordée.
+En grande hâte il retourne à Cambrai, suivi de son écuyer, qui est triste et dolent. Il descend au perron où sa mère l'attend.
+La bonne dame serre son fils dans ses bras, lui baise le menton, et ils montent ensemble au palais. Alaïs félicite son fils, et lui demande s'il ne se met pas en mesure de reprendre son fief à Gibouin le manceau. Raoul, chagrin de cette parole, lui répond que non, et qu'il va attaquer les enfants d'Herbert de Vermandois.
+La dame soupire et supplie son fils de ne point usurper le bien de ces orphelins, dont le père a toujours été l'ami du sien, le comte Taille-fer. Raoul repousse durement les supplications réitérées de sa mère, qui, désespérée de ne pouvoir le fléchir, fond en larmes, et se retire en lui prédisant le sort funeste qui l'attend dans cette guerre.
+La pauvre dame s'agenouille devant l'autel, à l'église de Saint-Géri, et conjure le ciel de détourner de son fils les malheurs qu'elle a pressentis.
+Cependant Raoul inflexible a mandé tous ses vassaux et ses amis, s'est avancé avec eux vers le Vermandois, et a résolu de commencer la guerre par le sac et l'incendie de la riche abbaye d'Origni.
+[Illustration]
+
+ INCENDIE DE L'ABBAYE D'ORIGNI[8].
+ I.
+Raoul appela Manecier, le comte Droon, et son frère Gautier:
+«Prenez vos armes sans tarder; que quatre cents hommes montent sur de bons destriers, et soyez à Origni avant la nuit. Vous tendrez mon pavillon au milieu de l'église, et vous prendrez mes vivres dans les caves de l'abbaye.--Mes bêtes de somme se tiendront sous les porches, et mes éperviers percheront sur les croix d'or.--Vous aurez soin de me préparer un bon lit devant l'autel: je prendrai plaisir à m'y coucher, appuyé sur le crucifix.--Je veux saccager et détruire cette abbaye; car les fils d'Herbert la chérissent.»
+Les chevaliers répondent: «Nous ne pouvons refuser.»
+Aussitôt les nobles guerriers vont s'armer, et montent à cheval. Tous ont pris leur bonne épée d'acier, leur écu, leur lance et leur haubert.--Ils approchent d'Origni; les cloches ont sonné au maître-clocher.--Alors, ils se ressouviennent de Dieu et de sa justice. Les plus forts fléchissent et ne veulent pas outrager les corps saints.
+Ils dressent donc les tentes au milieu des prés et s'y établissent; puis, la nuit arrivant, ils s'y couchent jusqu'au lever du soleil.
+ II.
+Le jour apparoissoit, et prime sonnoit à l'abbaye, quand l'on vit arriver le comte Raoul. Il apostrophe ses barons avec colère: «Félons, gloutons, séducteurs, vous êtes bien mal pensants d'oser ainsi oublier mes ordres!»
+--«Grâce, beau sire, grâce par Dieu le rédempteur! Nous ne sommes ni juifs, ni tyrans pour aller de la sorte violer l'asile des saints.»
+Raoul furieux reprit: «J'ai commandé de tendre mon pavillon dans l'église: et qui vous a donc conseillé le contraire?»
+--«Vraiment, dit le sor Géri, tu as trop d'outrecuidance; il n'y a pas encore longtemps que tu as été armé chevalier; et tu es perdu si tu attires sur toi la malédiction de Dieu. D'ailleurs les francs hommes doivent honorer les lieux saints et ne pas outrager les reliques qu'ils renferment. L'herbe est belle et fraîche par les prés; cette rivière est claire; ne pourrois-tu pas placer ici ton camp et loger tes gens à l'aise? La position est bonne; et tu n'aurois pas la crainte d'une surprise.»
+--«Qu'il soit fait ainsi que vous le dites, répondit Raoul; je l'accorde, puisque vous le voulez.»
+Les tapis sont jetés sur l'herbe verte. Raoul s'y couche avec dix chevaliers; et appuyés sur les coudes, ils prennent une résolution funeste.
+«Allons au plus vite saccager Origni, mes amis, s'écrie Raoul aux chevaliers. Celui qui refusera de me suivre, jamais je ne l'aimerai!»
+--Les barons ne l'osent abandonner; ils montent à cheval au nombre de plus de quatre mille, et s'approchent d'Origni. Ils commencent alors à assaillir le bourg et à lancer leurs traits. Les gens de Raoul vont couper les arbres devant la ville. Les habitants, voyant le danger, se disposent à la défense.
+Les nonnes sortent du monastère dans la campagne. Les gentilles dames ont en main leurs psautiers et récitent de saintes oraisons: à leur tête s'avance Marcent, la mère de Bernier, tenant le livre des litanies de Salomon.
+Elle saisit le comte Raoul par son haubert: «Sire, dit-elle, au nom de Dieu, où est Bernier, gentil fils de chevalier? Je ne l'ai plus revu depuis que je l'ai nourri dans son jeune âge.»
+--«Dame! au maître-pavillon, où il se divertit avec maints bons amis. On ne trouveroit point pareil guerrier d'ici au Pré-Néron. Il a excité ma colère contre les enfants d'Herbert; et il dit bien qu'il ne chaussera plus jamais un éperon, si je leur laisse un bouton vaillant.»
+--«Dieu! dit la dame, comme il a le cœur méchant! Tout le monde sait que les fils d'Herbert sont ses cousins; et s'ils viennent à perdre leur terre.... ah! le malheureux!...--Sire Raoul, nous sommes nonnes; et par les saints de Bavière, jamais vous ne nous verrez tenir ni bannière, ni lance; jamais nous n'étendrons personne dans la tombe...»
+--«Vrai! interrompit Raoul, vous êtes bien une méchante flatteuse. Vile courtisane de bas lieu....»
+--«Sire Raoul, pourquoi m'outrager? Nous ne manions ni l'épée, ni la lance; et vous pouvez nous mettre à mort sans défense: mais ce seroit grand péché.--Toute notre vie, c'est l'autel; et notre subsistance, on nous la donne.--Les puissants seigneurs qui vénèrent ces lieux saints, nous envoient l'or et l'argent dont nous avons besoin. Quel mal faisons-nous? Et pourquoi nous traiter cruellement? Si vous voulez ravir cette terre à notre sire, eh bien! vous la conquerrez avec vos chevaliers; mais respectez cette abbaye.--Allez, retournez dans nos prés; nous vous donnerons toutes provisions; et le foin et l'avoine ne manqueront pas à vos écuyers.»
+--«Par saint Riquier, dit Raoul, j'ai pitié de votre prière, et vous fais grâce....»
+--Et la dame répondit, «sire, je vous remercie.»
+Raoul remonte sur son cheval coursier, et s'éloigne.
+ III.
+Cependant, le vaillant Bernier a revêtu un riche habit, il vient trouver sa mère Marcent au fier visage; car il a grand besoin de lui parler.--Il met pied à terre: la dame alors le saisit entre ses bras, et par trois fois l'embrasse. «Beau-fils, dit-elle, tu as donc pris tes armes?... tu ne peux me le cacher.... Tu as donc pris tes armes contre le fief de ton père! et ne sais-tu pas qu'il t'appartiendra un jour? Ybert n'a plus d'hoirs, et tu le mériteras par ton courage et ta sagesse.»
+--«Non, par saint Thomas, dit Bernier, Raoul, mon seigneur, est plus félon que Judas...; mais il est mon maître: il me donne chevaux, habits, harnois, équipements; et pour le fief de Damas, je ne voudrois lui manquer: jamais, tant que tout le monde ne répète: Bernier en a le droit.»
+--«Par ma foi, fils, tu as raison; sers bien ton seigneur, et tu mériteras devant Dieu.»
+ IV.
+Les fils d'Herbert aimoient beaucoup le beau et grand bourg d'Origni. Il l'ont fait entourer de pieux fichés en terre; mais c'étoit là une bien faible défense. Près des palissades se trouvoit une prairie fertile, appartenant aux nonnes, et où les bœufs de l'abbaye paissoient pour s'engraisser. Il n'y avoit personne sous le ciel, qui l'eût osé endommager. Le comte Raoul y fait transporter sa tente; les draperies en étoient d'or et d'argent, et quatre cents hommes pouvoient s'y héberger à l'aise.
+ V.
+Cependant, trois soudarts mauvais ont quitté l'armée; et chevauchant à francs étriers aux alentours d'Origni, ils prennent et ravagent tout sur leur passage.
+Dix paysans, armés de leviers, sortent du bourg et leur courent sus. Ils en ont fait mourir deux à grands coups; le troisième s'enfuit sur son destrier et regagne le camp au plus vite.
+Il met pied à terre, va baiser le soulier de son droit seigneur, et se lamente en lui demandant sa merci.
+«Sire, dit-il à haute voix, tu es perdu, et le Seigneur Dieu ne te sera jamais en aide, si tu ne te venges pas de ces bourgeois qui sont si riches, si orgueilleux et si fiers.--Ils ne t'estiment, ni toi, ni les autres, la valeur d'un denier. Ils font menace de te couper la tête, s'ils peuvent te tenir un jour; et sois sûr que tout l'or que renferme Montpellier ne te garantiroit pas de leur fureur. Je les ai vus occire et massacrer mon frère et mon neveu; et, par saint Riquier, ils m'eussent aussi mis à mort, si je n'avois fui sur ce destrier.»
+Raoul l'entend, et il pense perdre la raison, de colère: «Francs chevaliers, s'écrie-t-il, or sus, je veux aller saccager Origni. Ah! les bourgeois commencent la guerre; si Dieu m'aide, je leur ferai payer cher leur audace!»
+Les chevaliers courent aussitôt à leurs armures; car ils n'osent abandonner leur seigneur. Ils sont au nombre de dix mille, comme je l'ai ouï raconter, et commencent à éperonner vers Origni.--Bientôt ils tranchent les palissades de leurs cognées d'acier, et les font tomber à leurs pieds.--Ils traversent le fossé et le vivier, et s'avancent près de la muraille pour mieux l'attaquer.
+ VI.
+Les bourgeois ont vu leurs palissades franchies.--Les plus hardis en sont attérés. Cependant ils se sont précipités aux tourelles des murailles, et de là ils lancent des pierres et une multitude de pieux aigus. Il n'y a pas homme ayant maison dans la ville, qui ne soit à son poste. Déjà plusieurs des soldats de Raoul sont tombés morts, et les bourgeois jurent que s'ils trouvent le comte, ils le mettront en pièces.
+--Raoul voit l'acharnement avec lequel ils se défendent, et il en est furieux. Il jure, par Dieu et par son épée, que s'il ne les fait pas tous brûler avant la nuit, il ne se prise pas la valeur d'un fétu de paille. Il ne tint pas ainsi la promesse qu'il avoit faite à l'abbesse, la veille, comme vous allez bientôt le voir dans la chanson.
+«Barons,» s'écrie-t-il d'une voix terrible, «le feu! le feu!»
+Les écuyers l'ont saisi aussitôt; car ils pilleroient volontiers. Ils escaladent les murs et se répandent dans les rues. Bientôt le feu prend aux maisons. Alors ils enfoncent les celliers, brisent les cercles des tonneaux et font couler le vin à grands flots. Les saloirs au lard s'embrasent; la flamme gagne les planchers qui s'écroulent; et les enfants sont brûlés vifs au berceau.
+--Les nonnes de l'abbaye se sont réfugiées dans l'église; mais cela leur a peu servi; car la flamme roule déjà dans le maître-clocher. Les cloches fondent: les charpentes et les brandons tombent avec fracas dans la nef.--Le brasier alors devient si ardent, si chaud que les cent nonnes se consument en poussant des cris de désespoir: avec elles expirent la mère de Bernier, Marcent, et Clamados, la fille au duc Renier.
+A la vue de l'incendie, les hardis chevaliers pleurent de pitié.
+Bernier surtout, Bernier en devient presque fou: il prend son écu; et l'épée nue, il court droit à l'église.
+Mais la flamme coule encore parmi les portes; et la chaleur est telle qu'on ne peut s'en approcher qu'à une portée de flèche lancée de toutes forces.
+Alors Bernier s'arrête derrière un tombeau de marbre; et regardant, il voit sa mère étendue au milieu de l'église, sa belle face tournée contre terre; il voit son psautier qui brûloit encore sur sa poitrine.
+«Hélas! s'écrie-t-il, tout est fini; et c'est folie d'essayer de la sauver! Ah! douce mère, vous m'embrassiez hier si tendrement! et moi, aujourd'hui, je ne puis rien faire pour vous!.... Que Dieu, qui doit juger le monde, prenne votre âme.... Et toi, félon Raoul, qu'il te confonde à jamais.... Je ne puis plus désormais t'accorder mon hommage.... Et je serois bien méprisable, si je ne tirois vengeance de ce crime.»
+--Il est désespéré.... Son épée d'acier lui tombe des mains.... Trois fois il se pâme sur le cou de son destrier.--Il va demander conseil au sor Géri; mais le conseil ne lui a pas beaucoup servi, comme vous allez le voir.
+--«Sire Géri, dit-il le cœur dolent, au nom de Dieu qui ne mentit jamais, conseillez-moi, je vous en conjure. Raoul de Cambrésis m'a traité bien mal. Il a brûlé dans l'église d'Origni ma mère Marcent au port majestueux.»
+Géri répond: «j'en suis bien affligé pour vous.»
+Le noble guerrier s'en retourne, plein de courroux, à son pavillon; il met pied à terre, et les écuyers courent dégarnir son cheval. Ses gens pleurent de le voir si triste.
+Alors Bernier les prend à raisonner courtoisement: «Franche compagnie, conseillez-moi, je vous prie: messire Raoul ne m'aime pas beaucoup, lui qui a fait brûler ma mère dans cette église. Ah! si Dieu me laisse vivre, je saurai m'en venger!....»
+ VII.
+Cependant Raoul est descendu de son coursier au poil fauve, à l'entrée de son pavillon. Ses barons le désarment; ils lui délacent son heaume doré, lui déceignent sa bonne épée d'acier, lui enlèvent du dos son haubert et lui passent sa robe. Il n'y a pas en France de si beau chevalier, ni de plus habile à se servir de ses armes.
+Raoul a appelé son sénéchal, qui est venu sur-le-champ, et songeant au plaisir de la bonne chère: «Fais-nous servir, dit-il, des paons rôtis et des cygnes poivrés: donne-nous aussi du gibier à foison; je veux que le dernier de mes gens en mange aujourd'hui à son gré.»
+Le sénéchal l'a entendu: il le regarde et se signe trois fois à cause de si grand sacrilége: «Y pensez-vous, Monseigneur? Vous reniez donc la sainte chrétienté; vous reniez le baptême, vous reniez le Dieu de gloire. Il est carême; c'est aujourd'hui le vendredi solennel, dans lequel les pécheurs adorent la croix: et nous, misérables, nous sommes venus en ces lieux violer le saint monastère et brûler les nonnes qu'il renfermoit. Ah! nous n'obtiendrons jamais miséricorde, à moins que la pitié de Dieu ne soit plus grande encore que notre méchanceté.»
+Raoul a jeté les yeux sur lui.
+«Qui t'a dit de parler?.... Mes écuyers sont bien effrontés!... Il n'est pas étonnant que les fils d'Herbert aient payé cher leur audace; car pourquoi m'ont-ils manqué?.. Mais j'avois oublié le carême... donne-moi des échecs.»
+Des échecs sont apportés.--Raoul s'assied sur l'herbe avec colère et joue comme un homme bien appris. Il met avec adresse sa tour en ligne, avec un pion prend un cavalier, et bientôt il a _mâté_ et vaincu son compagnon. Alors il se dresse en pieds, le visage serein; et comme la chaleur est grande, il ôte son mantel gris et demande du vin.
+Quatorze jeunes damoiseaux, portant pelisses d'hermine, s'empressent d'exécuter ses ordres; et l'un d'eux, fils du comte Ybert de Saint-Quentin, lui apporte une grande coupe d'or, contenant assez de liqueur pour en abreuver un coursier. Il s'agenouille devant le noble comte et la lui présente....
+--Raoul l'a saisie entre toutes les autres.
+«Francs chevaliers, s'écrie-t-il aussitôt, entendez-moi! Par ce vin clair que vous voyez, et par cette épée qui gît sur l'herbe, par tous les saints serviteurs du Christ, les fils d'Herbert seront maltraités, je vous le jure; jamais ils n'auront de paix, et par saint Géri, je ne leur laisserai pas même la valeur d'un parisis.... Je veux les tenir morts ou vifs, et je les poursuivrai jusque dans la mer où je les ferai nager.»
+ VIII.
+Or, vous allez entendre la défense de Bernier:
+«Beau sire Raoul, vous faites des actions bien louables; mais vous en faites aussi qu'on ne peut trop blâmer. Les fils d'Herbert sont prud'hommes et bons chevaliers; et si vous les chassez par delà la mer, vous ne serez pas à l'aise en ce pays. Je ne vous le cacherai pas.... je suis votre homme: mais vous avez mal récompensé mes services; vous avez brûlé ma mère dans ce monastère, et vous voulez maintenant le renverser, faire mourir mes cousins et mon père! Ne vous étonnez donc pas si je prends leur défense en ce jour; et pour moi-même, je ne serois pas éloigné de venger le propre affront que vous me faites.»
+Raoul l'entend: il en pense perdre la raison de fureur, et il couvre le baron d'outrages....
+«Sire Raoul, vous avez tort et vous péchez: ma mère est brûlée, et mon cœur est plein de colère.--Je vous le redis; si Dieu me laisse vivre, je saurai me venger.»
+Raoul l'a entendu et a branlé la tête.
+«Si je ne te pardonnois pour la miséricorde de Dieu, je te ferois trancher tous les membres; il tient à bien peu de chose que tu ne sois déjà mort.»
+«Tu es un bien mauvais ami, dit Bernier, de me récompenser de la sorte, moi qui t'aimois, moi qui proclamois tes louanges. Ah! si j'avois lacé mon heaume, je combattrois volontiers à pied, à cheval, contre le chevalier le mieux armé..... Je lui ferois voir qu'on n'est point félon, quand on n'a pas renié Dieu. Et vous-même, que je vois si courroucé, sire comte, non, pour l'archevêché de Reims, vous ne me frapperiez pas.»
+Raoul a dressé la tête.--Il saisit un grand tronçon de pieu qu'un veneur a laissé à terre; il le soulève avec colère, et s'approchant de Bernier, il lui en fracasse la tête: Bernier voit le sang rougir son manteau d'hermine; il est éperdu.... Il embrasse Raoul avec rage, et c'en étoit fini.... Mais les chevaliers accourent et les séparent.
+Bernier a appelé à haute voix son écuyer.
+«Or tôt, mes armes, mon haubert, ma bonne épée et mon heaume. Je pars de cette cour sans délai!...»
+[Illustration]
+Ce qui suit est le récit des guerres, des vengeances et des atrocités que fit naître cette querelle. Bernier, ayant quitté son maître, prit parti pour ses cousins, les fils d'Herbert de Vermandois; et le nouvel épisode qu'on va lire donnera une idée de la manière toute homérique dont nos premiers poètes français chantaient les combats et leurs sanglants effets.
+[Illustration]
+
+ COMBATS ET MORT DE RAOUL.
+ I.
+IL a plu; et le champ de bataille est un marais trempé d'eau et de sang, car bien des barons sont morts en ce lieu. Les plus ardents destriers vont au pas, harassés qu'ils sont de fatigue; ils glissent, ils s'abattent sur la terre molle.
+Voilà que le comte Ernaut de Douai rencontre le sire de Cambrai Raoul.
+--«Par Dieu, Raoul, lui crie-t-il, nous ne serons amis que lorsque je t'aurai mis à merci et tué. Tu m'as occis mon neveu Bertolai et Richerin que j'aimois tant, et bien d'autres encore de mes amis que je ne verrai plus!»
+--«Oui certes, dit Raoul, et ce n'est pas tout..... Toi-même, tu tomberas sous mes coups.»
+--«Eh bien, par le corps saint Nicolas, je t'en défie, reprit Ernaut.--Ah! te voilà donc, Raoul de Cambrésis, que je n'ai vu depuis ce jour où mon cœur fut par toi tant navré. J'avois de ma femme deux petits enfants que j'envoyai à la cour du roi de Saint-Denis, et tu les fis mourir, traître! Tu es à toujours mon ennemi; et si cette épée que je tiens ne te coupe la tête, je ne me prise la valeur de deux parisis.»
+--«En vérité, répond Raoul, tu t'estimes bien haut.... Je ne veux plus voir la cité de Cambrai si je ne te fais mentir à ta parole.»
+Et les deux barons furieux éperonnent leurs destriers et se précipitent l'un contre l'autre, se donnant sur leurs écus des coups terribles. Mais ils sont protégés par leurs hauberts.--Bientôt ils sont désarçonnés: ils sautent à terre et tirent leurs glaives.
+A cette vue les plus hardis chevaliers s'arrêtent épouvantés.
+Le comte Raoul est un merveilleux baron pour sa force et son audace à manier ses armes. Il frappe Ernaut au chef et abat du coup les ornements de son heaume doré. Le fer auroit pénétré dans la tête sans la coiffe du haubert qu'il n'a pu traverser; mais glissant à gauche, l'épée coupe un quartier de l'écu avec deux cents mailles du haubert. Ernaut, étourdi du choc, trébuche; et glacé d'effroi, réclame le Dieu de toute justice..... «Aidez-moi, sainte Vierge Marie, et je rebâtirai le moustier d'Origni!»
+Alors Ernaut, reprenant courage, se retourne plein de colère sur Raoul et lui assène de grands coups sur son heaume dont il brise les fleurs de lys..... Le sire de Cambrai a le visage et la bouche ensanglantés....--A son tour, il frappe Ernaut de sa tranchante épée, brise son heaume, et rabattant la lame à gauche avec une grande adresse, il lui coupe le poignet qui tombe serrant encore le bouclier.
+Ernaut est anéanti de voir gésir à terre son poing et son écu, de voir couler le sang vermeil de sa blessure. Eperdu, il remonte à cheval et s'enfuit à travers les bruyères.
+--Raoul se précipite sur ses pas.....
+ II.
+Ernaut s'enfuit et Raoul le serre de près.... Mais voilà que son destrier s'est abattu et il va être atteint: effrayé alors, il s'arrête un moment au milieu du chemin et s'écrie à haute voix: «Grâce, Raoul! grâce, au nom de Dieu le créateur: si tu m'en veux de t'avoir frappé, eh bien, je serai ton homme lige; si cela te plaît, je t'abandonne Brabant et Hainaut..... Mes hoirs n'y pourront désormais prétendre l'espace d'un demi-pied.»
+--Raoul a juré de ne rien écouter tant qu'il ne l'ait mis à mort.
+ III.
+Ernaut s'enfuit à grands coups d'éperons, et Raoul au cœur félon le poursuit et le presse... Il regarde de côté et aperçoit au loin son neveu, le noble baron Rocoul de Soissons, aussi neveu du comte Bernier. Il tourne vers lui sa course et l'appelle à grands cris; car il a peur de mourir.--«Beau neveu, protégez-moi contre la fureur de Raoul. Il m'a coupé le poing dont je tenois mon écu et qui seul pouvoit me défendre; il me menace de m'arracher la tête.»
+--Rocoul frémit à ces mots. «Oncle, dit-il, point ne vous sert de fuir; Raoul aura bataille.»
+Et le vaillant chevalier pique son coursier de ses éperons d'or, brandit sa lance à manche de pommier et frappe Raoul sur son écu. Raoul riposte; et les lances se cassent sur les hauberts, sans que les deux chevaliers aient perdu les arçons.
+A cette vue, le comte de Cambrai entre en fureur, saisit sa grande épée d'acier, brise le heaume de Rocoul, et la rabattant sur l'étrivière gauche, lui tranche le pied qui tombe avec l'éperon.
+Raoul se réjouit à cet aspect, et d'un ton dédaigneux: «Vois, dit-il, Ernaut est manchot et toi boiteux; vous voilà bons à devenir l'un garde, l'autre portier.»
+--«Mon oncle, dit Rocoul au comte de Douai, j'espérois vous venir en aide; mais, hélas! mon secours ne pourroit plus maintenant vous sauver.»
+ IV.
+Ernaut s'enfuit à grands coups d'éperons, et Raoul au cœur félon le presse par-arrière. Il jure par le Dieu qui souffrit mort et passion qu'il ne le quittera qu'après lui avoir coupé la tête sous le menton.
+--Ernaut regarde de côté et aperçoit le sire Herbert d'Ireçon, Wedon de Roie, Loys, Sanson et le comte Ybert, le père de Bernier. Il tourne vers eux sa course et les appelle à grands cris; car il a peur de mourir.--«Seigneurs, dit-il, bien devez-vous me protéger contre la fureur du comte Raoul, qui tant a tué de vos amis. Il m'a coupé le poing dont je tenois mon écu et qui seul pouvoit me défendre, et il menace de m'arracher la tête.»
+Ybert l'entend et pense en perdre la raison; il lance son bon destrier, brandit sa haste, déroule le gonfalon, frappe et brise l'écu de Raoul. Le fer a percé les mailles du haubert et glisse sur le côté.
+Ce fut merveille s'il ne fut pas occis alors ou bien fait prisonnier; car plus de quarante chevaliers ennemis l'entouroient déjà, quand à toutes brides accourut Géri d'Arras, en compagnie de quatre cents guerriers.
+Alors recommence un choc terrible, et l'on voit la terre se joncher de pieds, de poings, de têtes coupées. Les cadavres et les blessés sont là étendus, la bouche béante, et l'herbe est tout ensanglantée. L'épée à la main, le comte Raoul est toujours au plus fort du combat, et en ce jour il a sevré bien des âmes de leurs corps; il a fait veuves bien des dames; car plus de quatorze barons sont tombés sous ses coups.
+Ernaut a vu tout cela le cœur dolent, et il a réclamé Dieu le Sauveur des âmes. «Sainte Marie, Mère couronnée, ayez pitié de moi!»
+ V.
+Et il se remet à fuir dans la vallée....
+Raoul a levé la tête, l'a aperçu, et déjà s'est précipité sur ses pas, en lui criant de toute la force de ses poumons: «Ernaut! j'ai désiré ta mort, et ce glaive me va satisfaire.»
+«Je n'en puis; mais, sire, puisque telle est ma destinée, répond Ernaut, pour qui toute joie et tout espoir sont perdus, hélas! point ne me sert de me défendre.»
+Et il s'enfuit, ne sachant où se blottir. Telle peur il a, qu'à peine il se peut soutenir; et il sent que Raoul approche et va l'atteindre! «Grâce! Raoul, merci, crie-t-il, je suis jeune encore et ne veux pas mourir; je me ferai moine et servirai Dieu.... Tous mes fiefs seront à toi.....
+--«Non, dit Raoul, il est temps d'en finir; ce fer va te couper le cou. Ni hommes, ni saints, ni Dieu ne pourroient te sauver.»
+A ces paroles, Ernaut jette un soupir....
+Mais son cœur lui revint aussitôt, car il a entendu renier Dieu.
+--«Raoul, vil mécréant, lui crie-t-il, en hochant la tête, trop plein d'orgueil, de félonie et d'outrecuidance, chien enragé qui renie Dieu et son amitié, sache bien que si le Roi de gloire avoit pitié de moi, tu ne me frapperois pas!...»
+ VI.
+Et il s'enfuit à coups d'éperons, tenant en sa main l'épée qu'il a tirée du fourreau.
+Quand il a quelque avance, il regarde devant lui, et voit venir Bernier équipé à merveille, muni de belles armes, de haubert, de heaume, d'écu et d'épée. A cet aspect Ernaut tressaille de joie et plus ne songe à son poing. Il a dirigé son cheval vers lui.--«Grâce, sire Bernier, aie de moi pitié! vois mon bras; c'est Raoul qui m'a meurtri de la sorte.»
+--Bernier l'entend, il frémit et frissonne jusqu'aux ongles des pieds.--«Oncle Ernaut, s'écrie-t-il, point ne vous sert de trembler, et je vais implorer pour vous mon ancien maître.»
+Puis, s'appuyant sur le cou de son destrier:
+«Eh! sire Raoul, clame-t-il à haute voix, fils de femme légitime, c'est toi qui m'adoubas chevalier, je le sais, mais depuis tu m'as fait payer bien cher cet honneur..... Tu as brûlé ma mère dans l'église d'Origni; tu as occis maints de nos vaillants amis, et à moi-même, tu m'as brisé la tête; je sais aussi que tu m'offris une amende; tu voulois me donner cent bons coursiers, cent mulets, cent palefrois de prix, cent écus et cent hauberts doublés; je n'acceptai pas, car la vue de mon sang m'avoit mis en fureur, et les braves chevaliers, mes amis, ne m'ont jamais blâmé. Mais si en ce jour tu me fesois la même offre, oh! je l'accepterois et pardonnerois tout; je te le jure par saint Riquier. De la sorte, la guerre seroit finie; car mes parents apaiseroient leur colère, et je te ferois bailler la suzeraineté de toutes nos terres.... Mais, au nom du Dieu juste, calme-toi et ne reste pas sans pitié. Pas ne te sert de poursuivre cet homme qui a perdu son poing et est à demi mort.»
+Raoul, à ces mots, est exaspéré de fureur; il se dresse sur ses étriers qui ploient, et fait cambrer sous lui son destrier. «Bâtard, dit-il, bien savez-vous plaider; mais vos flatteries ne vous serviront pas, car vous ne sortirez de ces lieux avec votre tête.»
+--«Oh! alors, répond Bernier, mon courroux est légitime....»
+Et voyant que sa prière n'a point servi, Bernier pique son destrier et court sur Raoul qui se précipite à sa rencontre. Ils se portent de grands coups sur leurs écus, et se vont pourfendant leurs armures.... Mais Raoul se rue avec tant de violence contre Bernier, que bouclier et haubert ne lui auroient pas plus servi qu'un gant, et qu'il seroit mort sur le coup, si Dieu et le bon droit n'avoient été pour lui. Il esquive le fer qui glisse à côté.
+ VII.
+Bernier alors prenant sa revanche frappe avec fureur le comte Raoul, coupe son heaume luisant, en fracasse les garnitures et tranche la coiffe du haubert.--Le glaive a coulé dans la cervelle.--Raoul incline la tête et tombe de cheval.
+--En vain il songe à se relever..... A grands efforts il tire son épée d'acier, et on le vit alors la dressant en l'air chercher où il pourroit frapper; mais bientôt son bras retombe vers la terre, et c'est avec bien de la peine qu'il parvient à retirer son fer fiché dans le gazon. Déjà sa belle bouche commence à se rétrécir; son œil si vif s'obscurcit, et en cet instant il réclame le Dieu du Ciel.--«Hélas! glorieux Père, Seigneur tout-puissant, combien je me sens foiblir; tout-à-l'heure encore, plus d'espoir à ceux qui s'offroient à mes coups; et maintenant..... Je me battois pour un fief; désormais je n'aurai besoin de celui-là ni d'un autre..... Secourez-moi, douce Dame du ciel!...»
+--Bernier à ces paroles pense perdre la raison, et se prenant à larmoyer sous son heaume:
+--«Eh! sire Raoul, s'écrie-t-il, fils de légitime épouse, tu m'adoubas chevalier; je ne pourrois le nier; mais tu m'avois fait payer bien cher cet honneur en brûlant ma mère dans l'église d'Origni et en me fracassant la tête... Tu m'as offert raison, il est vrai.... Maintenant je ne désire plus autre vengeance....»
+--«A mon tour, s'écrie le comte Ernaut.... Laisse ce cadavre, que je venge mon poing!»
+--«Je ne puis vous en empêcher, répond Bernier; mais à quoi vous sert de frapper un mort?....»
+--«Oh! ma colère est bien juste, reprend Ernaut.»
+Et tournant son destrier vers la gauche du comte Raoul, il le frappe sans pitié, brise de nouveau son heaume, tranche la coiffe de son haubert, et baigne l'épée dans sa cervelle; puis, la retirant, il la plonge tout entière dans son corps.....
+Alors l'âme abandonne le gentil chevalier. Prions le Seigneur Dieu qu'il la prenne à lui!
+[Illustration]
+
+ [Illustration]
+Géri le Sor, comte d'Arras, a donné sa fille Béatrix en mariage au comte Bernier, après lui avoir pardonné le meurtre de son neveu, Raoul de Cambrai. Mais le pardon n'est pas sincère, et Géri conserve toujours dans son cœur un profond ressentiment du meurtre de son neveu.--Les causes qui réveillèrent cette haine assoupie, et les terribles résultats qui en advinrent, forment le sujet de l'épisode suivant.
+[Illustration]
+
+ MEURTRE DE BERNIER.
+ I.
+..... Ils passèrent de la sorte six jours pleins, et quand vint l'heure du départir, Géri appela Bernier:
+«Sire, dit-il, écoutez-moi: je veux aller servir saint Jacques; c'est un vœu que j'ai fait, afin que vous le sachiez.»
+Bernier lui répondit: «Voilà aussi cinq ans que je l'ai promis.»
+--«Eh bien, frère, dit Géri, allons-y de compagnie.»
+--«Par ma foi, je vous l'accorde, repartit Bernier; indiquez le jour que nous quitterons ces lieux.»
+Le voyage est arrêté pour la huitaine après Pâques.
+Le Sor retourne en son pays, et Bernier reste près de ses deux enfants et de sa gentille femme.--Elle lui tient le discours que vous allez entendre:
+«Bernier, beau frère, vous avez beaucoup entrepris; mon père est très-félon et fort mal avisé; il y a de la trahison en lui. Si vous lui dites chose qui ne lui plaise point, il vous tuera sans défiance.»
+--«Vous parlez mal, madame, lui répondit Bernier; il ne le feroit pas pour le fief de Paris.»
+--«Sire, dit-elle, gardez-vous toujours bien de lui; je vous en prie pour l'amour de Dieu.»
+--Et la parole en resta là.
+Tant s'écoula-t-il de journées que le terme fixé arriva; alors Géri s'en revint à Saint-Quentin, et avec lui Anciaumes et Ernaïs, deux francs chevaliers; Bernier prit pour compagnons Garnier et Savary. Ils vont à l'église, prennent les écharpes, et après messe, ils se mettent à la voie.
+Au moment du départir, Bernier embrassa ses fils, et puis embrassa sa franche épouse, et elle lui, en pleurant des yeux de son visage: «Que le Dieu qui daigna mourir pour nous sur la croix, lui dit-elle, vous garde de mort et de péril!»
+Alors Berner la baise encore une fois et ce fut la dernière; car elle ne le vit plus que mort et étendu dans le cercueil, comme vous allez l'apprendre en la chanson.
+ II.
+--Bernier chevauche avec le sor Géri; ils traversent la France, entrent en Berry, se dirigent vers Poitiers, et vont à Blaye sans retard; ils y passent la nuit; et le matin ils s'avancent droit à Bordeaux, en traversant les landes.
+Je ne saurois vous raconter leurs journées; mais tant chevauchèrent-ils, et par jour et par nuit, et par beau et par mauvais temps, qu'ils arrivèrent à Saint-Jacques un mardi. Après s'être hébergés ils s'en vont à l'église. Le soir ils y veillèrent chacun un cierge en main. Le lendemain, de grand matin, ils entendent la messe, retournent un moment à leur hôtel, et puis remontent sur leurs bons chevaux, car ils ont grande hâte de revenir.
+Ils arrivèrent à Paris en trente jours; mais ils n'y trouvèrent pas le fort roi Loys[9], qui pour lors étoit à Laon avec ses amis. Ils couchèrent la première nuit à Saint-Denis, l'autre à Compiègne, le château renommé, et furent à Laon le lendemain. Ils y trouvèrent le roi qui leur fit bel accueil; puis ils prirent congé de lui pour se rendre droit à Saint-Quentin.
+Quand ils arrivèrent dans les prés, sous Origni, en la place où Raoul avoit été tué, le comte Bernier fit un pesant soupir. Le sor Géri s'en aperçut et lui demanda pourquoi il soupiroit.
+«Point ne vous importe, beau sire, lui répondit Bernier, de connoître la cause de mon chagrin.»
+--«Mais je le veux savoir, dit Géri.»
+--«S'il en est ainsi, repartit Bernier, je vous le dirai: je me remembre de Raoul le marquis, qui eut l'outrecuidance de vouloir ravir l'héritage de mes cousins; voici le lieu où je l'ai mis à mort.»
+Géri l'entend, et c'est à peine s'il n'enrage; mais il dissimule son courroux par sa contenance: toutefois il répondit à Bernier: «Vassal, vous êtes mal avisé de me rappeler la mort de mes amis.»
+En ce moment ils rencontrent des paysans de leur contrée, qui leur donnent nouvelles de la comtesse Béatrix.
+«Seigneurs barons, leur disent-ils, la gente dame, fille à Géri d'Arras, et femme au franc Bernier, n'est pas à Saint-Quentin, voilà cinq jours qu'elle est à Ancre[10] avec ses deux fils.»
+Les barons, à ces mots, s'en vont à Saint-Quentin, d'où après avoir un peu mangé ils continuent leur chevauchée tout droit vers Ancre.
+Le sor Géri soupire souvent, et peu s'en faut que son cœur ne se brise; car il se rappelle le mot de Bernier et la mort de son ami.
+ III.
+Ils chevauchent de la sorte jusqu'à une mare où leurs destriers se désaltèrent volontiers, car ils en ont grand désir. La colère ne peut sortir de l'âme du vieillard où le mauvais esprit ne tarda pas à entrer. Portant alors la main à l'étrivière, il en décroche tout bellement un étrier, et frappant Bernier à la tête, il lui brise le crâne. Du coup la cervelle sauta, et le comte Bernier tomba dans l'eau.
+Garnier et Savary l'en retirèrent, tandis que Géri fuyoit avec Anciaumes et Ernaïs qui l'en blâmèrent grandement.
+--Les deux écuyers ont pris leur maître entre leurs bras, et lui adressant la parole: «Sire, en reviendrez-vous?»
+--«Nenni, dit Bernier, voyez ma cervelle qui tombe sur mon giron. Ah! traître Géri, que Dieu te maudisse! Ta fille Béatrix m'avoit bien dit que tu me tuerois en trahison, et que j'eusse à me garder de toi: elle avoit la triste pensée de ce qui adviendroit. Mais Dieu, notre père, pardonna bien sa mort à Longis[11], ne dois-je pas aussi pardonner la mienne?--Je lui pardonne: Seigneur; ayez pitié de moi!»
+Et à ces mots, il appela Savary, pour lui confesser ses péchés, car il n'y avoit pas là de prêtres. Savary rompit trois brins d'herbe, et Bernier les reçut pour _Corpus Domini_.
+Alors il tendit ses deux mains jointes vers le ciel, se battit la poitrine et demanda grâce à Dieu.... Bientôt son œil tremble, sa vue se trouble, son corps se roidit et l'âme en sort.
+Que Dieu la reçoive en son saint paradis!
+Puis Garnier et Savary enlevèrent le cadavre; et le plaçant sur un mulet arabe ils s'acheminent droit vers Ancre.
+ IV.
+.... La comtesse Béatrix est au palais seigneurial avec ses deux fils. La gentille dame les fait venir:
+--«Grâce au Seigneur, mes enfants, vous êtes chevaliers depuis tantôt deux mois que Bernier, votre père, est allé servir saint Jacques; or, voici venu le terme de son retour.
+--Bien avez-vous parlé, madame, disent les enfants.»
+Tandis qu'ils devisoient de la sorte, la dame jette les yeux sur le chemin ferré et aperçoit Garnier et Savary, qui ramenoient Bernier.
+La dame les montrant à ses fils: «Je vois, dit-elle, deux chevaliers venir; ils me semblent bien courroucés et tristes, ils s'arrachent les cheveux et se frappent les mains. Hélas! j'ai grand peur de mon père Géri: hier soir, quand je m'endormis, je songeois un songe affreux. Mon seigneur étoit revenu; et mon père l'attaquant sous mes yeux l'avoit abattu à terre; il lui arrachoit les yeux de la tête, et à moi-même il me tordoit le cou.... Puis je vis les salles de ce palais s'écrouler. Las!.. la frayeur revient maintenant à mes esprits.»
+--«Ce songe est signe de bonheur, lui répondit son fils.»
+Et pendant qu'ils parloient ainsi, Garnier et Savary approchoient.
+ V.
+Il y a dans la ville un prieuré que l'on appelle aujourd'hui dans le pays Bernier-Bierre; les moines y recueillirent Bernier; et après avoir lavé son corps d'eau froide et de vin, ils le cousent dans une grande toile de lin, puis le mettent dans un cercueil qu'ils recouvrent d'un drap magnifique.
+Un messager s'en vient droit à la comtesse: «Dame, lui dit-il, par le Dieu qui fit tout bien, Garnier et Savary sont revenus apportant un chevalier mort.» La dame à ces mots changea de visage: «Las! s'écrie-t-elle, mon rêve est avéré; ah! je le sais bien, c'est Bernier, mon ami.»
+Et relevant sa longue robe, elle court tout épouvantée au prieuré; elle aperçoit Savary et lui crie: «Où est mon seigneur, celui qui m'a épousée?»--«Madame, lui dit Savary, point ne sert de vous le cacher, le voici dans la tombe: c'est votre père, Géri d'Arras, qui l'a tué.» Béatrix l'entend et en pense perdre la raison. Elle va droit au cercueil, enlève la courtine, rompt le suaire, et considérant la plaie: «Frère, dit-elle, que vous voilà mal traité! Ah Géri! vieillard félon, grise barbe, si tu ne m'avois mise au monde, je t'aurois déjà maudit; car tu m'as sevrée en ce jour d'un seigneur qui me donnoit gloire et bonheur. Hélas, Bernier, mon frère, franc et valeureux baron, votre haleine est si douce qu'elle me semble tout embaumée!»--A ces mots elle tombe évanouie à terre.
+Julien, son fils, l'en a relevée, et lui parlant de belle façon:
+«Ne vous émouvez pas, madame, lui dit-il; car, par celui qui fit le ciel et la rosée, quinze jours ne se passeront pas, sans que la mort de mon père ne soit chèrement payée!»
+[Illustration]
+Dans le terme indiqué, Julien avait tenu parole, car la ville d'Arras avait été prise et saccagée de fond en comble par lui et ses chevaliers. Toutefois le vieux Géri ne perdit pas la vie dans cette occasion; le trouvère, pour ne point ternir la vengeance du jeune Julien, et lui conserver en entier ce caractère de légitimité, qui était si bien dans les mœurs du temps, aime mieux nous dire que le comte d'Arras disparut avant la prise de sa ville, et que l'on n'entendit plus parler de lui; seulement il présume, avec un tact exquis, qu'il se fit ermite dans quelque lieu solitaire; et c'est là le dénouement du drame.
+[Illustration]
+
+ CHANSON
+DE LA MORT
+DE
+BÉGUES DE BELIN.
+
+ [Illustration]
+LE poème, ou si l'on veut, _la chançon des Loherains_, d'où est tiré l'épisode qu'on va lire, est une des plus vastes et des plus brillantes épopées du moyen-âge. M. P. Paris a publié en 1833-1835, la partie qui concerne Garin et Bégues son frère, laquelle selon ce philologue, aurait pour auteur Jehan de Flagy, trouvère sur lequel il existe peu de renseignements. Cette publication a révélé une production poétique du plus haut mérite.
+Entre toute les parties de cette chanson célèbre, il n'en est pas qui ait eu plus de renommée que LA MORT DE BÉGUES DE BELIN.
+Nous ne pouvons mieux caractériser ce fragment qu'en reproduisant ce que le baron de Reiffenberg a dit du poème en général.[12]--«Comme dans les plus anciennes compositions épiques, il règne dans son œuvre (Jehan de Flagy) une simplicité imposante, unie à beaucoup de mouvement et d'intérêt. Pas une seule fois il a eu recours au merveilleux; là point de géans, de nains, de fées, point d'armes enchantées: c'est dans le jeu des caractères qu'est tout l'artifice du poème, et ces caractères sont aussi énergiques que variés. Le génie sévère des Francs d'Austrasie éclate d'un bout à l'autre; on croirait qu'une grande pensée politique a donné, dès le principe, l'exclusion aux fictions ordinaires des poètes.»
+Le lecteur a pu remarquer cette même simplicité, cette même absence du merveilleux, cette même énergie de caractère dans les divers morceaux extraits ci-dessus du roman de Raoul.
+La mort de Bégues qui, à elle seule, est un poème entier, est souvent rappelée dans les œuvres des trouvères et dans les chroniques. Philippe Mouskes, dont M. de Reiffenberg vient de donner une si belle et si savante édition, s'est plu à rappeler tous les évènements de ce trépas si dramatique, comme ailleurs il avait reproduit quelques faits de notre roman de Raoul. Dès le XIVe siècle, on avoit translaté en prose ce brillant épisode, pour le populariser davantage et satisfaire ainsi l'avide curiosité de tous les lecteurs.
+De nos jours l'habile philologue M. Mone, en Allemagne[13], et M. Leroux de Lincy, en France[14], ont publié des analyses raisonnées de la chanson de Garin et ont fait ressortir tout l'intérêt qui s'attache au fragment dont je donne ici une traduction littérale, d'après le système que je me suis fait, et que j'ai exposé plus haut.
+Un manuscrit inconnu aux précédents éditeurs, et qui m'a été communiqué avec une gracieuse obligeance par M. d'Herbigny, m'a fourni quelques variantes que j'ai mises à profit.
+*
+
+
+ *
+
+
+ *
+
+
+ *
+
+
+ *
+Donnons un bref sommaire des faits qui précèdent la _Chançon_ de Bégues.
+--Le roi de France Pépin avait accordé le duché de Gascogne à Bégues, le second des fils du duc de Lorraine Hervis, en promettant le premier fief vacant au comte Hardré de Vermandois, son concurrent.--Entre temps, Garin, frère aîné de Bégues, était allé secourir le roi de Maurienne, Thierri, contre l'invasion des Sarrasins dans ses états.--Ce prince blessé à mort dans un combat lui donna par reconnaissance son royaume et sa fille.--Le roi Pépin confirma la donation.--Hardré de Vermandois n'existait plus; mais son fils Fromont, qui n'avait pas oublié la promesse faite à son père, manifeste hautement sa colère et contre le roi de France et contre la famille des Lorrains.--Il obtient en mariage la sœur germaine du comte Bauduin de Flandres, puis se ligue avec ce prince et plusieurs autres seigneurs, pour faire la guerre aux fils d'Hervis que soutient Pépin.--Pendant longtemps la France est le théâtre de maints brillants faits d'armes, de maints combats sanglants entre les grands feudataires de la couronne.--Fatigué de ces dissensions intestines, au milieu desquelles son autorité se trouvait souvent méconnue et compromise, le roi Pépin prend le rôle de médiateur; et, avec l'aide des évêques, interpose la paix entre les deux partis.--Les grands vassaux sont rentrés dans leurs fiefs respectifs; Fromont est retourné en Vermandois, Bauduin en Flandres, le duc de Lorraine Garin à Metz, son frère Bégues à son château de Belin en Gascogne; et sept ans se sont écoulés depuis la conclusion de la paix, lorsque commence notre récit intitulé: _La mort de Bégues de Belin_.
+[Illustration]
+
+ MORT DE BÉGUES DE BELIN.
+ I.
+UN jour Bégues étoit au château de Belin[15] assis à côté de la belle Béatrix. Le duc lui baise le front, et la duchesse en sourit doucement.--Bientôt elle aperçoit venir dans la salle ses deux fils: l'aîné a nom Gérin, et son frère Hernaut: l'un a dix ans et l'autre douze.--Il sont accompagnés de six damoiseaux de haut lignage: ils courent l'un vers l'autre, bondissent, jouent, et folâtrent ensemble.
+Le duc les regarde et se prend à soupirer.--La dame alors lui adresse la parole: «Puissant duc, pourquoi soupirer ainsi? Vous avez or et argent en coffres, faucons sur perches; vous avez riches fourrures, mulets et mules, palefrois et destriers; vos ennemis sont terrassés; et il n'est pas à six journées d'ici de tant forts voisins qui ne vous viennent servir à la première demande.
+--Dame, lui répondit le duc, vous dites vrai; mais il est une chose sur laquelle vous vous méprenez grandement. La richesse ne réside pas dans les deniers, dans les mulets et dans les chevaux; la richesse, ce sont les amis et les parents.--Le cœur d'un homme vaut tout l'or d'un pays.--N'avez-vous plus remembrance de ce jour où je fus assailli dans les Landes, quand j'allai vous épouser.--Sachez bien que si je n'eusse pas eu d'alliés, j'aurois été honni et mal traité.--Pépin m'a établi dans ce fief où je n'ai près de moi nul ami, à l'exception de mon cousin Rigaut et d'Hervis son père.--Un seul frère me reste, Garin le Lorrain, et voilà sept ans passés que je ne l'aie vu... Cette pensée me chagrine et m'afflige.... Oui, si Dieu m'aide, j'irai trouver mon frère Garin, je verrai le jeune Girbert son fils que je ne connois pas encore.--On m'a parlé de la forêt de Puelle, des abbayes de Vicoigne et de Saint-Bertin. On dit que ces parages nourrissent un énorme sanglier. Si Dieu me prête vie et assistance, je le chasserai, et j'en porterai la hure au duc Garin pour l'émerveiller; car il paroît que jamais mortel n'a vu semblable animal.
+--Sire, fait la dame, que dis-tu là?--C'est le pays au comte Bauduin que.... tu sais.... tu as occis de ta main; et l'on m'a conté que Bauduin a un fils.--C'est sur les marches du farouche Fromont dont tu as fait mourir les frères et les amis.--Ne pense plus à cette chasse, je t'en conjure.... Mon cœur me dit, et je ne te le cacherai pas, que si tu y vas, tu n'en reviendras pas vivant.
+--Dieu! madame, vous m'étonnez.... Mais non.... je le veux....; tout l'or que Dieu fit ne pourroit me décider à n'y aller pas; car j'en ai trop grand désir.
+--Alors, beau sire, dit la dame, que le Dieu glorieux qui naquit d'une vierge soit avec toi!»
+Le duc apercevant son cousin Rigaut: «Cousin, dit-il, vous viendrez avec moi, et votre père gardera ce pays.»
+La nuit, Bégues se couche près de Béatrix... Le lendemain, à l'aube du jour, son chambellan vient pour le servir. Bégues n'a plus sommeil; il se lève et s'habille sans tarder. Il revêt sa tunique et sa pelisse d'hermine, lace ses chausses et met des éperons d'or fin.
+Il fait charger dix chevaux d'or et d'argent, afin d'être bien servi partout où il se trouvera; prend avec lui trente-six chevaliers, des veneurs habiles et bien appris, dix meutes de chiens et quinze varlets pour préparer les relais.--Puis il recommande à Dieu la belle Béatrix et ses deux enfants, Hernaut et Gérin.--O douleur! il ne les a plus revus!
+Et Bégues passa la Gironde au port Saint-Florentin, alla se confesser et pleurer ses péchés à un ermite qui fonda Grammont, et repartit après messe.
+Bien des journées s'écoulent; enfin il arrive à Orléans où il voit son neveu le bon duc Hernaïs et sa sœur la belle Helvi.--Il reste trois jours auprès de l'impératrice de France qui lui fit bel accueil; puis, ayant pris congé d'elle, il se remet à la voie.
+Il vient en deux jours à Paris, couche le troisième à Senlis, en repart au lever du soleil, entre en Vermandois par Coudun, passe l'Oise à Chary, traverse le Vermandois et tout le Cambrésis et ne s'arrête qu'à Valenciennes. C'est un châtel assis sur l'Escaut et bien loin du manoir de Belin.
+Bégues s'héberge en la maison de Béranger le Gris, le plus riche bourgeois de la comté.--Béranger recommande de bien servir son hôte: il achète pour lui canards, perdrix, grues et agneaux.--Après manger, on prépare les lits; Bégues se couche aux côtés de son cousin Rigaut et appelle Béranger.--Le baron vient et, s'adressant au duc, il lui parle de belle façon:
+«Sire, à ce visage, à cette taille élancée, je vous prendrois pour le Lorrain Garin qui vient souvent en ce pays.--Il est mon hôte quand il passe à Valenciennes.--Que Dieu lui rende le bien qu'il m'a fait; car il m'a beaucoup enrichi.
+--Sire, dit Bégues, je ne vous le cacherai pas; le Lorrain Garin est mon frère. Engendrés tous deux par un même père, tous deux la même mère nous a portés et nourris.--J'habite un lointain pays, au-delà de la Gironde, dans les alleux de Saint-Bertin que me donna l'empereur Pépin.--Depuis le grand siége de Bordeaux, je n'ai vu mon frère, et je vais maintenant l'embrasser.»
+Son hôte lui répondit: «Vous avez tué Bauduin, et vos ennemis en cette contrée sont nombreux.--Hugues le comte de Cambrai, et Gauthier de Hainaut, dont nous dépendons, sont vos neveux, et s'ils vous savoient ici, ils viendroient vous y joindre.
+--Je désire vivement les voir, dit Bégues de Belin,.... mais on m'a parlé du bois de Puelle et du sanglier que cette forêt nourrit.--Je le chasserai, le cœur m'en dit, puis j'en porterai la tête au duc Garin mon très-cher frère, que je n'ai pas vu depuis si longtemps.
+--Je connois le gîte de l'animal, repartit Béranger, et demain je vous y conduirai tout droit.»
+Bégues l'entendit et en fut plein de joie: il détacha son mantel de martre zibeline, et, embrassant Béranger:
+«Tenez, bel hôte, vous viendrez avec moi.»
+Et Béranger, tout en prenant le manteau de bonne grâce, dit à sa femme:
+«Voilà un franc baron.... Qui sert prud'homme y trouve grand profit.»
+La nuit, Bégues se coucha. Le matin, son chambellan vint au lit pour le servir. Le Lorrain revêtit une cotte à chasser, mit ses chaussures et ses éperons d'or fin.--Puis il monta le bon cheval coursier que lui donna l'empereur Pépin quand il prit congé de lui à Orléans.--Le cor au cou, l'épée au poing, il part emmenant avec lui dix meutes de chiens.--Son cousin Rigaut et les trente-six chevaliers l'accompagnent.--Ils passent l'Escaut, entrent dans la forêt, et se dirigent sur Vicoigne pour attaquer le sanglier.--Béranger le Gris les guide avec adresse vers la partie du bois ou se tient l'animal.--Bientôt commencent les cris et les aboiements des chiens.
+ II.
+Le duc s'en va chasser en la forêt. Ses chiens courent en avant, brisent les rameaux et font grand bruit.--Ils ont trouvé les traces fumantes du sanglier.--Alors le duc demande son limier _Brochart_ que lui amène un varlet de chiens. Le duc le prend et le délie, lui caresse les côtes, la tête et les oreilles, afin de l'encourager, puis le lance dans la voie.--Le limier flaire, et bientôt arrive au gîte de la bête.
+--Entre deux chênes déracinés et abattus, coule le filet d'une fontaine: c'est là que le sanglier s'étoit couché pour se rafraîchir: dès qu'il a entendu les aboiemens des chiens, il se dresse et, au lieu de fuir, se prend à tournoier.--Là tomba mort le gentil limier que Bégues auroit racheté pour mille marcs d'or pur.--Furieux alors, le duc s'avance en brandissant son épieu.--Le porc ne l'attendit pas et prit la fuite.
+Plus de dix chevaliers descendirent de leurs coursiers pour mesurer les traces de ses pieds.--«Voyez quel démon! se disent-ils entr'eux; ce sanglier n'a pas son pareil; ses dents lui sortent d'un pied de la gueule.»--Ils remontent sur leurs rapides destriers, et donnent la chasse au monstre en sonnant du cor.
+ III.
+Le sanglier a éprouvé la bonté des chiens, et voit qu'il ne pourra échapper en ces lieux. Il cherche à se sauver dans le bois de Gaudimont où il a été nourri. Là, il se désaltère et se vautre dans l'eau; mais la meute le presse et le débusque. Alors la bête aux abois fit ce qu'on n'ouït jamais dire en aucun pays: quittant la forêt, elle se mit dans la plaine et se laissa poursuivre l'espace de quinze grandes lieues sans s'arrêter.--Durant cette longue course, chevaux et chasseurs se dispersèrent; le bon destrier du fidèle Rigaut s'abattit sous lui, et l'on perdit de vue le duc.
+--Vers la troisième heure, il se mit à pleuviner: ne sachant ce qu'étoit devenu le sire de Belin, les chasseurs retournèrent à Valenciennes, tristes et chagrins.--Ils n'auroient pas eu tort de s'arracher les cheveux.
+Bégues montoit un cheval de prix.--Seul il poursuit la chasse avec ardeur et voit souvent la bête.--Prenant deux de ses meilleurs chiens entre ses bras, il les enveloppe d'un pan de sa pelisse d'hermine, jusqu'à ce qu'ils soient bien rafraîchis et qu'ils aient repris force et vigueur.--Alors il les lance près d'un taillis et en vue du sanglier. Il les pique, les harcèle à l'envi, et, aux cris qu'ils poussent, la meute encouragée s'élance sur leurs pas.
+ IV.
+Le sanglier sent qu'il ne pourra résister. Il sort du bois de Vicoigne, pénètre dans celui de Puelle, s'arrête sous un faux, boit et se repose. Mais les bons chiens l'ont entouré: l'animal les regarde, dresse ses sourcils, roule les yeux, rebiffe du nez, grogne et se rue sur eux. Il les a tous tués ou dispersés.--Bégues en pense perdre la raison et, plein de colère, il apostrophe le sanglier: «Ah! fils de truie, tu me causes en ce jour bien de la peine.--Tu m'as sevré de mes hommes, et je ne sais plus, hélas! de quel côté ils ont tourné leurs pas.»--Le porc a écouté: il roule les yeux, refrongne son museau, et se précipite sur le duc plus rapide qu'une flèche empennée. Bégues, sans broncher, l'attend et lui enfonce son épieu droit au cœur. Le fer a traversé le dos, et le sang s'écoule de la plaie en telle abondance que les trois limiers en lappèrent assez pour étancher leur soif.--Les chiens se couchent çà et là autour de la bête.
+Lors vint la nuit, et elle étoit bien noire.--Le duc n'aperçut ni château, ni cité, ni bourg, ni ville, ni ferme.--Il ne connoît dans la contrée aucun chevalier, et n'a près de lui pour compagnon que son destrier Baucent qui l'a porté. Il lui adresse ainsi ses plaintes: «Baucent, que je dois vous aimer, vous qui m'avez épargné tant de peines! Si j'avois blé ou avoine, que je vous en donnerois de bon cœur! Si je retourne à Valenciennes, vous serez bien récompensé.»
+Puis le duc s'est abrité sous un tremble au feuillage touffu.--Il fit un éclair; Bégues s'est recommandé à Dieu; et, prenant son cor, il en sonne deux fois à toute force pour appeler ses gens.--Hélas! franc duc, à quoi as-tu pensé?--Tout est inutile, ceux que tu appelles, tu ne les reverras plus!......
+Et, s'asseyant sous l'arbre, le comte prend sa pierre, la frappe, et allume un grand feu.
+Le forestier qui garde le bois a entendu le comte rappeler sa meute et les sons d'un cor d'ivoire.--Il accourt vers le lieu d'où est parti le bruit, et n'osant approcher, avise Bégues de loin.--J'ai ouï dire, et c'est la vérité, que les méchants ont souvent causé bien des malheurs.
+ V.
+Le forestier aperçoit le riche équipement et le cheval coursier du comte; il aperçoit ses hauts de chausses, les éperons d'or, et le superbe cor d'ivoire entouré de neuf viroles d'or, qui lui pend au cou, attaché avec une bande d'étoffe verte magnifique.--Le duc a dans la main son épée, dont la lame est large d'un demi-pied: c'est la plus belle arme qui soit sous le ciel. Devant lui se tient son destrier hennissant, piaffant et labourant du pied la terre.--Le misérable a vu tout cela, et court droit à Lens en porter la nouvelle à Fromont.
+Le comte Fromont est assis au manger avec ses barons. Le mauvais larron ne l'ose aborder. Il appelle le sénéchal et, lui parlant à l'oreille: «Sire, dit-il, je m'allois promener dans le bois, quand j'aperçus le loin un orgueilleux veneur; c'est, ma foi, le plus bel homme, le plus grand et le mieux équipé que vous ayez jamais vu. Il a arrêté un sanglier avec trois limiers, et l'a tué d'un roide coup d'épieu. A ses côtés se tient un superbe destrier large de poitrail et de croupe, et à son cou pend un riche cor d'ivoire.--Si cela vous agrée, et si vous m'en donnez la permission, Monseigneur Fromont possédera bientôt le sanglier, les chiens, et le fameux cor d'ivoire, et vous aurez pour votre part le bon cheval coursier.»
+Le sénéchal, à ces paroles, est transporté de joie. Passant son bras autour du forestier: «Beau doux ami, que Dieu protège ta tête.... Si j'y gagne quelque chose, tu n'y perdras rien.»--«De tout mon cœur; mais, s'il vous plaît, cherchez-moi des compagnons; car je n'irai pas tout seul.»
+Le sénéchal appelle six de ses affidés. «Suivez incontinent ce forestier: si vous trouvez au bois quelque malfaiteur, tuez-le, je vous l'ordonne, et je me porte garant de cette action devant toute justice.»
+Et ils disent: «Sire, très-volontiers.»
+Thiébaut le larron, frère au fier Estormi de Bourges, les écoutoit deviser de la sorte. «Seigneurs, dit-il, en s'approchant d'eux, je connois bien le braconnier que vous allez surprendre.--J'irai avec vous, si cela ne vous déplaît.»
+--«Oui, viens, répondent-ils; tu nous seras utile.»
+Lors ils se sont dirigés vers le lieu où le forestier a laissé Bégues.
+Le Lorrain est assis sous le tremble, un pied posé sur le corps du sanglier, et ses chiens sont couchés à ses côtés.--A cet aspect, les misérables demeurent émerveillés.
+«Par les yeux de mon chef, dit Thiébaut, c'est un larron bien coutumier de battre les forêts et de chasser les sangliers. S'il nous échappe, nous sommes ensorcelés.»
+Et tous ensemble, ils l'entourent en s'écriant: «Ohé! toi qui es assis sur ce tronc, es-tu veneur, et qui t'a permis d'occire ce sanglier?--La forêt appartient à quinze propriétaires; personne n'y chasse sans leur agrément, et la seigneurie en est au vieux Fromont.--Restes coi, nous allons te lier pour t'emmener à Lens.»
+--«Seigneurs, dit Bégues, pour le Dieu du ciel, respectez-moi, car je suis chevalier. Si j'ai forfait contre le vieux Fromont, je lui en rendrai raison de bonne volonté.--Le duc Garin donnera pour moi ôtages, ainsi que messire le roi de France et mes enfants, et mon neveu Aubri le Bourguignon.»--Puis, se reprenant:--«Mais, je viens de parler comme un homme sans cœur. Que Dieu me confonde à toujours, si je me laisse saisir par sept vauriens de cette espèce.--Avant de mourir, je vendrai chèrement ma vie!»
+ VI.
+«Seigneurs, reprend Bégues, ce matin, quand j'attaquai cette bête, j'étois en compagnie de trente-six chevaliers, maîtres veneurs, habiles et bien appris.--Il n'y a aucun d'eux qui ne tienne fief de moi, ou bourg, ou ville, ou donjon, ou castel.--Ce sanglier a fait ce qu'on n'a jamais vu; il s'est laissé poursuivre quinze grandes lieues sans revenir sur ses pas.....»
+--«Tout ceci est bien merveilleux, se disent-ils entr'eux. A-t-on jamais vu sanglier fuir si loin.»
+«Il veut s'excuser, s'écrie Thiébaut; en avant, forestiers, beaux amis, accouplez les chiens, afin de les maintenir.»
+ VII.
+Le chef forestier s'élance le premier sur le duc, auquel il veut prendre son cor de chasse.--Bégues en pense mourir de colère: il lève le poing, frappe au cou, et abat le forestier mort à ses pieds.--«Audacieux, fait-il, tu ne prendras plus de cor au cou d'un duc.»
+ VIII.
+Quand Thiébaut du Plessis eut vu le forestier trépasser de la sorte:--«Amis, nous sommes perdus, dit-il, s'il nous échappe: le comte Fromont ne voudra plus nous voir; et jamais nous n'oserons retourner à Lens.» Ses gens l'ont entendu; ils en sont tristes et chagrins; alors ils renouvellent avec Bégues une lutte acharnée.
+ IX.
+Celui qui eût vu le droiturier comte sous le tremble, brandir son épée, défendre sa personne et sa proie, attaquer et frapper à la fois ses six adversaires, celui-là auroit pris grand'pitié du gentilhomme.
+Il a jeté morts trois de ces cavaliers, et les autres ont pris la fuite. Jamais ils n'eussent recommencé le combat; mais voilà que par le bois se promène un sergent, le fils de la sœur au forestier. Le sergent porte arc d'aubour et flèches d'acier.
+Ils l'ont aperçu et l'appellent.
+«Viens vite de ce côté, beau sire, et que Dieu te soit en aide.--Le riche forestier, ton oncle, est mort; un braconnier vient de l'abattre devant nous.--Hâte-toi, beau sire, et songe à le venger!»
+Plein de courroux à ces paroles, le sergent saisit son arc, court vers Bégues, ajuste à la corde une grande flèche d'acier, vise le comte et le frappe à l'instant.--La flèche a pénétré d'un pied dans le corps, et a percé la maîtresse-veine du cœur. Bégues fléchit; sa force l'abandonne; son épée lui tombe des mains.--Il fut sage alors et ne perdit pas le sens; car il implora le Dieu glorieux du ciel.
+«Glorieux Père, qui avez toujours été et qui serez toujours, ayez merci et pitié de mon âme.--Ah! Béatrix, gentille et franche épouse, vous ne me verrez plus sous le ciel!--Garin de Lorraine, beau-frère, mon corps ne pourra plus défendre le tien: et vous, mes deux enfants, les fils de ma femme, si j'avois vécu, je vous aurois armés chevaliers.--Que le Dieu glorieux du ciel vous serve de père!»
+Lors, il prend trois brins d'herbe à ses pieds, les consacre, et les reçoit de bon gré pour _Corpus Domini_.--L'âme abandonne le gentil chevalier.--Que Dieu lui fasse paix et miséricorde!
+Les trois pillards se sont rués sur le cadavre; chacun le frappe de sa tranchante épée, et lui baigne le fer dans le corps jusqu'à la garde.--Ils s'imaginent avoir tué un braconnier.--Non, par ma foi, ce n'est pas un braconnier, mais un bon chevalier, le plus loyal et le plus franc qui fut jamais sous la cape du ciel: il s'appelle Bégues, le Lorrain tant vanté!
+Après avoir fait une bière pour y coucher leurs morts, ils chargent le sanglier sur un cheval, emportent le cor d'ivoire et l'épée, et emmènent le bon coursier.--Bégues seul reste dans la forêt; mais ils n'ont pu empêcher ses trois chiens de revenir près de lui.--Les limiers se prennent à hurler et à braire comme s'ils étoient enragés.
+Arrivés à Lens, les soudarts portent les cadavres au palais, tandis que, d'autre part, un forestier mène le destrier à l'étable.--Beaucent[16] hennit, grate du pied la terre, et nul être de chair n'oseroit l'approcher.--Le sanglier est déchargé devant le foyer: écuyers et sergents, clercs et belles dames, chacun s'empresse de l'aller voir.--Les dents lui sortent d'un pied de la gueule.
+Le palais retentit de plaintes et de regrets sur les victimes du glaive de Bégues.--Le vieux Fromont, assis dans sa chambre, a entendu les clameurs et en est courroucé. Sortant à peine vêtu: «Fils de courtisanes, s'écrie-t-il, pourquoi tant de tumulte?--d'où vient ce sanglier? où avez-vous pris cette épée?--baillez-moi ce cor entre les mains.»
+Il le retourne en tous sens: il a vu les deux viroles d'or pur et la superbe attache d'étoffe verte.
+«Voilà des garnitures de prix, dit Fromont; telles n'en porta jamais varlet ou braconnier. D'où vient ce cor?.... ne me le cachez pas; car, par ma barbe, je le saurai en autre temps.
+--Nous vous le dirons, beau sire. Nous fesions la ronde en votre forêt, quand nous trouvâmes un audacieux braconnier, lequel avoit attaqué un sanglier avec trois chiens, et nous nous disposions à vous l'amener en ce palais: mais, voilà que d'un coup de poing il tue votre forestier.--Trois autres de vos cavaliers succombèrent ensuite sous ses coups.... Enfin, nous l'avons mis à mort; la faute en est à nous.
+--Et qu'avez-vous fait du corps?
+--Sire, nous l'avons laissé dans le bois.
+--Vous avez eu grand tort, répliqua le vieux Fromont: n'étoit-ce pas un chrétien?--Dans le bois, les loups l'auroient bientôt mangé. Allez, allez à l'instant même le chercher et apportez-le céans. La nuit, on le veillera aux chandelles; et le matin nous l'enterrerons au moustier.--Les francs hommes doivent avoir pitié les uns des autres.
+--Très-volontiers, répondent-ils.» Ils le font de mauvais cœur; mais ils n'oseroient désobéir.
+Les gens de Fromont sont retournés en la forêt.--Ils rapportent le chevalier dans un cercueil, derrière lequel les chiens cheminent, et bientôt arrivent à Lens.
+Sur la table où Fromont mange dans les grandes fêtes, quand il tient sa haute-cour, on a couché le baron droiturier. Les trois limiers se tiennent autour de leur maître, léchant ses plaies, braïant, hurlant et menant grand deuil.--Personne sous le ciel ne fût resté impassible à un tel spectacle.--Le mort est étendu les mains croisées sur sa poitrine; barons et chevaliers vont le contempler. «Comme il est grand et bien fait! se disent-ils entr'eux; quelle belle bouche! et comme ce nez sied à sa figure!--Ce sont de méchants soudarts qui l'ont tué; jamais franc chevalier ne l'eût voulu toucher.--Il faut que ce soit un bien gentilhomme, puisque ses chiens l'aimoient tant!»
+Le vieux Fromont, entendant ces paroles, s'en vient droit au corps et le regarde en tous sens.--Il l'a vu vivant; et mort il le reconnnoît à une blessure au visage que lui-même lui a faite de son épée sur le gravier, près de St.-Quentin.
+A cet aspect, le comte entre en fureur et tombe pâmé entre les bras de ses chevaliers: il se relève enfin en poussant des cris de colère:
+«Fils de courtisanes, vous me disiez avoir tué un varlet de chiens, un braconnier, un mauvais larron!.... Non, par ma foi; c'est bien le meilleur chevalier, le plus sage, le plus courtois, qui jamais portât des armes et montât sur destrier. Ah! comme vous m'avez trahi!....»
+ X.
+«Mauvais fils, reprend le comte Fromont, vous me disiez avoir tué un braconnier; non, par ma foi, et que Dieu vous maudisse!--Celui que vous avez mis à mort s'appelle Bégues de Belin; il a pour femme la nièce à l'empereur Pépin. Aubri le Bourguignon, Gautier de Hainaut, Hugues de Cambrésis sont ses neveux;..... et vous m'avez aujourd'hui entraîné dans une guerre dont je ne sortirai pas vivant.--Hélas! je verrai mes beaux châteaux s'écrouler; je verrai ma terre pillée, saccagée....; moi-même, on me fera mourir....--Mais je sais bien comment me sauver....je vous prendrai tous, vous qui avez tué Bégues; je vous jetterai dans ma prison, et mon neveu Thiébaut le premier.... Puis, je manderai à Metz au duc Garin que j'ai saisi les meurtriers de son frère, pour qu'il en dispose à sa volonté.--Qu'il les brûle, les pende, les écorche tout vifs; je laisserai tout faire....--Je lui jurerai aussi dix ou trente fois que je ne connus ni consentis l'assassinat du duc, que je n'y étois pas présent....--Je lui donnerai de l'or et de l'argent à plaisir, plus que n'en pourroient porter quatre chevaux....--Je lui donnerai des meutes de chiens et quatre-vingts faucons.... Je ferai chanter dix mille messes à saints abbés et à prêtres bénis, afin que Dieu ait pitié et merci de son âme.... Après tout cela, le duc Garin ne me haïra plus!»
+Et, appelant son chapelain, le vieux Fromont lui dit de coucher par écrit ces faits et ces paroles.--Puis, il ordonne d'ouvrir le corps du chevalier, et de recueillir ses entrailles dans un drap pour les ensevelir richement devant l'autel, à l'église St-Bertin.--On lave le cadavre d'eau et de vin; le comte lui-même y met ses blanches mains, rapproche et recoud les chairs d'un fil de soie, et l'enveloppe d'un drap de velours.--Ensuite on recouvre le guerrier d'une peau de cerf; une bière est préparée; on l'y couche.--Trente cierges brûlent à l'entour.--On apporte croix et encensoirs; et le comte Fromont s'assied au chevet du mort.
+En cet instant arrive dans la salle Fromondin, avec son oncle Guillaume de Monclin.--Fromondin a vu le cercueil; il est frappé d'étonnement.
+«Qui est couché là? demanda-t-il.
+--Fils, répond Fromont, c'est Bégues de Belin. Thiébaut du Plessis l'a tué pour un sanglier qu'il avoit pris en la forêt.
+--Et qu'avez-vous fait de Thiébaut, sire? dit Fromondin....--Que ne l'avez-vous écorché tout vif!.... On dira que c'est vous qui l'avez assassiné, mon père; et nous serons honnis, ainsi que nos meilleurs amis.--Saisissez-vous de Thiébaut, sire, et envoyez-le à Garin.
+--Je l'ai déjà mis en ma prison; et certes, je l'enverrai avec le cercueil.
+--Ah! ne le fais pas, mon frère, a dit le comte Guillaume; Thiébaut est ton neveu, le fils de ta sœur; nous en parlerons d'abord à nos amis.
+--Je l'accorde, a reparti Fromont.»
+Les barons se sont assis autour de la bière.--C'est alors qu'il falloit entendre le jeune Fromondin regretter Bégues, comme un fils regrette sa mère:
+«Hélas! combien vous fûtes mal traité, gentil et franc chevalier; vous, le meilleur prince qui ait jamais bu du vin.--Si vous eussiez été armé et vêtu de fer, trente-six adversaires ne vous auroient point fait peur; mais des misérables vous ont surpris et mis à mort.--J'en suis bien affligé, car tout le dommage en retombera sur nous.»
+Ils ont mandé Liétris[17], le bon abbé de Saint-Amand en Puele, et neveu au Lorrain Garin.
+L'abbé, en compagnie de trente-six chevaliers et de quinze moines sacrés et bénis, entre en la salle où étoit assis le baronnage; et, apercevant Fromont:
+«Sire, lui dit-il, vous m'avez mandé....--Mais quel homme git dans cette bière? Est-il malade, blessé ou mort?
+--Je ne vous mentirai point, répond Fromont.--Cet homme est le comte Bégues de Belin.--Des varlets l'ont tué dans cette antique forêt, à cause d'un sanglier qui pour notre malheur y fut nourri.»
+Ces paroles mettent l'abbé en fureur.
+«Diable! Qu'est-ce?....--Fromont, que dis-tu là? C'est mon oncle, le duc Bégues de Belin.... Par les saints de Dieu, vous l'avez tué.... Ah! vous me verrez jeter le froc pour endosser un blanc haubert.--J'appellerai à moi mes puissants amis, Aubri mon frère, l'allemand Ouri, mes cousins Gautier de Hainaut et Hugues de Cambrésis.--Ils ne sont pas loin, et, fils de prostituées, vous n'échapperez pas à notre colère!--Vous périrez tous de male mort!»
+Fromont l'entend, et une grande peur le saisit.--Il frissonne de tous ses membres; son sang noircit:
+«Grâce, pour l'amour de Dieu, sire abbé!--Au nom du saint Sépulchre, n'agissez point de la sorte.--Vous êtes moine, et moi comte du pays.--Quand on forfait contre vous, c'est moi qui vous défends; je vous fais jouir de vos rentes; et personne sous le ciel n'oseroit vous ravir un sol.... Emportez, sire, emportez le baron qui git dans cette bière à Metz au duc Garin, et dites-lui que j'ai pris tous ceux qui ont massacré son frère, et que je les lui livrerai pour en disposer à son plaisir.»
+L'abbé répond: «Vous avez bien dit, et si vous tenez parole, vous pourrez trouver grâce.»
+Alors on enferme le baron dans la bière; on le place sur un mulet d'Arabie; et quatre sergents sont autour qui le soutiennent.
+Désormais, nous reparlerons des gentils chevaliers de la compagnie du sire de Belin, qui la nuit s'en revinrent droit à Valenciennes chez leur bon hôte Béranger le Gris.--Ils mènent grand deuil et ne peuvent dormir; ils sont bien inquiets sur le sort de leur maître Bégues le palatin; car ils ignorent de quel côté il a tourné ses pas.--Ils pleurent, ils crient, ils poussent de profonds soupirs.
+Leur hôte Béranger les voit et en prend pitié.
+«Francs chevaliers, leur dit-il, le duc Bégues de Belin est fort prud'homme, libéral, courtois, sage et bien appris.--Il me donna cette pelisse d'hermine et ce mantel de zibeline qui me couvre le cou.--Pour tout l'or que Dieu fit, je ne me dispenserois de le chercher nuit et jour.
+--Or tôt, à cheval!» a dit le duc Rigaut.
+Et les chevaliers le font sans répit.
+A minuit, ils sortent de Valenciennes et ne s'arrêtent point jusqu'à Champbelin, couvent où Dieu étoit servi.--Messire Béranger le Gris, chevauchant en avant, aperçoit un moine sortir de sa cellule.--Il l'appelle; et, lui parlant courtoisement:--«N'auriez-vous pas vu un chevalier de ce côté?»
+Le moine se prend à réfléchir.
+«Sire, dit-il, je ne vous le cacherai pas; hier à la vesprée, il en passa un par ici: c'étoit un gentilhomme, et il me donna le salut.--Il poursuivoit un sanglier à francs étriers, et ses chiens harassés ne pouvoient le suivre.»
+A ces paroles, les barons restent ébahis.--Le franc moine les ayant mis sur la voie, ils commencent à faire retentir leurs cors à toute haleine.
+Le comte Fromont les a entendus de son château de Lens. Il appelle l'abbé, et lui parle ainsi: «J'entends au loin, je ne sais, quels gens venir.... C'est la compagnie de messire Bégues de Belin.... Je voudrois bien ne pas les voir; car gens irrités sont toujours méchants, et font le mal sans réflexion.... Emportez, sire, emportez, je vous en supplie, le corps qui gît dans cette bière.»
+L'abbé s'en va, et Fromont court à l'instant en son castel fermer les portes et garnir les murailles.--Il ne faut pas s'étonner si Fromont a tant peur; c'est avec raison; car ses ennemis sont nombreux.
+Messire Beranger le Gris chevauche en avant de la troupe. Il a reconnu en son chemin le bon abbé Liétris.--«D'où venez-vous ainsi, lui demande-t-il, et quel homme gît en ce cercueil?»
+L'abbé répond: «C'est Bégues le Lorrain, le frère au duc Garin.--Les gens du comte Fromont l'ont occis dans la forêt.»
+Les chevaliers demeurent attérés.
+Le jeune Rigaut, s'approchant de la bière, prend son oncle entre ses bras et le baise.--Puis, il découd la peau de cerf et tranche le velours à l'endroit des yeux.--Il voit le duc gisant au tombeau, les yeux tournés, le visage ténébreux, les bras roides et le corps noirci. «O funeste nouvelle! dit-il, mon oncle, celui qui vous tua ne sera jamais mon ami.»
+Et les jeunes damoiseaux que Bégues avoit élevés, et qui attendoient leur âge pour qu'il les armât chevaliers, déploroient tristement leur malheur.
+«Que ferons-nous? que deviendrons-nous?--Messire, que va nous dire votre femme Béatrix, vos deux enfants Hernaud et Gérin?
+--Allons les attaquer! s'écrie Rigaut, je ne prise ma vie la valeur d'un sol angevin.
+--N'en faites rien, sire, dit l'abbé Liétris. Fromont est puissant, de haut lignage, et renforcé d'amis.--Portons plutôt ce cadavre droit à Metz, au duc Garin qui nous dira ce qu'il convient de faire.»
+--«Tout à votre plaisir, a reparti Rigaut.»
+A ces paroles, les francs gentilshommes s'en retournent chez leur hôte à Valenciennes.--Ils apportent la bière dans la salle.--Les damoiseaux de prix et les belles dames aux simples visages vont la visiter.--«Dieu! quel dommage!» se disent-elles l'une à l'autre.--Un grand luminaire brûle autour du corps.
+«Pour Dieu, bel hôte, écoutez ma prière, s'écrie Rigaut en appelant Béranger.--Conduisez-moi droit à Crespy, et je vous donnerai cette robe.»
+Et Béranger répond: «Sire, grand merci.»
+Rigaut monte à cheval et s'en part des autres barons.--Son hôte le guide et le jour et la nuit.--Ils passent l'Oise dans un petit batel, traversent le bois et la forêt.--Ils en étoient dehors, et midi étoit passé, quand Béranger montra au duc Crespy dans le lointain:--Puis, ayant pris congé de lui, il s'en revint à Valenciennes.
+--Rigaut ne but ni ne dormit, tant qu'il ne fût arrivé à Paris où séjournoit la franche impératrice.
+Il faisoit nuit obscure quand Rigaut entra dans la ville, et son bon cheval ne pouvoit plus le supporter.--Il descendit chez son hôte Landri, que cette vue frappa de stupeur.
+--Sire Rigaut, d'où venez-vous donc? Où est votre maître le duc Bégues de Belin?
+--En Lorraine, près de son frère Garin, et il m'a ordonné de retourner en son pays.... Mais, Madame, la franche impératrice est-elle à Paris?
+--Je l'ai vue ce matin à Notre-Dame, où elle oyoit la messe.
+Rigaut a rabattu son chaperon afin de rester inconnu, et court à l'instant au palais.
+Il pénètre dans la salle où se tenoit l'impératrice, et la salue comme vous allez l'entendre.
+«Que le Dieu qui en la croix fut mis vous garde, ma dame.»
+La reine, considérant son visage, s'écrie: «Est-ce toi, Rigaudin? Où est le sire de Belin, le duc Bégues?
+--Dame, répond-il, je vous l'aurai trop vite appris.»
+La dame détourna la face.
+«Dame, entendez-moi, et ne dites mot de ce que je vais vous annoncer; cachez-le, au nom du Dieu de vérité.
+--Volontiers, bel ami.
+--Mon maître, le puissant prince qui m'a élevé, est mort, dit Rigaut.»
+La dame a frémi à cette nouvelle.--Longtemps elle resta sans parole, et elle alloit tomber évanouie, quand Rigaut la retint dans ses bras.
+«Dame, au nom de Dieu, grâce; ne jetez point de cris, et ne donnez aucun signe de douleur, afin que grands et petits ignorent l'évènement.--Je veux frapper à mort nos ennemis avant qu'ils aient eu le temps de s'en douter....--Mais une chose prodigieuse, et à laquelle je devois m'attendre, est arrivée..... Mon cheval est tombé mort sous moi.
+--Que cela ne vous inquiète, neveu, a dit la dame, vous en aurez un autre aussi grand et aussi vigoureux.»
+Elle appelle alors son chambellan David:
+«Donnez à Rigaut ce destrier arabe que m'offrit l'abbé de Cluny.--Je vous recommande en outre de l'accompagner.
+--Dame, je vous remercie, a dit Rigaut.--Il y a deux nuits, dame, que je n'ai dormi ni mangé, tant j'ai le cœur marri.
+--Vous mangerez un peu, dit l'impératrice.»
+On apporte au duc un pot rempli de vin, quatre pains et un paon rôti.--Le brave chevalier mangea, se coucha et dormit un moment: Puis, il se leva et partit en recommandant à Dieu la franche impératrice qu'il laissoit triste et dolente en son palais.
+Sans perdre un instant, Rigaut va droit à Orléans.--Il n'y trouva pas son oncle Hernaïs, qui en ce moment étoit en Anjou près de Geoffroi l'Angevin; mais son aïeule Héloïse lui fit bel accueil.
+«Soyez le bien venu, mon très-cher neveu.--Où est mon frère?--Reviendra-t-il par ici?
+--Pardieu non, dit Rigaut, les gens de Fromont l'ont tué.
+--Sire Dieu, notre père, s'écrie la dame, ayez pitié de nous!
+--Je me leverai matin, continua Rigaut.--Mais cachez la nouvelle, Madame, et dissimulez votre douleur.--Je veux faire un tel carnage de nos ennemis que toute la terre en sera bouleversée.--Dites à mon oncle de ne point me mettre en oubli.--Qu'il vienne sur mes pas avec Geoffroi l'Angevin, et autant de monde qu'ils pourront assembler, et qu'il soit à Gironville mercredi.»
+ XI.
+A ces paroles, il est monté sur son destrier et part sans tarder.--La bonne dame lui avoit donné pour sa compagnie quatorze chevaliers.--Il passe Bourges, Châteauneuf sur le Cher, chevauche à grandes journées, et ne cesse d'éperonner jusqu'à Blaye.--La nuit, il va coucher chez le prévôt Gautier: il fait fortifier la ville de la belle façon, creuser les fossés, redresser les murs.--Ensuite il convoque les vassaux.
+ XII.
+Désormais nous reparlerons de Bégues de Belin.--Les chevaliers l'ont transporté à Paris, où l'impératrice lui fit dire un riche service; après quoi ils l'emportent au Lorrain Garin.--Ils traversent les Ardennes, puis l'Argonois, et entrent bientôt en Lorraine.--Ils s'arrêtèrent à Gorze, où existe une abbaye fondée depuis longtemps par Thierri des Monts d'Auxois[18].--Ils y passèrent la nuit et y furent bien hébergés.--Aussitôt le jour venu, ils chantent la messe et remontent à cheval emportant le mort avec eux.
+Ils ne s'arrêtent plus jusqu'à Metz.
+Le jour de leur arrivée, on y célébroit la fête d'un saint.--Garin le Lorrain sort de l'église avec sa femme, la courtoise Aélis.--Quatre-vingts dames de haut prix l'accompagnent.--Devant Garin, marche le jeune Girbert son fils, précédé de vingt jeunes damoiseaux.--Grande est la joie qu'on fait autour de Garin.--Les escalettes retentissent sous les voûtes de marbre.--Les damoiselles chantent et s'ébaudissent.--Belle est la cérémonie, et chacun se presse pour la voir.
+«Sainte Marie, s'est écrié tout-à-coup le duc, sauvez-moi et tous mes amis!.... le cœur me manque;.... je suis étourdi;.... il me semble que la foudre va tomber..... Dieu, vous qui savez ce qui doit m'advenir, prononcez bien vite; mais, je vous en conjure, délivrez-moi de tous maux.»
+Accablé de ces pressentiments, le Lorrain s'étoit assis sous un olivier, triste, dolent et se soutenant à peine.--Autour de lui s'étoient rangés ses gentils chevaliers et les belles dames aux visages simples.--Il avoit les yeux tournés vers la route ferrée, quand il aperçut s'avancer sur le pont les gens qui portoient Bégues dans la bière.
+«Je vois, dit le duc, une troupe de cavaliers venir.--Par la foi que je dois à saint Martin, ils me paroissent étrangers.--Seigneurs, attendons-les, s'il vous plaît.»
+Et ils répondent: «Sire, tout à votre plaisir.»
+En cet instant, le bon abbé Liétris s'approche de l'assemblée.--Garin le voit et lui parle avec douceur:--«D'où venez-vous, beau sire, bel ami?
+--De notre terre, dit le bon abbé; il n'y a pas quinze jours que nous en sommes partis.
+--Qui repose en cette bière?--Est-ce un malade, un blessé ou un mort?
+--Je vais vous le dire, répond l'abbé: C'est votre frère, le duc Bégues de Belin.--On vous l'a massacré dans la forêt au comte Fromont.»
+Plein de rage à ces mots, Garin se précipite sur le cercueil qui renferme son frère.--Il rompt le cuir de cerf bouilli, tranche le velours à l'endroit des yeux, et voit le duc le regard trouble, le visage ténébreux, les bras roides et le corps noirci.--A cet aspect, il demeure attéré et tombe à la renverse.
+«Ah! sire Bégues, s'est-il puis écrié, franc et brave chevalier, terrible à vos ennemis, doux et simple avec ceux qui vous aimoient, beau frère, bel ami, que vous fûtes mal traité!--Girbert, beau sire fils, combien tu as perdu!--Infortuné que je suis!.... Terre, ouvre-toi pour m'engloutir!--Malheur, si je vis longtemps!»
+Garin chancelle et tombe.
+Or écoutez ce qu'il dit quand il fut relevé:
+«Pourquoi, beau frère, Fromont vous a-t-il tué, lui, qui se disoit notre ami?--La paix avoit été faite devant le roi Pépin, et ils vous ont mis à mort.--Ah! qu'ils ne jouissent point de leur crime.--Par le Dieu qui créa le monde et ne mentit jamais, ils n'auront paix ni trève tant que je ne les aie tous massacrés et tués.»
+L'abbé l'entend et en a grand'pitié.
+«Hélas! sire duc, grâce pour l'amour de Dieu.--Fromont n'est pas coupable; et, tenez ce bref qu'il m'a remis pour vous.»
+Le Lorrain Garin sait bien lire; car on l'a mis à l'école étant tout petit, pour y apprendre et roman et latin.--Il prît la lettre et vérifia l'écrit; puis, se dressant en pieds, il appelle ses gens et leur parle ainsi:
+«Or, écoutez, grands et petits, et apprenez ce que me mande le comte Fromont:--Il a pris ceux qui ont tué le comte; et il me les remettra pour en disposer selon mon plaisir, brûler ou pendre, ou écorcher vifs; il souffrira tout.--Puis, il jurera dix, vingt ou trente fois qu'il n'a voulu ni consenti la mort du duc, et qu'il n'étoit pas présent quand il fut occis.--Il m'octroiera or et argent à foison, plus que n'en pourroient porter quinze chevaux.--Il fera chanter, par de saints abbés et des prêtres bénis, dix mille messes à l'intention de mon frère, afin que Dieu ait pitié de son âme.--S'il exécute tout cela, dois-je encore le haïr?--Donnez-moi vos conseils, francs et gentils chevaliers.»
+Chacun se tut, excepté le jeune Girbert, à peine âgé de quinze ans:
+«Que vous êtes troublé, mon père!--On peut bien mettre mensonge sur parchemin; mais si ce que vous dit Fromont est sincère, il est juste qu'il reste votre ami.--Dans le cas contraire, pourquoi tant tarder? Allons les attaquer à l'instant.--Adoubez-moi chevalier, sire père Garin, le cœur me dit, et je ne vous le cacherai pas, que je pourrois déjà bien servir mes amis.
+--Sire fils, a dit le père, je te l'accorde.--Abbé, restez avec moi, vous m'aiderez à veiller mon frère.--Nous le porterons ensuite au castel de Belin, où nous verrons la belle Béatrix et ses deux enfants Hernaut et Gérin.--Nous prendrons leur avis; car je ne dois rien entreprendre sans eux.»
+Et ils répondent: «Sire, nous sommes à vos ordres.»
+Le Lorrain Garin demanda des cierges, fit venir croix et encensoirs.--Un grand luminaire brûle autour au corps.--Chacun eût pu voir alors les prêtres revêtus de leurs ornements, et les clercs tenant en mains de bons psautiers, chanter vigiles pour le marquis, jusqu'au lendemain à l'aube du jour.
+Les chevaliers emportent Bégues dans la bière, et vont sans s'arrêter jusqu'à Châlons, où ils furent hébergés la nuit chez l'évêque Henri, qui leur fît bel accueil et pleura la mort de Bégues.--Le lendemain, au lever du jour, les barons se remettent en chemin.
+Tant chevauchèrent-ils que vers le soir ils arrivèrent à Melun, le château seigneurial.--La franche Héloïse va au-devant d'eux.--Puis, ils viennent à Pithiviers le samedi; et le dimanche à la vesprée, ils entrent à Orléans la forte cité.--L'empereur Pépin s'avance à leur rencontre avec la reine dont Bégues étoit le cousin.--Ils séjournent à Orléans le lundi tout entier, et puis continuent le voyage.
+Garin au cœur hardi chevauche toujours, emportant avec lui le corps de son frère. Dieu! quelle douleur!--Les barons passent la Gironde au port Saint-Florentin, laissent Bordeaux à gauche et vont à Belin sans détour.
+La belle Béatrix, accompagnée de ses deux enfants Hernaut et Gérin, s'est avancée à leur rencontre.--A la nouvelle de la mort du duc, la dame tombe à terre;--elle se redresse et pousse un cri;--elle court au cercueil, prend son seigneur entre ses bras, lui baise les yeux, la bouche et le visage, et lui adresse ses plaintes, comme vous allez l'entendre:
+«Ah! combien vous fûtes mal traité, franc et gentil chevalier, doux, loyal, simple et bien appris!--Hélas! malheureuse que je suis, que vais-je devenir?--Je verrai ravager mon pays, et mes braves chevaliers m'abandonner pour aller en autre terre servir autre seigneur.»
+Elle ne peut en dire davantage et tombe évanouie.--Elle se relève, et ses gémissements augmentent.--Elle plaint ses fils Hernaut et Gérin.
+«Enfants, dit-elle, vous voilà donc orphelins! Le duc qui vous engendra est mort! Mort est celui qui devoit vous protéger!....
+--Rassurez-vous, dame, a fait le duc Garin; vous avez mal parlé.--Vous retrouverez toujours un gentil chevalier qui, pour votre fief, votre haut lignage et vos puissants amis, vous reprendra et fera de vous son épousée.--Mais, c'est moi qui dois être le plus affligé.--L'or et l'argent, loin de calmer ma tristesse et ma peine, ne serviroient qu'à l'augmenter.--Hernaut et Gérin sont mes neveux; et c'est à moi de supporter toutes les guerres qu'on leur fera, à moi de veiller pour eux et la nuit et le jour.
+--Oncle, grand merci, dit Hernaudin.--Dieu! que n'ai-je un petit haubergeon pour vous aider contre nos ennemis.»
+A ces mots, le duc le prenant entre ses bras, lui baise la bouche et le visage: «Par Dieu, beau neveu, vous êtes trop hardi!--Comme il ressemble à mon frère, le duc puissant auquel Dieu fasse miséricorde!»
+Et le duc fut enterré dans une chapelle près de Belin, où les pélerins de Saint-Jacques en Galice le voient encore très-bien en passant.
+Mais voilà qu'arrive le jeune Rigaut, équipé comme un prince qui va entreprendre une grande guerre.--Il porte une courte cotte de maille, a le casque en tête, le blanc haubert au dos, et entre ses mains la roide épée fourbie.--Seize vingts chevaliers l'accompagnent avec cent-dix arbalétriers et archers et environ mille sergens de pied.--A ses côtés marche son jeune frère, le preux et gentil Morant.
+Tous les bourgeois et bourgeoises du château de Belin se sont mis aux fenêtres pour voir passer Rigaut.--«Quel est ce chevalier? se disent-ils les uns aux autres; tout le château est encombré de sa gent.»
+Le lorrain Garin s'avance à sa rencontre.
+«Beau neveu, lui dit-il, soyez le bien venu. Vous me paroissez disposé à faire la guerre.
+--Oui, mon oncle, je suis tout prêt, et vous? Par le corps saint Denis, vous devriez être déjà au cœur de la contrée!
+--Neveu, a répondu le duc, je suis convenu d'un jour pour recevoir la satisfaction que m'offre le comte Fromont. Celui qui refuse satisfaction, ne peut plus, ce me semble, en jouir par la suite.
+--Tout ce que vous dites est inutile, répond Rigaut, et, par l'apôtre qu'invoquent les pélerins, les meurtriers de mon seigneur ne resteront en paix de mon vivant.--Je les ferai périr de male mort.--J'ai perdu mon maître, mon ami; si je ne le vengeois, je serois honni de tous.
+--Ecoute, sire fils, a dit son père Hervi: Le lorrain Garin est notre sire; et l'on ne doit point agir contre la volonté de son seigneur. Ce qu'il veut, nous le voulons aussi.»
+Rigaut cède bien malgré lui.--Il fait fermer le château de Belin, ainsi que la Valdoine et le mont Esclavorin; fortifie la tour de Gironville; convoque les vassaux dans Belin, y fait apporter toute la victuaille du pays, afin que personne ne manque à la guerre.--Et certes, ils n'y manqueront pas, comme je l'ai appris.
+«Qu'avez-vous fait de Bégues de Belin? a demandé Rigaut.
+--Beau neveu, répond Garin, je l'ai mis en terre dans la chapelle qui est près du chemin.--C'est là que repose notre bon frère, à qui Dieu fasse miséricorde.--Deux prêtres sont assis près de sa tombe; je leur ai donné rentes pour leur subsistance; et ils y chanteront la messe jusqu'au jour du jugement, afin que le Seigneur ait pitié de son âme.
+--Je voudrois bien le revoir pour la dernière fois, a dit Rigaut.»
+Lors ils allèrent sans tarder à l'église et déterrèrent le duc.
+Le jeune Rigaut le prend entre ses bras et se pâme sur lui.--Plus de mille personnes vinrent contempler ce spectacle; et là recommencèrent le deuil et les gémissements.--On emporte au palais marbrin la belle Béatrix évanouie.
+Les barons enveloppent le corps du duc dans une riche étoffe de l'Inde, le couchent dans un cercueil de marbre gris, et le remettent en terre.--Le tombeau qui le recouvre est partout rehaussé d'or fin, et on a taillé son image pardessus.--La chronique rapporte qu'on inscrivit au bas ces paroles:
+MEILLEUR JAMAIS NE MONTA DESTRIER.
+Ici finit la chançon de la mort Bégues de Belin. Que Dieu ait de lui et de nous merci!
+
+ Table.
+ INTRODUCTION.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5
+EXPOSITION DU ROMAN DE RAOUL DE CAMBRAI.
+
+
+
+25
+INCENDIE DE L'ABBAYE D'ORIGNI.
+
+
+
+
+
+
+
+
+37
+COMBATS ET MORT DE RAOUL.
+
+
+
+
+
+
+
+
+
+
+ 61
+MEURTRE DE BERNIER.
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 79
+UN MOT SUR LE ROMAN DE GARIN LE LOHERAIN.
+
+
+ 95
+LA MORT DE BÉGUES DE BELIN.
+
+
+
+
+
+
+
+
+
+ 99
+[Illustration]
+
+ Tiré à trois cent vingt-cinq exemplaires, tous sur papier de Hollande.
+ NOTES:
+[1] Ce poème, avec texte, traduction et notes, va être publié en 2 vol. in-12, grand papier, chez Techener, Libraire, 12, place du Louvre. Paris.
+[2] Louis IV d'Outre-mer.
+[3] Ici se trouve une lacune dans le roman, une page ou deux ayant été malheureusement tout-à-fait lacérées. Il est à présumer qu'elle contenait le refus formel et la réponse énergique d'Alaïs, indignée de la conduite du roi qui, en faveur de Gibouin, venait de ravir l'héritage de son enfant; car il est dit plus loin qu'elle n'aurait pas épousé ce dernier, eût-elle été sûre d'avoir les membres coupés. Les évènements qui suivent font présumer que le roi a définitivement accordé le fief à Gibouin le manceau, à cause du refus de la comtesse Alaïs.
+[4] _Sor_ en langue romane signifie _roux_.
+[5] Ici encore existe une petite lacune.
+[6] Sorte de carrousel.
+[7] Vin dans lequel il entrait, outre le miel, des épices et des aromates d'Asie. Servir le piment ou l'hypocras au prince était alors une grande marque d'honneur.
+[8] Origni Sainte-Benoîte, _Oriniacum_, _Aurigniacum_, bourg du département de l'Aisne, arrondissement de Saint-Quentin, est situé sur l'Oise, entre Guise et Ribemont. Une abbaye de bénédictines y fut fondée vers le milieu du IX.e siècle, sous l'invocation de sainte Benoîte, qui passe pour avoir été martyrisée en ce lieu en l'an 362.--L'incendie dont il est ici question est historique. _Voyez Mém. du Vermandois. par D. Colliete._
+[9] Loys IV, d'outremer.
+[10] Aujourd'hui la ville d'Albert en Picardie.
+[11] C'est le nom donné, dans toutes les productions littéraires du moyen-âge, au soldat qui perça de sa lance le corps de Jésus-Christ.
+[12] Philippe Mouskes. II. introd. CCLXX.
+[13] F. J. Mone--_Untersuchungen zur Geschichte der deutschen Heldensage_.
+[14] Leroux de Lincy. _Analyse raisonnée du roman de Garin-le-Lohérain._ Paris, Techener.
+[15] Belin, en Gascogne, près de Bordeaux.
+[16] M. de Reiffenberg a donné une curieuse nomenclature des coursiers merveilleux, mentionnés dans les romans de chevalerie. _Philippe Mouskes._ II. _Introd._ CXI.
+[17] Liétris ou Leudric était abbé de Saint-Amand, en Pevele, dans le milieu du X.e siècle.
+[18] Il est difficile de dire quel est ce Thierri des Monts d'Auxois, à qui le poète attribue la fondation de l'abbaye de Gorze, laquelle, suivant l'opinion commune, doit son origine à Chrodegang, évêque de Metz, mort en 766.
+
+ Corrections.
+La premiere ligne indique l'original, la seconde la correction:
+p. 123
+cachez pas; car, par ma harbe, je le saurai cachez pas; car, par ma barbe, je le saurai
+p. 154
+Tous les bourgeois et bougeoises du château Tous les bourgeois et bourgeoises du château
+
+
+End of the Project Gutenberg EBook of Fragments d'épopées romanes du XI e siècle, by Edward le Glay
+*** END OF THIS PROJECT GUTENBERG EBOOK FRAGMENTS D'ÉPOPÉES ROMANES ***
+***** This file should be named 60618-0.txt or 60618-0.zip ***** This and all associated files of various formats will be found in: http://www.gutenberg.org/6/0/6/1/60618/
+Produced by Clarity, Eleni Christofaki and the Online Distributed Proofreading Team at http://www.pgdp.net (This file was produced from images generously made available by The Internet Archive/Canadian Libraries)
+ Updated editions will replace the previous one--the old editions will be renamed.
+Creating the works from print editions not protected by U.S. copyright law means that no one owns a United States copyright in these works, so the Foundation (and you!) can copy and distribute it in the United States without permission and without paying copyright royalties. Special rules, set forth in the General Terms of Use part of this license, apply to copying and distributing Project Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm concept and trademark. Project Gutenberg is a registered trademark, and may not be used if you charge for the eBooks, unless you receive specific permission. If you do not charge anything for copies of this eBook, complying with the rules is very easy. You may use this eBook for nearly any purpose such as creation of derivative works, reports, performances and research. They may be modified and printed and given away--you may do practically ANYTHING in the United States with eBooks not protected by U.S. copyright law. Redistribution is subject to the trademark license, especially commercial redistribution.
+START: FULL LICENSE
+THE FULL PROJECT GUTENBERG LICENSE PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+To protect the Project Gutenberg-tm mission of promoting the free distribution of electronic works, by using or distributing this work (or any other work associated in any way with the phrase "Project Gutenberg"), you agree to comply with all the terms of the Full Project Gutenberg-tm License available with this file or online at www.gutenberg.org/license.
+Section 1. General Terms of Use and Redistributing Project Gutenberg-tm electronic works
+1.A. By reading or using any part of this Project Gutenberg-tm electronic work, you indicate that you have read, understand, agree to and accept all the terms of this license and intellectual property (trademark/copyright) agreement. If you do not agree to abide by all the terms of this agreement, you must cease using and return or destroy all copies of Project Gutenberg-tm electronic works in your possession. If you paid a fee for obtaining a copy of or access to a Project Gutenberg-tm electronic work and you do not agree to be bound by the terms of this agreement, you may obtain a refund from the person or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+1.B. "Project Gutenberg" is a registered trademark. It may only be used on or associated in any way with an electronic work by people who agree to be bound by the terms of this agreement. There are a few things that you can do with most Project Gutenberg-tm electronic works even without complying with the full terms of this agreement. See paragraph 1.C below. There are a lot of things you can do with Project Gutenberg-tm electronic works if you follow the terms of this agreement and help preserve free future access to Project Gutenberg-tm electronic works. See paragraph 1.E below.
+1.C. The Project Gutenberg Literary Archive Foundation ("the Foundation" or PGLAF), owns a compilation copyright in the collection of Project Gutenberg-tm electronic works. Nearly all the individual works in the collection are in the public domain in the United States. If an individual work is unprotected by copyright law in the United States and you are located in the United States, we do not claim a right to prevent you from copying, distributing, performing, displaying or creating derivative works based on the work as long as all references to Project Gutenberg are removed. Of course, we hope that you will support the Project Gutenberg-tm mission of promoting free access to electronic works by freely sharing Project Gutenberg-tm works in compliance with the terms of this agreement for keeping the Project Gutenberg-tm name associated with the work. You can easily comply with the terms of this agreement by keeping this work in the same format with its attached full Project Gutenberg-tm License when you share it without charge with others.
+1.D. The copyright laws of the place where you are located also govern what you can do with this work. Copyright laws in most countries are in a constant state of change. If you are outside the United States, check the laws of your country in addition to the terms of this agreement before downloading, copying, displaying, performing, distributing or creating derivative works based on this work or any other Project Gutenberg-tm work. The Foundation makes no representations concerning the copyright status of any work in any country outside the United States.
+1.E. Unless you have removed all references to Project Gutenberg:
+1.E.1. The following sentence, with active links to, or other immediate access to, the full Project Gutenberg-tm License must appear prominently whenever any copy of a Project Gutenberg-tm work (any work on which the phrase "Project Gutenberg" appears, or with which the phrase "Project Gutenberg" is associated) is accessed, displayed, performed, viewed, copied or distributed:
+This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org. If you are not located in the United States, you'll have to check the laws of the country where you are located before using this ebook.
+1.E.2. If an individual Project Gutenberg-tm electronic work is derived from texts not protected by U.S. copyright law (does not contain a notice indicating that it is posted with permission of the copyright holder), the work can be copied and distributed to anyone in the United States without paying any fees or charges. If you are redistributing or providing access to a work with the phrase "Project Gutenberg" associated with or appearing on the work, you must comply either with the requirements of paragraphs 1.E.1 through 1.E.7 or obtain permission for the use of the work and the Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted with the permission of the copyright holder, your use and distribution must comply with both paragraphs 1.E.1 through 1.E.7 and any additional terms imposed by the copyright holder. Additional terms will be linked to the Project Gutenberg-tm License for all works posted with the permission of the copyright holder found at the beginning of this work.
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm License terms from this work, or any files containing a part of this work or any other work associated with Project Gutenberg-tm.
+1.E.5. Do not copy, display, perform, distribute or redistribute this electronic work, or any part of this electronic work, without prominently displaying the sentence set forth in paragraph 1.E.1 with active links or immediate access to the full terms of the Project Gutenberg-tm License.
+1.E.6. You may convert to and distribute this work in any binary, compressed, marked up, nonproprietary or proprietary form, including any word processing or hypertext form. However, if you provide access to or distribute copies of a Project Gutenberg-tm work in a format other than "Plain Vanilla ASCII" or other format used in the official version posted on the official Project Gutenberg-tm web site (www.gutenberg.org), you must, at no additional cost, fee or expense to the user, provide a copy, a means of exporting a copy, or a means of obtaining a copy upon request, of the work in its original "Plain Vanilla ASCII" or other form. Any alternate format must include the full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+1.E.7. Do not charge a fee for access to, viewing, displaying, performing, copying or distributing any Project Gutenberg-tm works unless you comply with paragraph 1.E.8 or 1.E.9.
+1.E.8. You may charge a reasonable fee for copies of or providing access to or distributing Project Gutenberg-tm electronic works provided that
+* You pay a royalty fee of 20% of the gross profits you derive from the use of Project Gutenberg-tm works calculated using the method you already use to calculate your applicable taxes. The fee is owed to the owner of the Project Gutenberg-tm trademark, but he has agreed to donate royalties under this paragraph to the Project Gutenberg Literary Archive Foundation. Royalty payments must be paid within 60 days following each date on which you prepare (or are legally required to prepare) your periodic tax returns. Royalty payments should be clearly marked as such and sent to the Project Gutenberg Literary Archive Foundation at the address specified in Section 4, "Information about donations to the Project Gutenberg Literary Archive Foundation."
+* You provide a full refund of any money paid by a user who notifies you in writing (or by e-mail) within 30 days of receipt that s/he does not agree to the terms of the full Project Gutenberg-tm License. You must require such a user to return or destroy all copies of the works possessed in a physical medium and discontinue all use of and all access to other copies of Project Gutenberg-tm works.
+* You provide, in accordance with paragraph 1.F.3, a full refund of any money paid for a work or a replacement copy, if a defect in the electronic work is discovered and reported to you within 90 days of receipt of the work.
+* You comply with all other terms of this agreement for free distribution of Project Gutenberg-tm works.
+1.E.9. If you wish to charge a fee or distribute a Project Gutenberg-tm electronic work or group of works on different terms than are set forth in this agreement, you must obtain permission in writing from both the Project Gutenberg Literary Archive Foundation and The Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm trademark. Contact the Foundation as set forth in Section 3 below.
+1.F.
+1.F.1. Project Gutenberg volunteers and employees expend considerable effort to identify, do copyright research on, transcribe and proofread works not protected by U.S. copyright law in creating the Project Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm electronic works, and the medium on which they may be stored, may contain "Defects," such as, but not limited to, incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other medium, a computer virus, or computer codes that damage or cannot be read by your equipment.
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right of Replacement or Refund" described in paragraph 1.F.3, the Project Gutenberg Literary Archive Foundation, the owner of the Project Gutenberg-tm trademark, and any other party distributing a Project Gutenberg-tm electronic work under this agreement, disclaim all liability to you for damages, costs and expenses, including legal fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGE.
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a defect in this electronic work within 90 days of receiving it, you can receive a refund of the money (if any) you paid for it by sending a written explanation to the person you received the work from. If you received the work on a physical medium, you must return the medium with your written explanation. The person or entity that provided you with the defective work may elect to provide a replacement copy in lieu of a refund. If you received the work electronically, the person or entity providing it to you may choose to give you a second opportunity to receive the work electronically in lieu of a refund. If the second copy is also defective, you may demand a refund in writing without further opportunities to fix the problem.
+1.F.4. Except for the limited right of replacement or refund set forth in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+1.F.5. Some states do not allow disclaimers of certain implied warranties or the exclusion or limitation of certain types of damages. If any disclaimer or limitation set forth in this agreement violates the law of the state applicable to this agreement, the agreement shall be interpreted to make the maximum disclaimer or limitation permitted by the applicable state law. The invalidity or unenforceability of any provision of this agreement shall not void the remaining provisions.
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the trademark owner, any agent or employee of the Foundation, anyone providing copies of Project Gutenberg-tm electronic works in accordance with this agreement, and any volunteers associated with the production, promotion and distribution of Project Gutenberg-tm electronic works, harmless from all liability, costs and expenses, including legal fees, that arise directly or indirectly from any of the following which you do or cause to occur: (a) distribution of this or any Project Gutenberg-tm work, (b) alteration, modification, or additions or deletions to any Project Gutenberg-tm work, and (c) any Defect you cause.
+Section 2. Information about the Mission of Project Gutenberg-tm
+Project Gutenberg-tm is synonymous with the free distribution of electronic works in formats readable by the widest variety of computers including obsolete, old, middle-aged and new computers. It exists because of the efforts of hundreds of volunteers and donations from people in all walks of life.
+Volunteers and financial support to provide volunteers with the assistance they need are critical to reaching Project Gutenberg-tm's goals and ensuring that the Project Gutenberg-tm collection will remain freely available for generations to come. In 2001, the Project Gutenberg Literary Archive Foundation was created to provide a secure and permanent future for Project Gutenberg-tm and future generations. To learn more about the Project Gutenberg Literary Archive Foundation and how your efforts and donations can help, see Sections 3 and 4 and the Foundation information page at www.gutenberg.org Section 3. Information about the Project Gutenberg Literary Archive Foundation
+The Project Gutenberg Literary Archive Foundation is a non profit 501(c)(3) educational corporation organized under the laws of the state of Mississippi and granted tax exempt status by the Internal Revenue Service. The Foundation's EIN or federal tax identification number is 64-6221541. Contributions to the Project Gutenberg Literary Archive Foundation are tax deductible to the full extent permitted by U.S. federal laws and your state's laws.
+The Foundation's principal office is in Fairbanks, Alaska, with the mailing address: PO Box 750175, Fairbanks, AK 99775, but its volunteers and employees are scattered throughout numerous locations. Its business office is located at 809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up to date contact information can be found at the Foundation's web site and official page at www.gutenberg.org/contact
+For additional contact information:
+Dr. Gregory B. Newby Chief Executive and Director gbnewby@pglaf.org
+Section 4. Information about Donations to the Project Gutenberg Literary Archive Foundation
+Project Gutenberg-tm depends upon and cannot survive without wide spread public support and donations to carry out its mission of increasing the number of public domain and licensed works that can be freely distributed in machine readable form accessible by the widest array of equipment including outdated equipment. Many small donations ($1 to $5,000) are particularly important to maintaining tax exempt status with the IRS.
+The Foundation is committed to complying with the laws regulating charities and charitable donations in all 50 states of the United States. Compliance requirements are not uniform and it takes a considerable effort, much paperwork and many fees to meet and keep up with these requirements. We do not solicit donations in locations where we have not received written confirmation of compliance. To SEND DONATIONS or determine the status of compliance for any particular state visit www.gutenberg.org/donate
+While we cannot and do not solicit contributions from states where we have not met the solicitation requirements, we know of no prohibition against accepting unsolicited donations from donors in such states who approach us with offers to donate.
+International donations are gratefully accepted, but we cannot make any statements concerning tax treatment of donations received from outside the United States. U.S. laws alone swamp our small staff.
+Please check the Project Gutenberg Web pages for current donation methods and addresses. Donations are accepted in a number of other ways including checks, online payments and credit card donations. To donate, please visit: www.gutenberg.org/donate
+Section 5. General Information About Project Gutenberg-tm electronic works.
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm concept of a library of electronic works that could be freely shared with anyone. For forty years, he produced and distributed Project Gutenberg-tm eBooks with only a loose network of volunteer support.
+Project Gutenberg-tm eBooks are often created from several printed editions, all of which are confirmed as not protected by copyright in the U.S. unless a copyright notice is included. Thus, we do not necessarily keep eBooks in compliance with any particular paper edition.
+Most people start at our Web site which has the main PG search facility: www.gutenberg.org
+This Web site includes information about Project Gutenberg-tm, including how to make donations to the Project Gutenberg Literary Archive Foundation, how to help produce our new eBooks, and how to subscribe to our email newsletter to hear about new eBooks. 

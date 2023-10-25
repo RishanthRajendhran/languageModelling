@@ -1,0 +1,4163 @@
+﻿The Project Gutenberg eBook of Historical Record of the Nineteenth, or the First Yorkshire North Riding Regiment of Foot
+This ebook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this ebook or online at www.gutenberg.org. If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.
+Title: Historical Record of the Nineteenth, or the First Yorkshire North Riding Regiment of Foot
+ Author: Richard Cannon
+Release date: January 7, 2020 [eBook #61125]
+Language: English
+Credits: Brian Coe, John Campbell and the Online Distributed Proofreading Team at http://www.pgdp.net (This book was produced from images made available by the HathiTrust Digital Library.)
+ *** START OF THE PROJECT GUTENBERG EBOOK HISTORICAL RECORD OF THE NINETEENTH, OR THE FIRST YORKSHIRE NORTH RIDING REGIMENT OF FOOT ***
+
+Produced by Brian Coe, John Campbell and the Online Distributed Proofreading Team at http://www.pgdp.net (This book was produced from images made available by the HathiTrust Digital Library.)
+
+
+
+
+TRANSCRIBER'S NOTE
+Italic text is denoted by _underscores_.
+Footnote anchors are denoted by [number], and the footnotes have been placed at the end of the book. Footnote [6] is referenced seven times from page 2.
+A superscript is denoted by ^x or ^{xx}, for example S^t.
+Obvious typographical errors and punctuation errors have been corrected after careful comparison with other occurrences within the text and consultation of external sources. Misspellings in the text, and inconsistent or archaic usage, have been retained.
+
+ HISTORICAL RECORD
+OF
+THE NINETEENTH,
+OR
+THE FIRST YORKSHIRE NORTH RIDING
+REGIMENT OF FOOT;
+CONTAINING
+AN ACCOUNT OF THE FORMATION OF THE REGIMENT IN 1688,
+AND OF ITS SUBSEQUENT SERVICES TO 1848.
+COMPILED BY
+RICHARD CANNON, ESQ.,
+ADJUTANT-GENERAL'S OFFICE, HORSE GUARDS.
+ILLUSTRATED WITH PLATES.
+LONDON: PARKER, FURNIVALL, & PARKER, 30, CHARING-CROSS.
+MDCCCXLVIII.
+
+ LONDON: PRINTED BY W. CLOWES AND SONS, STAMFORD STREET, FOR HER MAJESTY'S STATIONERY OFFICE.
+
+ GENERAL ORDERS.
+ _HORSE-GUARDS_, _1st January, 1836_.
+His Majesty has been pleased to command that, with the view of doing the fullest justice to Regiments, as well as to Individuals who have distinguished themselves by their Bravery in Action with the Enemy, an Account of the Services of every Regiment in the British Army shall be published under the superintendence and direction of the Adjutant-General; and that this Account shall contain the following particulars, viz.:--
+---- The Period and Circumstances of the Original Formation of the Regiment; The Stations at which it has been from time to time employed; The Battles, Sieges, and other Military Operations in which it has been engaged, particularly specifying any Achievement it may have performed, and the Colours, Trophies, &c., it may have captured from the Enemy.
+---- The Names of the Officers, and the number of Non-Commissioned Officers and Privates Killed or Wounded by the Enemy, specifying the place and Date of the Action.
+---- The Names of those Officers who, in consideration of their Gallant Services and Meritorious Conduct in Engagements with the Enemy, have been distinguished with Titles, Medals, or other Marks of His Majesty's gracious favour.
+---- The Names of all such Officers, Non-Commissioned Officers, and Privates, as may have specially signalized themselves in Action.
+And,
+---- The Badges and Devices which the Regiment may have been permitted to bear, and the Causes on account of which such Badges or Devices, or any other Marks of Distinction, have been granted.
+By Command of the Right Honorable GENERAL LORD HILL, _Commanding-in-Chief_.
+JOHN MACDONALD, _Adjutant-General_.
+
+ PREFACE.
+ The character and credit of the British Army must chiefly depend upon the zeal and ardour by which all who enter into its service are animated, and consequently it is of the highest importance that any measure calculated to excite the spirit of emulation, by which alone great and gallant actions are achieved, should be adopted.
+Nothing can more fully tend to the accomplishment of this desirable object than a full display of the noble deeds with which the Military History of our country abounds. To hold forth these bright examples to the imitation of the youthful soldier, and thus to incite him to emulate the meritorious conduct of those who have preceded him in their honorable career, are among the motives that have given rise to the present publication.
+The operations of the British Troops are, indeed, announced in the "London Gazette," from whence they are transferred into the public prints: the achievements of our armies are thus made known at the time of their occurrence, and receive the tribute of praise and admiration to which they are entitled. On extraordinary occasions, the Houses of Parliament have been in the habit of conferring on the Commanders, and the Officers and Troops acting under their orders, expressions of approbation and of thanks for their skill and bravery; and these testimonials, confirmed by the high honour of their Sovereign's approbation, constitute the reward which the soldier most highly prizes.
+It has not, however, until late years, been the practice (which appears to have long prevailed in some of the Continental armies) for British Regiments to keep regular records of their services and achievements. Hence some difficulty has been experienced in obtaining, particularly from the old Regiments, an authentic account of their origin and subsequent services.
+This defect will now be remedied, in consequence of His Majesty having been pleased to command that every Regiment shall, in future, keep a full and ample record of its services at home and abroad.
+From the materials thus collected, the country will henceforth derive information as to the difficulties and privations which chequer the career of those who embrace the military profession. In Great Britain, where so large a number of persons are devoted to the active concerns of agriculture, manufactures, and commerce, and where these pursuits have, for so long a period, being undisturbed by the _presence of war_, which few other countries have escaped, comparatively little is known of the vicissitudes of active service and of the casualties of climate, to which, even during peace, the British Troops are exposed in every part of the globe, with little or no interval of repose.
+In their tranquil enjoyment of the blessings which the country derives from the industry and the enterprise of the agriculturist and the trader, its happy inhabitants may be supposed not often to reflect on the perilous duties of the soldier and the sailor,--on their sufferings,--and on the sacrifice of valuable life, by which so many national benefits are obtained and preserved.
+The conduct of the British Troops, their valour, and endurance, have shone conspicuously under great and trying difficulties; and their character has been established in Continental warfare by the irresistible spirit with which they have effected debarkations in spite of the most formidable opposition, and by the gallantry and steadiness with which they have maintained their advantages against superior numbers.
+In the official Reports made by the respective Commanders, ample justice has generally been done to the gallant exertions of the Corps employed; but the details of their services and of acts of individual bravery can only be fully given in the Annals of the various Regiments.
+These Records are now preparing for publication, under his Majesty's special authority, by Mr. RICHARD CANNON, Principal Clerk of the Adjutant General's Office; and while the perusal of them cannot fail to be useful and interesting to military men of every rank, it is considered that they will also afford entertainment and information to the general reader, particularly to those who may have served in the Army, or who have relatives in the Service.
+There exists in the breasts of most of those who have served, or are serving, in the Army, an _Esprit de Corps_--an attachment to everything belonging to their Regiment; to such persons a narrative of the services of their own Corps cannot fail to prove interesting. Authentic accounts of the actions of the great, the valiant, the loyal, have always been of paramount interest with a brave and civilized people. Great Britain has produced a race of heroes who, in moments of danger and terror, have stood "firm as the rocks of their native shore:" and when half the world has been arrayed against them, they have fought the battles of their Country with unshaken fortitude. It is presumed that a record of achievements in war,--victories so complete and surprising, gained by our countrymen, our brothers, our fellow citizens in arms,--a record which revives the memory of the brave, and brings their gallant deeds before us,--will certainly prove acceptable to the public.
+Biographical Memoirs of the Colonels and other distinguished Officers will be introduced in the Records of their respective Regiments, and the Honorary Distinctions which have, from time to time, been conferred upon each Regiment, as testifying the value and importance of its services, will be faithfully set forth.
+As a convenient mode of Publication, the Record of each Regiment will be printed in a distinct number, so that when the whole shall be completed, the Parts may be bound up in numerical succession.
+
+ INTRODUCTION
+TO
+THE INFANTRY.
+ The natives of Britain have, at all periods, been celebrated for innate courage and unshaken firmness, and the national superiority of the British troops over those of other countries has been evinced in the midst of the most imminent perils. History contains so many proofs of extraordinary acts of bravery, that no doubts can be raised upon the facts which are recorded. It must therefore be admitted, that the distinguishing feature of the British soldier is INTREPIDITY. This quality was evinced by the inhabitants of England when their country was invaded by Julius Cæsar with a Roman army, on which occasion the undaunted Britons rushed into the sea to attack the Roman soldiers as they descended from their ships; and, although their discipline and arms were inferior to those of their adversaries, yet their fierce and dauntless bearing intimidated the flower of the Roman troops, including Cæsar's favourite tenth legion. Their arms consisted of spears, short swords, and other weapons of rude construction. They had chariots, to the axles of which were fastened sharp pieces of iron resembling scythe-blades, and infantry in long chariots resembling waggons, who alighted and fought on foot, and for change of ground, pursuit or retreat, sprang into the chariot and drove off with the speed of cavalry. These inventions were, however, unavailing against Cæsar's legions: in the course of time a military system, with discipline and subordination, was introduced, and British courage, being thus regulated, was exerted to the greatest advantage; a full development of the national character followed, and it shone forth in all its native brilliancy.
+The military force of the Anglo-Saxons consisted principally of infantry: Thanes, and other men of property, however, fought on horseback. The infantry were of two classes, heavy and light. The former carried large shields armed with spikes, long broad swords and spears; and the latter were armed with swords or spears only. They had also men armed with clubs, others with battle-axes and javelins.
+The feudal troops established by William the Conqueror consisted (as already stated in the Introduction to the Cavalry) almost entirely of horse; but when the warlike barons and knights, with their trains of tenants and vassals, took the field, a proportion of men appeared on foot, and, although these were of inferior degree, they proved stout-hearted Britons of stanch fidelity. When stipendiary troops were employed, infantry always constituted a considerable portion of the military force; and this _arme_ has since acquired, in every quarter of the globe, a celebrity never exceeded by the armies of any nation at any period.
+The weapons carried by the infantry, during the several reigns succeeding the Conquest, were bows and arrows, half-pikes, lances, halberds, various kinds of battle-axes, swords, and daggers. Armour was worn on the head and body, and in course of time the practice became general for military men to be so completely cased in steel, that it was almost impossible to slay them.
+The introduction of the use of gunpowder in the destructive purposes of war, in the early part of the fourteenth century, produced a change in the arms and equipment of the infantry-soldier. Bows and arrows gave place to various kinds of fire-arms, but British archers continued formidable adversaries; and, owing to the inconvenient construction and imperfect bore of the fire-arms when first introduced, a body of men, well trained in the use of the bow from their youth, was considered a valuable acquisition to every army, even as late as the sixteenth century.
+During a great part of the reign of Queen Elizabeth each company of infantry usually consisted of men armed five different ways; in every hundred men forty were "_men-at-arms_," and sixty "_shot_;" the "men-at-arms" were ten halberdiers, or battle-axe men, and thirty pikemen; and the "shot" were twenty archers, twenty musketeers, and twenty harquebusiers, and each man carried, besides his principal weapon, a sword and dagger.
+Companies of infantry varied at this period in numbers from 150 to 300 men; each company had a colour or ensign, and the mode of formation recommended by an English military writer (Sir John Smithe) in 1590 was:--the colour in the centre of the company guarded by the halberdiers; the pikemen in equal proportions, on each flank of the halberdiers: half the musketeers on each flank of the pikes; half the archers on each flank of the musketeers, and the harquebusiers (whose arms were much lighter than the muskets then in use) in equal proportions on each flank of the company for skirmishing.[1] It was customary to unite a number of companies into one body, called a REGIMENT, which frequently amounted to three thousand men: but each company continued to carry a colour. Numerous improvements were eventually introduced in the construction of fire-arms, and, it having been found impossible to make armour proof against the muskets then in use (which carried a very heavy ball) without its being too weighty for the soldier, armour was gradually laid aside by the infantry in the seventeenth century: bows and arrows also fell into disuse, and the infantry were reduced to two classes, viz.: _musketeers_, armed with matchlock muskets, swords, and daggers; and _pikemen_, armed with pikes from fourteen to eighteen feet long, and swords.
+In the early part of the seventeenth century Gustavus Adolphus, King of Sweden, reduced the strength of regiments to 1000 men. He caused the gunpowder, which had heretofore been carried in flasks, or in small wooden bandoliers, each containing a charge, to be made up into cartridges, and carried in pouches; and he formed each regiment into two wings of musketeers, and a centre division of pikemen. He also adopted the practice of forming four regiments into a brigade; and the number of colours was afterwards reduced to three in each regiment. He formed his columns so compactly that his infantry could resist the charge of the celebrated Polish horsemen and Austrian cuirassiers; and his armies became the admiration of other nations. His mode of formation was copied by the English, French, and other European states; but so great was the prejudice in favour of ancient customs, that all his improvements were not adopted until near a century afterwards.
+In 1664 King Charles II. raised a corps for sea-service, styled the Admiral's regiment. In 1678 each company of 100 men usually consisted of 30 pikemen, 60 musketeers, and 10 men armed with light firelocks. In this year the King added a company of men armed with hand-grenades to each of the old British regiments, which was designated the "grenadier company." Daggers were so contrived as to fit in the muzzles of the muskets, and bayonets similar to those at present in use were adopted about twenty years afterwards.
+An Ordnance regiment was raised in 1685, by order of King James II., to guard the artillery, and was designated the Royal Fusiliers (now 7th Foot). This corps, and the companies of grenadiers, did not carry pikes.
+King William III. incorporated the Admiral's regiment in the second Foot Guards, and raised two Marine regiments for sea-service. During the war in this reign, each company of infantry (excepting the fusiliers and grenadiers) consisted of 14 pikemen and 46 musketeers; the captains carried pikes; lieutenants, partisans; ensigns, half-pikes; and serjeants, halberds. After the peace in 1697 the Marine regiments were disbanded, but were again formed on the breaking out of the war in 1702.[2]
+During the reign of Queen Anne the pikes were laid aside, and every infantry soldier was armed with a musket, bayonet, and sword; the grenadiers ceased, about the same period, to carry hand grenades; and the regiments were directed to lay aside their third colour: the corps of Royal Artillery was first added to the Army in this reign.
+About the year 1745, the men of the battalion companies of infantry ceased to carry swords; during the reign of George II. light companies were added to infantry regiments; and in 1764 a Board of General Officers recommended that the grenadiers should lay aside their swords, as that weapon had never been used during the Seven Years' War. Since that period the arms of the infantry soldier have been limited to the musket and bayonet.
+The arms and equipment of the British Troops have seldom differed materially, since the Conquest, from those of other European states; and in some respects the arming has, at certain periods, been allowed to be inferior to that of the nations with whom they have had to contend; yet, under this disadvantage, the bravery and superiority of the British infantry have been evinced on very many and most trying occasions, and splendid victories have been gained over very superior numbers.
+Great Britain has produced a race of lion-like champions who have dared to confront a host of foes, and have proved themselves valiant with any arms. At _Crecy_ King Edward III., at the head of about 30,000 men, defeated, on the 26th of August, 1346, Philip King of France, whose army is said to have amounted to 100,000 men; here British valour encountered veterans of renown:--the King of Bohemia, the King of Majorca, and many princes and nobles were slain, and the French army was routed and cut to pieces. Ten years afterwards, Edward Prince of Wales, who was designated the Black Prince, defeated, at _Poictiers_, with 14,000 men, a French army of 60,000 horse, besides infantry, and took John I., King of France, and his son Philip, prisoners. On the 25th of October, 1415, King Henry V., with an army of about 13,000 men, although greatly exhausted by marches, privations, and sickness, defeated, at _Agincourt_, the Constable of France, at the head of the flower of the French nobility and an army said to amount to 60,000 men, and gained a complete victory.
+During the seventy years' war between the United Provinces of the Netherlands and the Spanish monarchy, which commenced in 1578 and terminated in 1648, the British infantry in the service of the States-General were celebrated for their unconquerable spirit and firmness;[3] and in the thirty years' war between the Protestant Princes and the Emperor of Germany, the British Troops in the service of Sweden and other states were celebrated for deeds of heroism.[4] In the wars of Queen Anne, the fame of the British army under the great MARLBOROUGH was spread throughout the world; and if we glance at the achievements performed within the memory of persons now living, there is abundant proof that the Britons of the present age are not inferior to their ancestors in the qualities which constitute good soldiers. Witness the deeds of the brave men, of whom there are many now surviving, who fought in Egypt in 1801, under the brave Abercromby, and compelled the French army, which had been vainly styled _Invincible_, to evacuate that country; also the services of the gallant Troops during the arduous campaigns in the Peninsula, under the immortal WELLINGTON; and the determined stand made by the British Army at Waterloo, where Napoleon Bonaparte, who had long been the inveterate enemy of Great Britain, and had sought and planned her destruction by every means he could devise, was compelled to leave his vanquished legions to their fate, and to place himself at the disposal of the British Government. These achievements, with others of recent dates in the distant climes of India, prove that the same valour and constancy which glowed in the breasts of the heroes of Crecy, Poictiers, Agincourt, Blenheim, and Ramilies, continue to animate the Britons of the nineteenth century.
+The British Soldier is distinguished for a robust and muscular frame,--intrepidity which no danger can appal,--unconquerable spirit and resolution,--patience in fatigue and privation, and cheerful obedience to his superiors. These qualities,--united with an excellent system of order and discipline to regulate and give a skilful direction to the energies and adventurous spirit of the hero, and a wise selection of officers of superior talent to command, whose presence inspires confidence,--have been the leading causes of the splendid victories gained by the British arms.[5] The fame of the deeds of the past and present generations in the various battle-fields where the robust sons of Albion have fought and conquered, surrounds the British arms with a halo of glory; these achievements will live in the page of history to the end of time.
+The records of the several regiments will be found to contain a detail of facts of an interesting character, connected with the hardships, sufferings, and gallant exploits of British soldiers in the various parts of the world, where the calls of their Country and the commands of their Sovereign have required them to proceed in the execution of their duty, whether in active continental operations, or in maintaining colonial territories in distant and unfavourable climes.
+The superiority of the British infantry has been pre-eminently set forth in the wars of six centuries, and admitted by the greatest commanders which Europe has produced. The formations and movements of this _arme_, as at present practised, while they are adapted to every species of warfare, and to all probable situations and circumstances of service, are well suited to show forth the brilliancy of military tactics calculated upon mathematical and scientific principles. Although the movements and evolutions have been copied from the continental armies, yet various improvements have from time to time been introduced, to ensure that simplicity and celerity by which the superiority of the national military character is maintained. The rank and influence which Great Britain has attained among the nations of the world have in a great measure been purchased by the valour of the Army, and to persons who have the welfare of their country at heart the records of the several regiments cannot fail to prove interesting.
+
+ THE NINETEENTH,
+OR
+THE FIRST YORKSHIRE NORTH RIDING
+REGIMENT OF FOOT.
+
+ NINETEENTH REGIMENT OF FOOT.
+ CONTENTS
+OF THE
+HISTORICAL RECORD.
+PAGE YEAR
+INTRODUCTION
+1688
+Formation of the regiment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+1689
+Francis Lutterell appointed to be Colonel
+
+
+
+
+
+
+
+
+2
+----
+Names of Officers appointed to Commissions
+
+
+
+
+
+
+
+--
+----
+Regiment marched to Portsmouth and the Isle of Wight
+
+
+--
+----
+Embarked as Marines
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --
+----
+Returned to Plymouth
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
+1690
+Embarked for Ireland
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 3
+----
+Detachment sent to the West Indies
+
+
+
+
+
+
+
+
+
+
+
+--
+1691
+Returned to England
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --
+----
+Appointment of Thomas Erle to be Colonel, in succession to Colonel F. Lutterell, deceased
+
+
+
+
+
+--
+1692
+Embarked for Flanders
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --
+----
+Engaged at the battle of Steenkirk
+
+
+
+
+
+
+
+
+
+
+
+--
+1693
+---------- the battle of Landen
+
+
+
+
+
+
+
+
+
+
+
+
+
+4
+----
+Entered winter quarters at Malines
+
+
+
+
+
+
+
+
+
+
+
+--
+1694
+Engaged in operations in Flanders and Brabant
+
+
+
+
+
+ --
+----
+Returned to Malines
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --
+1695
+Engaged in the siege of Namur
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --
+----
+Occupied winter quarters at Dendermond
+
+
+
+
+
+
+
+
+
+ 5
+1696
+Returned to England in consequence of the expectation of invasion by France, and of the plan for assassinating King William
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 5
+1697
+Re-embarked for Flanders and encamped near Brussels
+
+
+ --
+----
+Treaty of Peace concluded at Ryswick
+
+
+
+
+
+
+
+
+
+
+--
+----
+Returned to England
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --
+1698
+Embarked for Ireland
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
+1702
+War recommenced with France
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --
+----
+Embarked from Ireland for the Isle of Wight
+
+
+
+
+
+
+
+6
+----
+Proceeded on an expedition to Cadiz
+
+
+
+
+
+
+
+
+
+
+ --
+----
+--------- to the West Indies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
+1704
+Returned to Ireland
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7
+1705
+Embarked for England
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
+1709
+Promotion of Lieut.-Colonel Freke to be Colonel, in succession to Lieut.-General Erle, retired
+
+
+
+
+ --
+1710
+Embarked for Flanders
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --
+----
+Engaged in forcing the French lines at Pont-à-Vendin
+
+
+--
+----
+Siege and surrender of Douay
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
+----
+---------------------- Bethune
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
+----
+---------------------- Aire and St.-Venant
+
+
+
+
+
+
+
+--
+----
+Entered winter quarters at Ghent
+
+
+
+
+
+
+
+
+
+
+
+
+--
+1711
+Encamped at Warde
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8
+----
+Engaged in forcing the French lines at Arleux
+
+
+
+
+
+ --
+----
+Siege and surrender of Bouchain
+
+
+
+
+
+
+
+
+
+
+
+
+ --
+1712
+Appointment of Richard Sutton to be Colonel, in succession to Colonel G. Freke, deceased
+
+
+
+
+
+ --
+----
+The Duke of Ormond assumed the command of the army in Flanders
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --
+----
+Suspension of hostilities
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --
+----
+British troops retired to Ghent
+
+
+
+
+
+
+
+
+
+
+
+
+ --
+1713
+Regiment stationed in Flanders
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
+1714
+Returned to England
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --
+1715
+Promotion of Lieut.-Colonel Grove to be Colonel, in place of Major-General Sutton, retired
+
+
+
+
+
+
+ --
+1722
+Encamped on Salisbury Plain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9
+1723
+Marched to Scotland
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --
+1729
+Re-appointment of Major-General Sutton to be Colonel in succession to Colonel Grove, deceased
+
+
+
+
+
+
+
+--
+----
+Embarked for Ireland
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
+1738
+Appointment of Colonel Honorable Charles Howard to be Colonel, in succession to Lieut.-General Sutton, deceased
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
+1739
+War declared against Spain
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
+----
+Removed from Ireland to North Britain
+
+
+
+
+
+
+
+
+
+ --
+1742
+War declared against France and Bavaria
+
+
+
+
+
+
+
+
+ --
+1744
+Embarked for Flanders
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --
+----
+Quartered during the winter at Ghent
+
+
+
+
+
+
+
+
+
+
+--
+1745
+Advanced to the relief of Tournay
+
+
+
+
+
+
+
+
+
+
+
+ --
+----
+Engaged at the battle of Fontenoy
+
+
+
+
+
+
+
+
+
+
+
+ 10
+----
+Retreated to Aeth
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --
+1746
+Engaged at Roucoux
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11
+----
+Retreated to Maestricht
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --
+1747
+Engaged at Val
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
+1748
+Treaty of Peace concluded at Aix-la-Chapelle
+
+
+
+
+
+
+12
+----
+Appointment of Colonel Lord George Beauclerk to be Colonel, in succession to Major-General Honorable Charles Howard, removed to the 3rd Dragoon Guards
+
+
+ --
+1749
+Regiment returned to England
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13
+----
+Embarked for Gibraltar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
+1751
+The colours, clothing, &c., regulated by royal warrant of King George II.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
+1753
+Returned to England
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --
+1755
+Proceeded to Scotland
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --
+1756
+Returned to England
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --
+----
+War commenced with France
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --
+----
+Regiment augmented to two battalions
+
+
+
+
+
+
+
+
+
+
+--
+1758
+The second battalion formed into a distinct regiment, and numbered the 66th regiment.
+
+
+
+
+
+
+
+
+
+
+
+ --
+1759
+Encamped at Brentwood
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 14
+1760
+Encamped at Barham Down
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 14
+1761
+Formed part of an expedition against Belle-Isle on the coast of Bretagne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --
+----
+Capture of Belle-Isle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 15
+1762
+Returned to England
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --
+----
+Treaty of Peace concluded at Fontainebleau
+
+
+
+
+
+
+
+--
+----
+Regiment embarked for Gibraltar
+
+
+
+
+
+
+
+
+
+
+
+
+ --
+1768
+Appointment of General David Graeme to be Colonel, in succession to Lord George Beauclerk, deceased
+
+
+
+--
+1771
+Regiment returned to England
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16
+1773
+Stationed in Scotland
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --
+1775
+Embarked for Ireland
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
+1781
+------------ America
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
+1782
+Designated the NINETEENTH, or the First Yorkshire North Riding Regiment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --
+----
+Peace concluded with America
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
+----
+Proceeded to the West Indies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
+1783
+Removed to Jamaica
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
+1791
+Returned to England
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --
+1793
+War commenced with France
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --
+----
+Embarked under General the Earl of Moira to aid the French Royalists in La Vendée and La Loire
+
+
+
+
+
+
+17
+1794
+Returned to England, and landed in Devonshire
+
+
+
+
+
+ --
+----
+Embarked for Ostend
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --
+----
+Joined the army under the Duke of York at Malines
+
+
+
+ --
+----
+Retreated through Holland to Germany
+
+
+
+
+
+
+
+
+
+
+18
+----
+Engaged with the enemy at Tuyl
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
+1795
+Embarked from Bremen for England
+
+
+
+
+
+
+
+
+
+
+
+
+--
+1796
+-------- for the East Indies and landed at Madras
+
+
+
+ --
+----
+Embarked for Ceylon, and landed at Columbo
+
+
+
+
+
+
+
+--
+1797
+Appointment of General Samuel Hulse in succession to General Graeme, deceased
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 18
+1799
+Five companies embarked for India, and engaged in the storming and capture of Seringapatam, on the 4th of May, when Tippoo Saib was mortally wounded
+
+
+ 19
+----
+The five companies returned to Ceylon
+
+
+
+
+
+
+
+
+
+ --
+1800
+Marched from Columbo to Point de Galle
+
+
+
+
+
+
+
+
+
+--
+1801
+Embarked for Trincomalee
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20
+1802
+The Island of Ceylon retained by Great Britain on the conclusion of Peace between France and Holland
+
+
+
+
+--
+1803
+War recommenced with France and Holland
+
+
+
+
+
+
+
+
+ --
+----
+Marched to Candy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
+----
+Engaged on arduous service against the perfidious Candians
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+21
+1804
+Further engagement with the Candians
+
+
+
+
+
+
+
+
+
+
+22
+1805
+The Candians again defeated
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --
+----
+Embarked for Columbo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
+1806
+Proceeded to Trincomalee
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
+----
+Marched back to Columbo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --
+1809
+Proceeded to Madras and joined a division of troops employed against the Rajah of Travancore
+
+
+
+
+
+
+
+--
+----
+Returned to Ceylon, after compelling the Rajah of Travancore to submit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23
+1810
+Appointment of General Sir Hew Dalrymple, from 37th regiment, to the colonelcy, in succession to General Sir Samuel Hulse, removed to 62nd regiment
+
+
+
+
+
+
+--
+----
+Four companies embarked with an expedition against the Isle of France
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
+----
+Capture of the Isle of France
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --
+----
+The four companies returned to Ceylon
+
+
+
+
+
+
+
+
+
+ --
+1811
+Appointment of General Sir Hilgrove Turner to the colonelcy, in succession to Sir Hew Dalrymple, removed to 57th regiment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24
+1814
+Embarked for Trincomalee
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24
+1815
+The British troops advanced against the King of Candy
+
+ --
+----
+The King of Candy brought prisoner to the British camp
+
+25
+----
+The Malbar dynasty deposed, and the provinces of Candy united to the dominions of the British Crown
+
+
+
+
+
+--
+1816
+Remained at Trincomalee
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --
+1818
+Returned to Columbo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --
+----
+Marched to Candy to suppress a rebellion of several native chiefs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 26
+----
+Returned to Columbo, and marched to Point de Galle
+
+
+
+--
+1820
+Embarked for England
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
+1821
+------------ Ireland
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
+1826
+Formed into six service and four depôt companies
+
+
+
+
+--
+----
+Embarked for the West Indies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
+1830
+Depôt companies embarked from Cork for England
+
+
+
+
+
+--
+1836
+Service companies returned from the West Indies to Ireland
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 27
+----
+Joined by the depôt companies from England
+
+
+
+
+
+
+
+--
+1839
+Embarked from Dublin for Bristol
+
+
+
+
+
+
+
+
+
+
+
+
+--
+1840
+Returned to Ireland
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --
+----
+Formed into six service and four depôt companies
+
+
+
+
+--
+----
+Service companies embarked for Malta
+
+
+
+
+
+
+
+
+
+
+--
+1841
+Depôt companies embarked from Ireland for England
+
+
+
+ --
+1843
+Appointment of General Sir W. M. Peacocke to be Colonel, in succession to General Sir Hilgrove Turner, deceased
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
+----
+Service companies embarked for the Ionian Islands
+
+
+
+ --
+1843
+Depôt companies embarked for Jersey
+
+
+
+
+
+
+
+
+
+
+ 27
+1845
+Depôt companies embarked for Ireland
+
+
+
+
+
+
+
+
+
+
+28
+----
+Service companies embarked from Corfu for the West Indies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --
+1848
+Service companies embarked from Barbadoes for Canada
+
+
+--
+The Conclusion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29
+ APPENDIX.
+List of Battles, Sieges, &c. in the Netherlands from 1689 to 1697
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31
+List of Battles, Sieges, &c. in the Netherlands and Germany from 1702 to 1712
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 32
+
+ SUCCESSION OF COLONELS
+OF THE
+NINETEENTH REGIMENT OF FOOT.
+ YEAR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE
+1689
+Francis Lutterell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 33
+1691
+Thomas Erle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --
+1709
+George Freke
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+34
+1712
+Richard Sutton
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+35
+1715
+George Grove
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
+1729
+Richard Sutton _re-appointed_
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 36
+1738
+_Hon._ Charles Howard
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --
+1748
+Lord George Beauclerk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ --
+1768
+David Graeme
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+37
+1797
+Sir Samuel Hulse, G.C.H.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
+1810
+Sir Hew Dalrymple, Bart.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+39
+1811
+Sir T. Hilgrove Turner
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
+1843
+Sir Warren M. Peacocke
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+40
+ PLATES.
+Colours of the Regiment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ to face
+1
+Costume of the Regiment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+
+30
+ [Illustration: NINETEENTH REGIMENT OF FOOT.
+QUEEN'S COLOR.]
+[Illustration: REGIMENTAL COLOR.
+FOR CANNON'S MILITARY RECORDS
+_Madeley lith. 3 Wellington S^t. Strand_]
+
+ HISTORICAL RECORD
+OF
+THE NINETEENTH,
+OR
+THE FIRST YORKSHIRE NORTH RIDING
+REGIMENT OF FOOT.
+ [Sidenote: 1688]
+The advances made by King James II. towards the subversion of the laws, and the established religion of the kingdom, occasioned the Prince of Orange to be invited to come to England with an army, to enable the nobility and other persons of property and influence to assert the inviolable character of the Constitution in parliament. The Prince landed in Devonshire on the 5th of November, 1688, and a number of persons afterwards joining his standard, they were formed into companies of musketeers and pikemen, and three regiments were embodied under Colonels Lord Mordaunt, Sir John Guise, and Sir Robert Peyton: troops of cavalry and companies of infantry were also raised, in the interest of the Prince of Orange, in various parts of England.
+[Sidenote: 1689]
+The flight of King James to France was followed by the elevation of the Prince and Princess of Orange to the throne, in February, 1689. At this period several of the companies of pikemen and musketeers raised when the Prince of Orange landed, were incorporated into a regiment under Colonel Francis Lutterell, whose commission, as colonel of this regiment, was dated the 28th of February, 1689; but the regiment, being formed of companies raised about the middle of November, 1688, was permitted to take rank from that date, and now bears the title of the "NINETEENTH REGIMENT OF FOOT."
+The following officers were appointed to commissions in the regiment:--
+_Colonel_, Francis Lutterell. _Lieutenant-Colonel_, William Norcott.
+
+_Major_, Henry Hawley.
+_Captains._
+
+
+
+
+
+
+ _Lieutenants._
+
+
+
+
+ _Ensigns._ Baldwin Mallett.
+
+
+
+
+R. Williams (_Capt._).
+ Joseph Lewis. Alexander Lutterell.
+
+
+John Dodington.
+
+
+
+
+Abraham Hancock. Edmund Bowyer.[6]
+
+
+
+ N. Simmons.
+
+
+
+
+
+
+Capell Stocker. William Coward.[6]
+
+
+
+John Redmore.
+
+
+
+
+
+Thomas Adams. Joseph Pigman.[6]
+
+
+
+ William Willoughby.
+
+
+-- Sidenham. Hopton Wynham.
+
+
+
+
+
+R. Wyndham.
+
+
+
+
+
+
+-- Ensate. Robert Carey.[6]
+
+
+
+
+George Prater.
+
+
+
+
+ Robert Norcott. Walter Vincent.[6]
+
+
+
+William Webb.
+
+
+
+
+
+Thomas Robinson. Charles Burlington.[6]
+
+John Calmady.
+
+
+
+
+
+Thomas Freke. -- Simmons.[6]
+
+
+
+
+
+John West.
+
+
+
+
+
+
+ Thomas Resdin. Hugh Mallett.
+
+
+
+
+
+-- Gregor. Lawrence Coward.
+_Adjutant_, John West.
+
+_Surgeon_, T. Allen. _Quarter-Master_, Arthur Balsam.
+In the summer of this year the regiment marched to Portsmouth; it was afterwards stationed in the Isle of Wight, and in September embarked on board the fleet to serve as marines; but landed at Plymouth in the winter.
+[Sidenote: 1690]
+The authority of King William being resisted in Ireland, an army was sent to that country under Marshal Duke Schomberg, and in March, 1690, the NINETEENTH received orders to send five hundred and twenty men to Ireland, to replace the losses sustained by many regiments at the unhealthy camp of Dundalk. The regiment afterwards sent a detachment to the West Indies, where nearly all the men died. The regiment also sustained the loss of its colonel, who died this year.
+[Sidenote: 1691]
+In 1691 the regiment was stationed in England recruiting, and the colonelcy was conferred on Colonel Thomas Erle, from a regiment which was raised in March, 1689, and disbanded after the treaty of Ryswick in 1697.
+[Sidenote: 1692]
+Having recruited its ranks and attained a state of efficiency, the regiment embarked for Flanders in the spring of 1692, and joined the confederate army, commanded by the British monarch in person, whose efforts were directed to arrest the progress of aggression pursued by Louis XIV.;--it served the campaign of this year against the French under Marshal Luxemburg.
+At the battle of _Steenkirk_, on the 3rd of August, the regiment was in the main body of the allied army, and the advance-guard being repulsed before the supporting columns arrived at the field of battle, King William ordered a retreat. Colonel ERLE's regiment was one of the corps which did not sustain any loss.
+[Sidenote: 1693]
+The NINETEENTH regiment was one of the corps assembled at Parck-camp, near Louvain, in May, 1693; and by taking possession of this post, King William defeated the designs of the French monarch on Brabant. The fourteenth, sixteenth, NINETEENTH, and two newly-raised regiments were formed in brigade under Brigadier-General Erle. This brigade was in position at _Landen_, on the 29th of July, when the confederate army was attacked by the superior numbers of the enemy. Brigadier-General Erle was ill of a fever, but hearing that an action was likely to take place, he quitted his bed, and was wounded at the head of his brigade. The French having, by their numerical strength, forced the position, the confederate army retreated. Both armies sustained severe loss, and the enemy derived little advantage from the victory, beyond an opportunity to besiege Charleroi, which was captured in the autumn.
+The NINETEENTH regiment passed the winter in quarters at Malines.
+[Sidenote: 1694]
+In the beginning of May, 1694, the regiment quitted its quarters, and pitched its tents near the cloister of Terbanck; it took part in the operations of the campaign, and performed many long marches in Flanders and Brabant, and in the autumn returned to the pleasant town of Malines, where it passed another winter in garrison, with the third and fourth regiments of foot.
+[Sidenote: 1695]
+Early in the spring of 1695 the regiment marched to the vicinity of Ghent, and was encamped near Marykirk until the army took the field. King William undertook the siege of the strong fortress of _Namur_, and the NINETEENTH formed part of the covering army under the Prince of Vaudemont, who acquired great reputation for the skilful retreat he effected in the presence of a French army, of very superior numbers, under Marshal Villeroy. After taking part in covering this retreat, the regiment was employed in several operations for the protection of the maritime and other towns of Flanders, and to cover the troops carrying on the siege of Namur, which fortress was captured by the troops under King William, and that event terminated the campaign. The NINETEENTH regiment passed the winter at Dendermond.
+[Sidenote: 1696]
+Finding the progress of his arms arrested, and the fortune of war in favour of the confederates, the French monarch contemplated detaching England from the alliance against his interests, by replacing King James on the throne, for which purpose preparations were made for invading England, and a conspiracy was formed in London for assassinating King William. In consequence of the preparations in France, the NINETEENTH, and a number of other regiments, were ordered to return to England. The regiment embarked from Sas-van-Ghent in March, 1696, and sailed to Gravesend, where it landed. The assassination plot was discovered, and the designs of the French monarch frustrated.
+[Sidenote: 1697]
+The regiment remained in England until the summer of 1697, when it again proceeded to Flanders, and joined the army encamped near Brussels on the 14th of July; two days afterwards it was reviewed by King William. The treaty of Ryswick was signed in September, and the British monarch saw his efforts for the preservation of liberty, and the balance of power in Europe, attended with success. The regiment returned to England in November.
+[Sidenote: 1698]
+[Sidenote: 1702]
+In 1698 the NINETEENTH regiment was stationed in Ireland, where it remained until 1702, when the succession of the Duke of Anjou, grandson of Louis XIV., to the throne of Spain had produced another war.
+Early in 1702 an expedition against the port and city of _Cadiz_ was resolved upon by the British government, and the NINETEENTH regiment was withdrawn from Ireland to take part in the enterprise; the fleet was commanded by Admiral Sir George Rooke, and the land forces were placed under the orders of the Duke of Ormond. The regiment proceeded to the Isle of Wight, where it embarked on board the fleet,[7] which sailed for Cadiz, and a landing was effected between Rota and Fort St. Catherine in the middle of August. Fort St. Mary's was taken possession of, and some advantages were gained; but the expedition proved of insufficient force for the reduction of Cadiz, and the troops re-embarked. The NINETEENTH regiment was detached from Cadiz to the West Indies with the squadron of the royal navy under Commander Walker.
+[Sidenote: 1703]
+A powerful armament was prepared for the attack of the French and Spanish settlements in the West Indies in 1703, but this enterprise was afterwards laid aside. An unsuccessful attempt was made on Guadaloupe in March of this year, by a few men under Colonel Codrington.
+[Sidenote: 1704]
+[Sidenote: 1705]
+Having lost a number of men from the effects of the climate, the regiment was withdrawn from the West Indies, and was stationed in Ireland in 1704; in 1705 it embarked for England, and landed near Chester in October.
+[Sidenote: 1706]
+The regiment was employed on home service during the years 1706, 1707, 1708, and 1709.
+[Sidenote: 1709]
+In May, 1709, Lieut.-General Erle disposed of the colonelcy of the regiment to the lieut.-colonel, George Freke.
+[Sidenote: 1710]
+Early in the spring of 1710 the regiment embarked for Flanders, to join the allied army in that country under the celebrated JOHN, DUKE OF MARLBOROUGH; it advanced up the country to the vicinity of Tournay, and afterwards took part in the movements by which the French lines were forced at _Pont-à-Vendin_.
+When the siege of _Douay_ was undertaken, the NINETEENTH regiment was one of the corps selected to take part in this service. Some severe fighting took place in carrying on the attacks, and in storming the outworks, in which the regiment was engaged, and sustained severe loss. On the 25th of June the garrison beat a parley, and afterwards surrendered the fortress.
+The NINETEENTH regiment had three serjeants and ninety-one rank and file killed at the siege of Douay; and one major, two captains, eight subalterns, ten serjeants, and one hundred and ninety-seven rank and file wounded.
+The regiment formed part of the covering army during the siege of _Bethune_, which fortress surrendered on the 29th of August. _Aire_ and _St.-Venant_ were afterwards invested and taken, and the regiment marched to Ghent, where it passed the winter.
+[Sidenote: 1711]
+Advancing up the country in the spring of 1711, the regiment encamped a short time at Warde, where it was joined by a fine body of recruits from England. It took part in the operations by which the enemy's fortified lines were passed at _Arleux_ on the 5th of August, and it was afterwards engaged in the siege of _Bouchain_, which proved a difficult service; but every obstacle was overcome by the skill and perseverance of the generals and engineers, and the innate bravery of the soldiers, who, on more than one occasion, fought up to their waists in water. This fortress was surrendered on the 13th of September.
+[Sidenote: 1712]
+In the spring of 1712 the regiment quitted its winter quarters. Before the army was assembled, Colonel Freke was succeeded in the colonelcy of the regiment by Major-General Richard Sutton, from a newly-raised corps, which was afterwards disbanded.
+The army in Flanders was this year commanded by the Duke of Ormond, and advanced to the frontiers of France; but negotiations for a treaty of peace having commenced, a suspension of hostilities was proclaimed, and the British troops retired to the vicinity of Ghent.
+[Sidenote: 1713]
+During the year 1713 the regiment was stationed in Flanders.
+[Sidenote: 1714]
+The decease of Queen Anne took place on the 1st of August, 1714, when the regiment was ordered to return to England, and it was placed in garrison at Tilbury fort, Landguard fort, and Hull, with a detachment at Sheerness.
+[Sidenote: 1715]
+In August, 1715, the colonelcy of the regiment was conferred on Lieut.-Colonel Grove, from the foot guards, in succession to Major-General Sutton, who withdrew from active service.
+[Sidenote: 1716]
+[Sidenote: 1722]
+[Sidenote: 1723]
+The regiment was employed on home service many years; in 1722 it was encamped on Salisbury Plain, where it was reviewed by King George I.; and in the following year it marched to Scotland.
+[Sidenote: 1727]
+In 1727 the regiment was held in readiness to assist the Dutch in the expected war with the Emperor of Germany; but no embarkation took place.
+[Sidenote: 1729]
+Colonel Grove died on the 13th of October, 1729, and King George II. restored Major-General Sutton to the colonelcy of the regiment.
+At this period the regiment was removed to Ireland.
+[Sidenote: 1735]
+[Sidenote: 1738]
+Major-General Sutton was promoted to the rank of lieut.-general in 1735, and died in 1738, when the colonelcy of the regiment was conferred on Colonel the Honorable Charles Howard, from captain and lieut.-colonel in the foot guards.
+[Sidenote: 1739]
+In 1739 war was proclaimed against Spain, and the NINETEENTH regiment was withdrawn from Ireland, and stationed in North Britain.
+[Sidenote: 1742]
+[Sidenote: 1744]
+A British army proceeded to Flanders in 1742, to support the interests of the House of Austria against France and Bavaria; but the NINETEENTH were employed on home service until 1744, when they proceeded to Flanders, and served the campaign of that year with the army under Field-Marshal Wade. The regiment was encamped some time on the banks of the Scheldt, and afterwards advanced into the territory subject to France, as far as Lisle; but no serious fighting took place, and it passed the winter in quarters at Ghent.
+[Sidenote: 1745]
+The regiment was called from its winter quarters in April, 1745, and advanced with the army commanded by His Royal Highness the Duke of Cumberland, to the relief of Tournay, which fortress was besieged by a numerous French force, and on the approach of the allied army the enemy took up a formidable position near the village of _Fontenoy_. This position was attacked on the 11th of May, and the gallant bearing of the British infantry was conspicuous; by a determined charge they broke the French lines and overthrew all opposition at their point of attack; but the Dutch failed in their attempts to capture the village of Fontenoy, and the English were exposed to a destructive flank fire which forced them to retreat. The attack was repeated, and British valour and intrepidity triumphed once more; but the Dutch again failed, and the English battalions, which had broken the enemy's lines, were exposed to so destructive a fire from batteries on both flanks, that a retreat was ordered, and the army withdrew from the field of battle to Aeth.
+The regiment had Lieutenant Le Grand, Ensign Gibson, and seventeen private soldiers killed; Major Petitot, Captains Cochran and Douglas, Lieutenant Coote, Ensigns Cheape, Martin, and Potterfield, one serjeant, and sixty-nine rank and file wounded; thirteen men missing.
+The subsequent operations of the campaign were of a defensive character, and the allied army was so much inferior in numbers to the enemy, that it was unable to prevent the capture of several fortified towns in the Austrian Netherlands.
+This year a rebellion broke out in Scotland, and Charles Edward, eldest son of the Pretender, gained some advantages at the head of the Highland clans, when several corps were ordered to return to England, but the NINETEENTH remained in the Netherlands.
+[Sidenote: 1746]
+Taking the field in the spring of 1746, the regiment was employed in various services; but the allied army, being very inferior in numbers to the force which the French monarch employed in the Netherlands, was necessarily restricted in its operations.
+On the 11th of October the allied army was formed on the beautiful plain of Liege, and the NINETEENTH regiment was stationed, with two other corps, in the village of _Roucoux_. About noon the superior numbers of the enemy under Marshal Saxe were seen advancing, and about three in the afternoon a numerous body of infantry and artillery attacked three villages, which were occupied by eight battalions of British, Dutch, and Hessians. The disparity of numbers was about one to six, yet the allies stood their ground gallantly, and repulsed the leading brigades of the enemy. New combatants rushed forward, and the allies were again victorious; but they were eventually forced to quit the villages. After defending their post with great bravery for some time, the NINETEENTH, and other corps in Roucoux, quitted the village, and took post in a hollow way, where they defended themselves until a retreat was ordered, when the army withdrew to the vicinity of Maestricht.
+One serjeant, one drummer, and thirty-three rank and file of the regiment were killed on this occasion; Lieutenant Cuthbert, Ensign M'Farlane, three serjeants, and nineteen rank and file wounded; Captain Leake, Lieutenant Campbell, and several private soldiers taken prisoners.
+[Sidenote: 1747]
+After passing the winter in cantonments in Holland, the regiment took the field with the army commanded by His Royal Highness the Duke of Cumberland, and distinguished itself at the battle of _Val_, on the 2nd of July in that year. The enemy attacked the village of Val, which was occupied by the thirteenth, twenty-fifth, and thirty-seventh regiments, and a battalion of Hanoverians, who repulsed the attacks of their numerous opponents some time, but were eventually forced to give way. They were reinforced by the eighth, NINETEENTH, and forty-eighth regiments, and a foreign corps, and returning to the charge, recovered the village. The fighting at this point was very severe; several French brigades were nearly annihilated, and the village was lost and won several times. During this protracted contest the innate valour of the British troops was very conspicuous; but the enemy at length succeeded in breaking the line, and the army was ordered to retreat to Maestricht, where it arrived on the same evening.
+Lieut.-Colonel Williams, two serjeants, one drummer, and thirty-two rank and file of the regiment were killed; Major Petitot, Captain Masters, Lieutenants Goddard, Brown, Martin, and Phillips, Ensigns Dobson and Fuller, three serjeants, and one hundred and three rank and file wounded; fifteen rank and file missing.[8]
+[Sidenote: 1748]
+The regiment again took the field in 1748. Preliminary articles for a treaty of peace were signed at Aix-la-Chapelle, and a suspension of hostilities took place.
+In this year Major-General the Honorable Charles Howard was removed to the third dragoon guards, and was succeeded in the colonelcy of the NINETEENTH regiment by Colonel Lord George Beauclerk, from the eighth marines.
+[Sidenote: 1749]
+The regiment returned to England during the winter of 1748-9, and immediately proceeded to Gibraltar, where it was stationed four years.
+[Sidenote: 1751]
+On the 1st of July, 1751, a warrant was issued by authority of King George II., for establishing uniformity in the clothing, standards, and colours of the several regiments, by which the facing of the NINETEENTH was directed to be _green_. The First, or the King's colour, was directed to be the Great Union; the Second, or Regimental colour, to be the colour of the facings of the regiment, with the Union in the upper canton; in the centre of the colour, the Rank of the regiment, in gold Roman characters, within a wreath of roses and thistles on the same stalk, surmounted by the Crown.[9]
+[Sidenote: 1753]
+[Sidenote: 1755]
+[Sidenote: 1756]
+Having been relieved from garrison duty at Gibraltar, in 1753, the regiment returned to England; in 1755 it was stationed in Scotland; in 1756 it was again stationed in England.
+A dispute respecting the extent of the British dominions in North America having occasioned another war with France, the regiment was augmented to _two battalions_.
+[Sidenote: 1758]
+In 1758 the Second battalion was formed into the SIXTY-SIXTH regiment, under the command of Colonel Edward Sandford.
+[Sidenote: 1759]
+[Sidenote: 1760]
+During the summer of 1759 the regiment was encamped at Brentwood, and in 1760 at Barham Downs.
+[Sidenote: 1761]
+In 1761 the regiment was placed under the orders of Major-General Hodgson, for the attack of one of the French islands off the coast of Brittany, called _Belle-Isle_. The expedition appeared before this place on the 7th of April; but the whole island was found like one vast fortress, the little which nature had left undone by rocks and crags having been supplied by art; and the first attempt on the 8th of April, to establish a post on the island, failed. The NINETEENTH, mustering eight hundred men, under Lieut.-Colonel Robert Douglas, evinced great gallantry on this occasion in the assault of the enemy's entrenchments on the shore; the officers and soldiers rushed to the attack with heroic bravery, but were unable to ascend the steep acclivity; they attempted to help one another up, under a heavy fire, but failed, and were ordered to re-embark.
+The regiment lost Lieutenant Dougal Stuart, three serjeants, one drummer, and forty-seven rank and file killed; Major Lumisden, one serjeant, one drummer, and thirty-eight rank and file wounded; Lieutenants Scrymsour, Forbes, and Nugent, one serjeant, and eighty-nine rank and file prisoners, thirty of whom were wounded.
+Another attempt was made on the 22nd of April, when Brigadier-General Lambert effected a landing on the rocks near Point Lomaria: the difficulty of mounting the precipice had made the enemy least attentive to that part. Beauclerk's grenadiers (NINETEENTH), with Captain Patterson of the regiment, gained the summit before the enemy saw what was intended, who immediately marched a body of three hundred men to attack them; the grenadiers maintained their ground till the remainder of Brigadier Lambert's troops got up. Three brass field-pieces were taken, and some wounded prisoners. Captain Patterson lost his arm, and the other casualties were about thirty men killed. The cannon was afterwards landed from the ships and dragged up the rocks; the lines which covered the town of Palais were captured; the siege of the citadel was carried on with vigour, and the garrison surrendered on the 7th of June. The conquest of the island was thus achieved, and the officers and soldiers taken prisoners re-joined their regiments.
+[Sidenote: 1762]
+Returning from Belle-Isle when the capture of that island was completed, the regiment was stationed in England in 1762.
+The war was terminated in 1762 by the peace of Fontainebleau, and the regiment again proceeded to Gibraltar, at which fortress it was stationed during the following eight years.
+[Sidenote: 1768]
+On the decease of Lieut.-General Lord George Beauclerk, the colonelcy of the regiment was conferred on Major-General David Graeme, from the forty-ninth regiment, by commission dated the 25th of May, 1768.
+On the 19th of December, 1768, a warrant was issued by command of King George III. for regulating the standards, colours, clothing, &c., of the regiments of cavalry and infantry, by which it was directed, that the _facing_ of the NINETEENTH REGIMENT OF FOOT should be _deep green_.
+[Sidenote: 1771]
+Early in the spring of 1771 the regiment was relieved from duty at Gibraltar, and arrived in England in May.
+[Sidenote: 1773]
+[Sidenote: 1775]
+In 1773 the regiment was stationed in Scotland; and in 1775 it embarked for Ireland, where it was quartered upwards of five years.
+[Sidenote: 1781]
+The American war commenced in the same year in which the regiment embarked for Ireland, and was continued with varied success. In 1781 the regiment was ordered to proceed to South Carolina and Georgia, to reinforce the British troops in those provinces; it embarked from Ireland on the 17th of March, and arrived in America in May; but the peculiar turn which the circumstances of the war took shortly afterwards, prevented the regiment having an opportunity of distinguishing itself.
+[Sidenote: 1782]
+A letter, dated the 31st of August, 1782, conveyed to the regiment His Majesty's pleasure that it should be designated the NINETEENTH, or the FIRST YORKSHIRE NORTH RIDING REGIMENT, in order that a connexion between the corps and that part of the county of York should be cultivated, with the view of promoting the success of the recruiting service.
+[Sidenote: 1783]
+[Sidenote: 1791]
+Hostilities terminated in 1782, and the regiment proceeded to the Leeward Islands; in 1783 it was removed to Jamaica, where it was stationed until 1791, when it returned to England, and landed at Portsmouth in June.
+[Sidenote: 1793]
+The French revolution had commenced while the regiment was at Jamaica, and in 1793 the King of France was beheaded, and a republican government was established, which was followed by war between England and France. The French Royalists of _La Vendée_ and _La Loire_ took arms against the regicide government, and solicited aid from England; the NINETEENTH regiment embarked with the expedition under Major-General the Earl of Moira, to aid the French Royalists, who expected to be able to gain possession of a sufficient portion of the coast for the English troops to land; the expedition was held in suspense, the fleet being driven about the Channel in stormy weather in the winter of 1793-4.
+[Sidenote: 1794]
+No opportunity of landing in France, and of joining the Vendéeans, having occurred, the regiment disembarked on the coast of Devonshire in January, 1794, and went into quarters: the health of the men having suffered from being long detained on board of the fleet.
+After a few months' repose in quarters, the regiment again embarked, and sailed with the troops under the Earl of Moira for Ostend, which fortress was menaced by a numerous French force. The regiment landed at Ostend on the 26th of June. The Earl of Moira resolved not to limit his services to the defence of Ostend, but to attempt to effect a junction with the army commanded by His Royal Highness the Duke of York; and after a tedious and difficult march in the face of a victorious enemy of superior numbers, whose troops were overrunning the country in all directions, the British arrived at Alost, where they repulsed the attack of a body of the enemy on the 6th of July, and joined the Duke of York's army at Malines three days afterwards.
+The allies did not bring into the field a force sufficiently numerous to contend with the immense armies of France, and the consequence was a disastrous campaign, and a retreat through Holland to Germany during the frosts and snow-storms of an unusually severe winter; and the NINETEENTH shared, with other regiments, in the sufferings occasioned by these operations. The regiment was engaged under Major-General Lord Cathcart in the attack of the enemy's post at _Tuyl_ on the 30th of December, when it had five men killed and wounded; it also took part in several skirmishes, frequently crossing rivers on the ice to engage the numerous forces of the enemy.
+[Sidenote: 1795]
+In the early part of January, 1795, it was found necessary to resume the retreat, and a series of retrograde movements, through a country covered with snow and ice, brought the army into Germany, where the soldiers obtained a short repose, and afterwards embarked from Bremen for England.
+The NINETEENTH landed from Germany in May, 1795, and were stationed in England eleven months.
+[Sidenote: 1796]
+On the 28th of April, 1796, the regiment embarked for the East Indies, and landed at Madras in the middle of November following.
+A short time previously to the arrival of the regiment in India, the large and mountainous island of Ceylon, situate in the Indian Sea, had been captured from the Dutch, who had become united with France in hostility to Great Britain. After reposing a few weeks at Madras, the regiment received orders to transfer its services to Ceylon, and it landed at Columbo, the capital of the island, in December, 1796.
+[Sidenote: 1797]
+General David Graeme died in January, 1797, and King George III. conferred the colonelcy of the regiment on Major-General Samuel Hulse, from the fifty-sixth regiment of foot.
+In the island of Ceylon, which produces a great diversity of vegetables, the finest fruits, and spices of good quality, particularly cinnamon, the regiment was stationed twenty-four years.
+[Sidenote: 1798]
+About this period the officers and soldiers of the NINETEENTH regiment subscribed one day's pay, amounting to £84, for the relief of the widows and children of the men killed in the victory obtained by Admiral Lord Nelson over the French fleet at the battle of the Nile, on the 1st of August, 1798. The regiment subscribed also 2500 pagodas (8_s._ 9_d._ each) towards carrying on the war in Europe.
+[Sidenote: 1799]
+Five companies embarked in February, 1799, for the continent of India, to take part in the war with the ruler of the province of _Mysore_, the celebrated Tippoo Saib, whose adoption of French counsels, and hostility to the British interests, proved his ruin. The Mysore was invaded by the British troops, under Lieut.-General (afterwards Lord) Harris, in March, 1799, and the army advanced by triumphant marches to the capital, the strong and splendid city and fortress of _Seringapatam_, which was captured by storm on the 4th of May, when Tippoo fell, mortally wounded, in the defence of the place.
+The capture of the capital having terminated the war in the Mysore, the five companies of the regiment afterwards returned to Ceylon.
+[Sidenote: 1800]
+From Columbo, the regiment marched, in October, 1800, to Point de Galle, where the head-quarters were stationed several months.
+[Sidenote: 1801]
+In April, 1801, the regiment embarked for the harbour, town, and fortress of Trincomalee, situate in a barren tract of country on the north-east side of the island of Ceylon, from whence detachments were sent to various posts in the interior. The centre of the island appeared to be defended against the approach of Europeans by the unhealthy climate of the district, through which it was necessary to pass to enter the inland provinces, which were governed by a native chief called the King of Candy.
+[Sidenote: 1802]
+In 1802 a treaty of peace was concluded between England and France and Holland; but the island of Ceylon was retained by the British.
+[Sidenote: 1803]
+War with France and Holland was resumed in 1803, and, at the same time, it was found necessary to commence hostilities with the Candians, inhabiting the interior of the island of Ceylon, with whom attempts had been made to establish a treaty of amity and commerce, but without success.
+Some outrages having been committed by the Candians on British subjects, demand was made for reparation, which was evaded on various pretences, and a body of troops, of which a detachment of the NINETEENTH regiment formed part, penetrated through the unhealthy districts into the interior, to demand redress, and to exact security against the repetition of outrage. The troops experienced little opposition, and advanced to _Candy_, the capital, which was found abandoned by the inhabitants. A treaty was framed, and everything appeared in a train for a satisfactory arrangement; but after evincing unparalleled duplicity and treachery, the population of the surrounding districts suddenly attacked the town after hostilities had ceased, and the British troops, under Major Davey, being overpowered by numbers, agreed to capitulate, on condition of being allowed to march with their arms to the British settlements on the coast. These conditions were violated; the British soldiers were barbarously massacred, at Candy, on the 24th of June, excepting a few men who escaped, or were spared by the assassins; the Malays in the English service were required to enter the Candian service, and all who refused were destroyed. The NINETEENTH regiment had the following officers and soldiers massacred on this occasion,--Lieutenants M. H. Bynn, Peter Plenderleath, and Hector M'Lean, Ensign Robert Smith, Quarter-Master John Brown, Assistant-Surgeon William Hope, and one hundred and seventy-two non-commissioned officers and privates.
+After this act of perfidy and cruelty the Candians attacked the British settlements, and gained some temporary advantages; but were eventually driven back with loss. The surviving officers and soldiers of the NINETEENTH regiment were employed in much harassing and perilous service, and many casualties were occasioned by the climate. Captain Beaver particularly distinguished himself, and the governor, Major-General M^cDowall, expressed his sense of the captain's services, in general orders dated Columbo, 2nd September, 1803, in the following terms: "The Governor has observed, with peculiar satisfaction, the rapid series of well-judged and well-executed operations, by which Captain HERBERT BEAVER, of the NINETEENTH regiment, has hitherto proceeded, in recovering the important province of Matura from the Candians, and in bringing back its deluded inhabitants to their duty. The indefatigable activity, zeal, and ability, which that officer has displayed, since his assumption of the command in that district, has fully justified the high opinion which his Excellency had formed of him from his former services, and which induced the Governor to appoint him to that arduous station, in a time of such extreme difficulty and discouragement." The governor also expressed his approbation of the conduct of the officers and soldiers serving under Captain Beaver.
+[Sidenote: 1804]
+In 1804 the Candians again made preparations for an attack on the British settlements; and the English troops penetrated the provinces of Candy. Some sharp fighting occurred; and on the 14th of October Lieutenants B. Vincent and H. L. Smith were killed at Fort M^cDowall.
+[Sidenote: 1805]
+Another attack on the British territory was made in the early part of 1805; but the Candians were completely routed in every quarter. In October of this year the NINETEENTH regiment embarked for Columbo.
+[Sidenote: 1806]
+The regiment proceeded by sea to Trincomalee in September, 1806; but marched back to Columbo two months afterwards.
+[Sidenote: 1807]
+[Sidenote: 1808]
+During the years 1807 and 1808, the regiment was stationed at the capital of the island of Ceylon.
+[Sidenote: 1809]
+Disputes of a tedious and complicated character between the British government and the Rajah of _Travancore_, a province situated at the south-west extremity of Hindoostan, occasioned the NINETEENTH regiment to be withdrawn from Ceylon in February, 1809, and to proceed to Madras to join the troops designed for the reduction of the hostile Rajah. The country of Travancore was taken possession of without much serious opposition, when a force of sufficient strength was assembled for that purpose, and the Rajah was forced to submit. In December the regiment returned to Ceylon.
+[Sidenote: 1810]
+General Sir Samuel Hulse having been removed to the sixty-second regiment, the colonelcy of the NINETEENTH was conferred on Lieut.-General Sir Hew Dalrymple from the thirty-seventh, by commission dated the 25th of June, 1810.
+The war with France was continued, a British army was fighting for the liberties of Europe in Portugal and Spain, and in 1810 the English government resolved to deprive Napoleon of the Isle of France, now called the _Mauritius_, the only remaining territory in the possession of France, in the East. To take part in this enterprise, four companies of the NINETEENTH regiment embarked from Ceylon on the 6th of September, 1810. The expedition rendezvoused at the island of Rodriguez, from whence it sailed to the Isle of France, and a landing was effected on the 29th of November. The troops suffered much from the want of water in their advance upon Port Louis, the capital, and finding a plentiful supply at the powder-mills on the road, they halted there during the night of the 30th of November. Some sharp skirmishing occurred, and several men were killed and wounded. On the following day the troops resumed their march; drove the French from their positions with great gallantry; and forced the governor to surrender this valuable colony in three days.
+The four companies afterwards returned to Ceylon.
+[Sidenote: 1811]
+Lieut.-General Sir Hew Dalrymple was removed, in April, 1811, to the fifty-seventh regiment, and was succeeded in the colonelcy of the NINETEENTH by Major-General Hilgrove Turner, from the Cape regiment.
+[Sidenote: 1812]
+[Sidenote: 1813]
+[Sidenote: 1814]
+The reigning sovereign of Candy evinced so cruel and tyrannical a disposition, that he became odious to his subjects, who experienced a total insecurity of life and property under his rule, individuals being frequently deprived of both at the caprice of the king. The governor of one of his provinces was summoned to appear at the capital; but this chief, expecting that the sacrifice of his life, and the seizure of his property, were intended, did not obey the mandate. The king assembled an army, overpowered the forces of the disobedient chief, and forced him to fly for protection to the British settlements. About the period when these events agitated the interior of the island of Ceylon, the NINETEENTH regiment embarked for Trincomalee, where it arrived in the beginning of March, 1814.
+[Sidenote: 1815]
+Elated with his success against the disobedient chief, the King of Candy prepared to invade the British territory; and the governor, Major-General Brownrigg, resolved to preserve the English provinces from aggression by invading the kingdom of Candy. The British troops advanced into the kingdom of Candy, in seven divisions, in the beginning of February, 1815, and the NINETEENTH regiment marched from Trincomalee to take part in this service. The soldiers underwent great fatigue in crossing mountains, passing morasses and rivers, and traversing regions inhabited only by the wild beasts of the forest; they succeeded in overcoming all opposition, and arrived at the capital in the middle of February. The king fled; but he was seized by his own subjects, ill-treated, and brought a prisoner to the British camp. An assembly of Candian chiefs declared the Malbar dynasty deposed, and the provinces of Candy united to the dominions of the British crown. Thus was an extensive tract of country, bountifully endowed with natural gifts, and producing the necessaries and luxuries of life, including spices, metals, and precious stones, added to the British dominions; a numerous race of human beings, of a peculiarly interesting character, was delivered from the power of despotism, and brought under the advantages of the just government and equitable laws of Great Britain. Every species of torture was immediately abolished; but the ancient religion of the inhabitants, and the former mode of administering justice, were preserved. The conduct of the British troops was highly meritorious, and reflected credit on the several corps employed on this enterprise: the soldiers abstained from plunder and violence, and behaved with such order and regularity as to conciliate the inhabitants, whose condition, improved by a policy founded on liberal ideas, and exhibiting enlarged views, prepared the way for their emancipation from the errors of superstition, and their introduction to the advantages of Christianity, and of European arts, sciences, and commerce.
+The British troops occupied posts in the newly-acquired territory, and the corps not required for this duty returned to their former quarters.
+[Sidenote: 1816]
+The NINETEENTH regiment remained at Trincomalee, and other stations in that quarter of the island, until February, 1818, when it returned to Columbo.
+[Sidenote: 1818]
+Soon afterwards a new claimant to the throne of Candy arrived in that country, from the continent of India, and being supported by several native chiefs, who were hostile to the British interests, a rebellion took place. This event called the NINETEENTH again into the field; they marched for Candy in April, 1818, and again traversed mountainous districts and wild and beautiful regions; some desultory fighting occurred; but a greater loss of life was occasioned by the climate, than by the swords of the insurgents. The rebellion was suppressed; the regiment returned to Columbo in September; and in October it marched to Point de Galle.
+[Sidenote: 1819]
+[Sidenote: 1820]
+After serving twenty-three years at Ceylon, and taking a distinguished part in the important events which had occurred in that island, the regiment was relieved from duty there, and embarked for England in January, 1820; it landed at Gravesend on the 19th of May, and was stationed in the south of England during the remainder of the year.
+[Sidenote: 1821]
+In February, 1821, the regiment marched to Weedon Barracks; and in November embarked from Liverpool for Ireland, and, after landing at Dublin, marched to Mullingar, Longford, Tullamore, Philipstown, and Maryborough.
+[Sidenote: 1822]
+[Sidenote: 1823]
+[Sidenote: 1824]
+[Sidenote: 1825]
+[Sidenote: 1826]
+The regiment remained in Ireland during the years 1822, 1823, 1824, and 1825; in the autumn of 1826 it was divided into six service and four depôt companies: the service companies embarked from Cork in October, for the island of Demerara, where they arrived in December.
+[Sidenote: 1830]
+The depôt companies were stationed in Ireland until June, 1830, when they embarked from Cork for Portsmouth, where they arrived in two days.
+[Sidenote: 1836]
+After occupying various stations in the British West India Islands, during the period of nearly ten years, the service companies embarked from Barbadoes in July, 1836, and landed at Cork in August: they were afterwards joined by the depôt companies from England.
+[Sidenote: 1837]
+[Sidenote: 1838]
+During the years 1837 and 1838, the regiment was stationed in Ireland; in December, 1839, it embarked from Dublin for Bristol; but returned to Ireland in March following.
+[Sidenote: 1840]
+In the summer of 1840 the regiment was again divided into six service, and four depôt companies, and in September the service companies embarked from Cork for the island of Malta, where they landed on the 3rd and 13th of October.
+[Sidenote: 1841]
+[Sidenote: 1842]
+The depôt companies left Ireland in 1841, and were stationed a short time at Gosport; they proceeded to Brighton in March, 1842, and to Dover Castle in October.
+[Sidenote: 1843]
+General Sir Hilgrove Turner, G.C.H., K.C., died at Jersey, in May, 1843, and General Sir Warren Marmaduke Peacocke, K.C.H. and K.C., was appointed by Her Majesty Colonel of the NINETEENTH regiment.
+The service companies proceeded in the Resistance troop-ship from Malta to the Ionian Islands on the 9th of January, 1843, under the command of Lieutenant-Colonel Hay, and arrived at Corfu on the 20th of the same month; five days afterwards the head-quarters and three companies embarked in the Boyne transport for Cephalonia.
+In October, 1843, the depôt companies marched from Dover to Winchester, and from thence to Portsmouth, where they embarked for Jersey.
+[Sidenote: 1845]
+On the 18th of June, 1845, the depôt companies embarked at Jersey for Ireland, and disembarked at Waterford.
+On the 5th of December, 1845, the service companies of the NINETEENTH regiment embarked at Corfu for the West Indies, in the Java freight-ship, under the command of Lieutenant-Colonel Charles Hay.
+[Sidenote: 1846]
+The regiment arrived at Barbadoes on the 19th of January, 1846.
+[Sidenote: 1847]
+In February, 1847, the regiment embarked at Barbadoes for St. Vincent.
+[Sidenote: 1848]
+The regiment returned to Barbadoes in April, 1848, and was transhipped on board the Bombay transport on the 12th of that month, and sailed in a few days for North America.
+On the 1st of July, the date to which the record has been continued, the service companies were stationed at Montreal, under the command of Major Sanders, and the depôt companies, under Major Calley, remained in Ireland, the head-quarters occupying the barracks at Castlebar.
+ [Sidenote: 1848]
+The details narrated in the foregoing pages, contain accounts of the services of the NINETEENTH REGIMENT OF FOOT, for a period of one hundred and sixty years, and although the Regimental colour does not display any mark of distinction for services performed, yet the record of the regiment proves, that when opportunity has offered, the regiment has evinced that zeal and devotion to its country's cause, and that patient endurance and bravery in the field, for which every British corps has been distinguished; these qualities were shown in the war in Flanders under King William III., particularly at the battles of _Steenkirk_ and _Landen_, and at the siege of _Namur_, from 1692 to 1695; again in Flanders in 1710 and 1711, with the army under the command of the Duke of Marlborough. The regiment again distinguished itself in the war in Flanders, particularly at the battles of Fontenoy, Roucoux, and Val, in 1745, 1746, and 1747. In 1761, in the attack and capture of _Belle Isle_, where nature as well as art had combined to render the place impregnable, the regiment evinced an extraordinary degree of bravery. Its services were again evinced in Flanders, with the army under His Royal Highness the Duke of York, in 1794 and 1795.
+The regiment has also been distinguished by long and arduous services in the eastern parts of the world from 1796 to 1820; it was engaged in the storming of Seringapatam on the 4th of May, 1799, where the celebrated Tippoo Saib was mortally wounded, and the city captured. Its services in the conquest of the Island of Ceylon and the deposition of the King of Candy, in 1815, likewise form an important and honorable era in the records of the regiment; the gallantry of the troops on this occasion caused the annexation of the colony of Ceylon to the British dominions, and the conduct of the NINETEENTH regiment in suppressing the rebellion in that island, in 1818, secured the possession of this valuable appendage to the territories of Great Britain.
+The services of the NINETEENTH regiment in the Field, as well as in arduous Colonial duties, have been such as to show in the foregoing pages, that the officers and men have ample cause for feelings of pride in the honor acquired by the corps in whatever duty it has been employed, and this tribute of commendation is considered to be justly due to a regiment, the services of which have been so highly meritorious during a period of one hundred and sixty years.
+ 1848.
+ [Illustration: NINETEENTH REGIMENT OF FOOT.
+_Madeley lith. 3 Wellington S^t. Strand_
+FOR CANNON'S MILITARY RECORDS]
+
+ APPENDIX.
+_Battles, Sieges, &c., in the Netherlands, during the reign of_ KING WILLIAM III., _from 1689 to the Peace of Ryswick in 1697_.
+ Battle of Walcourt
+
+
+
+
+
+
+
+
+
+
+ 25 August, 1689 ---- ---- Fleurus
+
+
+
+
+
+
+
+
+
+
+
+ 4 July,
+ 1690 Mons surrendered to the French
+
+
+
+
+ 10 April,
+1691 Namur
+
+ ditto
+
+
+ditto
+
+
+
+
+
+
+ 20 June,
+ 1692 Battle of Steenkirk
+
+
+
+
+
+
+
+
+
+
+ 3 August, ---- Furnes and Dixmude captured
+
+
+
+
+
+
+-- Sept.,
+---- The French lines at D'Otignies forced
+
+10 July,
+ 1693 Battle of Landen
+
+
+
+
+
+
+
+
+
+
+
+ 29 July,
+ ---- Surrender of Huy
+
+
+
+
+
+
+
+
+
+
+
+ 17 Sept.,
+1694 Attack on Port Kenoque
+
+
+
+
+
+
+
+
+
+9 June,
+ 1695 Dixmude surrendered to the French
+
+
+
+16 July,
+ ---- Namur retaken by King William III.
+
+
+ 25 July,
+ ---- Citadel of Namur surrendered
+
+
+
+
+
+
+5 Sept.,
+---- Treaty of Ryswick signed
+
+
+
+
+
+
+
+ 11 Sept.,
+1697
+ _List of Sieges, Battles, &c., in the Netherlands and Germany, during the Campaigns under the_ DUKE OF MARLBOROUGH, _from 1702 to 1712_.
+Invested.
+
+
+
+Surrendered.
+Siege of Kayserswerth
+
+
+
+
+
+
+
+16 April,
+
+
+17 June,
+1702 Skirmish near Nimeguen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11 June,
+---- Siege of Venloo
+
+
+
+
+
+
+
+
+
+
+29 Aug.,
+
+
+ 25 Sept., ---- Capture of Fort St. Michael
+
+
+
+
+
+
+
+
+
+
+
+ 18 Sept., ---- Siege of Stevenswaert
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3 Oct.,
+---- ----
+
+ Ruremonde
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 6 Oct.,
+---- Capture of Liege Citadel
+
+
+
+
+
+
+
+
+
+
+
+
+
+23 Oct.,
+---- Siege of Bonn
+
+
+
+
+
+
+
+
+
+
+
+24 April,
+
+
+15 May,
+ 1703 ----
+
+ Huy
+
+
+
+
+
+
+
+
+
+
+
+ 16 Aug.,
+
+
+ 25 Aug.,
+---- ----
+
+ Limburg
+
+
+
+
+
+
+
+
+
+ 10 Sept.,
+
+
+28 Sept., ---- Battle of Schellenberg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2 July,
+1704 ----
+
+ Blenheim
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 13 Aug.,
+---- Siege of Landau
+
+
+
+
+
+
+
+
+
+
+12 Sept.,
+
+
+24 Nov.,
+---- Huy captured by the French
+
+
+
+
+
+
+
+
+
+
+
+
+
+ May,
+ 1705 Re-capture of Huy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 11 July,
+---- Forcing the French Lines at Helixem, near Tirlemont
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18 July,
+---- Skirmish near the Dyle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+21 July,
+---- Siege of Sandvliet
+
+
+
+
+
+
+
+
+ 26 Oct.,
+
+
+ 29 Oct.,
+---- Battle of Ramilies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23 May,
+ 1706 Siege of Ostend
+
+
+
+
+
+
+
+
+
+
+28 June,
+
+
+
+8 July,
+ ---- ----
+
+ Menin
+
+
+
+
+
+
+
+
+
+
+ 25 July,
+
+
+ 25 Aug.,
+---- ----
+
+ Dendermond
+
+
+
+
+
+
+
+
+29 Aug.,
+
+
+
+5 Sept., ---- ----
+
+ Aeth
+
+
+
+
+
+
+
+
+
+
+
+16 Sept.,
+
+
+ 3 Oct.,
+---- Battle of Oudenarde
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 11 July,
+1708 Siege of Lisle
+
+
+
+
+
+
+
+
+
+
+ 13 Aug.,
+
+
+ 23 Oct.,
+---- Capture of the Citadel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 9 Dec.,
+---- Battle of Wynendale
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 28 Sept., ---- Passage of the Scheldt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27 Nov.,
+---- Siege of Ghent
+
+
+
+
+
+
+
+
+
+
+ 18 Dec.,
+
+
+ 30 Dec.,
+---- ----
+
+ Tournay
+
+
+
+
+
+
+
+
+
+ 27 June,
+
+
+ 29 July,
+1709 Capture of the Citadel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 3 Sept., ---- Battle of Malplaquet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11 Sept., ---- Siege of Mons
+
+
+
+
+
+
+
+
+
+
+
+21 Sept.,
+
+
+20 Oct.,
+---- Passage of the French lines at Pont-à-Vendin
+
+
+
+21 April, 1710 Siege of Douay
+
+
+
+
+
+
+
+
+
+
+ 25 April,
+
+
+27 June,
+---- ----
+
+ Bethune
+
+
+
+
+
+
+
+
+
+ 15 July,
+
+
+ 29 Aug.,
+---- ----
+
+ Aire
+
+
+
+
+
+
+
+
+
+
+
+ 6 Sept.,
+
+
+ 9 Nov.,
+---- ----
+
+ St. Venant
+
+
+
+
+
+
+
+
+ 6 Sept.,
+
+
+30 Sept., ---- Passage of the French lines at Arleux
+
+
+
+
+
+
+
+5 Aug.,
+1711 Siege of Bouchain
+
+
+
+
+
+
+
+
+
+10 Aug.,
+
+
+ 13 Sept., ---- Treaty of Utrecht signed
+
+
+
+
+
+
+
+
+
+
+
+
+
+30 March, 1713
+
+ SUCCESSION OF COLONELS
+OF THE
+NINETEENTH,
+OR THE FIRST YORKSHIRE NORTH RIDING
+REGIMENT OF FOOT.
+ FRANCIS LUTTERELL.
+_Appointed 28th February, 1689._
+FRANCIS LUTTERELL, was one of the zealous Protestant gentlemen who joined the standard of the Prince of Orange, at the Revolution in 1688, and on the elevation of the Prince to the throne, in February, 1689, he was nominated Colonel of a regiment of foot, now the NINETEENTH, which was formed of companies raised in November, 1688. He died before he attained any higher rank.
+ THOMAS ERLE.
+_Appointed 1st January, 1691._
+THOMAS ERLE evinced attachment to the principles of the Revolution of 1688, and on the 8th of March, 1689, he was commissioned to raise a regiment of foot for the service of King William III., which was afterwards disbanded. He proceeded with his regiment to Ireland in 1689, and proved an officer of great merit and personal bravery. He served under King William at the battle of the Boyne, and at the siege of Limerick in 1690; and greatly distinguished himself at the battle of Aghrim in 1691, where he was taken prisoner at the head of his regiment, in attempting to force the passage of a bog. He was rescued by his men, and headed another attack, when he was wounded and again taken prisoner; but was rescued a second time by his men. He afterwards served at the siege of Limerick, and being sent to England with despatches, he was removed by King William to the NINETEENTH regiment, his commission being dated the 1st of January, 1691. He was nominated Brigadier-General in 1793, and served under King William in Flanders; but was obliged to quit the field from ill health. While confined to his bed with a fever, at Malines, he heard that a general engagement was likely to take place, when he rejoined the army, behaved with great gallantry at the battle of Landen, and was dangerously wounded. He recovered of his wound, and commanded a brigade during the campaigns of 1694 and 1695; on the 1st of June, 1696, he was promoted to the rank of Major-General; and in February, 1703, to that of Lieut.-General. He was employed on the staff of South Britain, and raised a regiment of dragoons, the colonelcy of which was afterwards conferred on Lord Cutts. In 1708, he commanded an expedition to the coast of France, but nothing of importance was accomplished; he afterwards proceeded with the infantry to Ostend, and performed great service in forwarding supplies to the allied army during the siege of Lisle. In 1709, he disposed of the colonelcy of his regiment. He was afterwards nominated Lieut.-General of the Ordnance, and also Commander of the land forces in South Britain; and in January, 1711, he was promoted to the rank of General. Political events occasioned his removal from the appointments of Lieut.-General of the Ordnance, and Commander in South Britain, in 1712. He died on the 23rd of July, 1720.
+ GEORGE FREKE.
+_Appointed 23rd May, 1709._
+This officer was appointed Ensign in the NINETEENTH regiment on the 19th of April, 1693, and he served in Flanders under King William III. In 1702, he served in the expedition to Cadiz, from whence he proceeded to the West Indies, and was afterwards rewarded with the lieut.-colonelcy of the NINETEENTH regiment, the colonelcy of which corps he obtained by purchase in 1709. He was promoted to the rank of Brigadier-General on the 12th of February, 1711. His decease occurred before he attained any higher rank.
+ RICHARD SUTTON.
+_Appointed 3rd April, 1712._
+RICHARD SUTTON was appointed Ensign in a regiment of foot, on the 1st of April, 1690, and he served in Ireland, and also in Flanders, under King William III. He was afterwards promoted to the majority of the Eighth regiment, with which he served at the battles of Schellenberg and Blenheim in 1704; at the forcing of the French lines at Helixem in 1705; and at the battle of Ramilies, in 1706. Being afterwards promoted to the lieut.-colonelcy, he commanded the regiment at the battle of Oudenarde in 1708. On the 23rd of March, 1709, he was promoted to the colonelcy of a newly-raised regiment, and in 1710 he was nominated a Brigadier-General. He commanded a brigade in Flanders during the campaign of 1711; served at the forcing of the French lines at Arleux, and at the siege and capture of Bouchain. In 1712, he was removed to the NINETEENTH regiment, was nominated Governor of Hull, and commanded a brigade in Flanders under the Duke of Ormond: he was afterwards promoted to the rank of Major-General; but in 1715, he retired from active service. He was restored to the colonelcy of the NINETEENTH regiment in 1729, and promoted to the rank of Lieut.-General in 1735. He died in 1738.
+ GEORGE GROVE.
+_Appointed 5th August, 1715._
+GEORGE GROVE served in the foot guards, in which corps he rose to the rank of Captain and Lieut.-Colonel. Being a very zealous and loyal officer, at a period when Jacobite principles had become prevalent in the kingdom, he was nominated Colonel of the NINETEENTH regiment, his commission being dated the 5th of August, 1715: he did not attain any higher rank than that of Colonel. His death occurred on the 13th of October, 1729.
+ RICHARD SUTTON.
+_Re-appointed 27th October, 1729._
+_Died in 1738._
+ THE HONORABLE CHARLES HOWARD.
+_Appointed 1st November, 1738._
+THE HONORABLE CHARLES HOWARD, second son of Charles third Earl of Carlisle, was appointed Ensign and Lieutenant in the Second foot guards on the 10th of August, 1715; in 1717 he was promoted to Captain in the sixteenth foot, from which he exchanged to the ninth dragoons; and in April, 1719, he was nominated Captain and Lieut.-Colonel in the Second foot guards. He was appointed deputy governor of Carlisle in 1725, Aide-de-camp to the King with the rank of Colonel in 1734, and Colonel of the NINETEENTH regiment in 1738. He proceeded with the army to Flanders, in 1742, with the rank of Brigadier-General; in 1743 he obtained the rank of Major-General, and in 1747 that of Lieut.-General; in 1748 he was removed to the third dragoon guards. He was advanced to the dignity of a Knight of the Bath in 1749, and promoted to the rank of General in 1765. He was governor of Forts George and Augustus in Scotland; one of the grooms of the bed-chamber to King George II.; and many years member of parliament for Carlisle. He died in 1765.
+ LORD GEORGE BEAUCLERK.
+_Appointed 15th March, 1748._
+LORD GEORGE BEAUCLERK, sixth son of Charles first Duke of St. Albans, served in the first regiment of foot guards, and was promoted to Captain and Lieut.-Colonel in September, 1736. In 1745 he was nominated Aide-de-camp to King George II. with the rank of Colonel, and in 1747 he obtained the colonelcy of the eighth Marines (afterwards disbanded), from which he was removed, in 1748, to the NINETEENTH regiment: in 1753 he was appointed governor of Landguard Fort. He was promoted to the rank of Major-General in 1755, and to that of Lieut.-General in 1758. He performed the duties of Commander-in-chief in Scotland some time; and was Member of Parliament for Windsor. He died on the 11th of May, 1768.
+ DAVID GRAEME.
+_Appointed 25th May, 1768._
+DAVID GRAEME evinced loyalty and zeal for the interests of the Crown and Kingdom, during the Seven Years' War, by raising a corps of Highlanders, which was honored with the title of the 105th, or Queen's Own Royal regiment of Highlanders, of which he was appointed Colonel in 1761. This corps was disbanded after the peace in 1763; and in 1764 he was nominated Colonel of the forty-ninth regiment, from which he was removed, in 1768, to the NINETEENTH. He was promoted to the rank of Major-General in 1762; to that of Lieut.-General in 1772; and to that of General in 1783. He died in 1797.
+ SAMUEL HULSE.
+_Appointed 24th January, 1797._
+SAMUEL HULSE entered the army in 1761, as ensign in the first foot guards, and was promoted to Captain and Lieut.-Colonel in 1776; in 1780 he was promoted to the lieut.-colonelcy of his regiment, with the rank of Colonel, and was employed in suppressing the riots in London in the same year. At the commencement of the French revolutionary war, he was called into active service, and commanded the first battalion of his regiment, in Flanders, in 1793. He served at the siege of Valenciennes; and distinguished himself at the action of Lincelles, on the 18th of August, for which he was thanked in orders by His Royal Highness the Duke of York. He was engaged in the operations before Dunkirk, and in the subsequent movements until October, when he was promoted to the rank of Major-General, and returned to England. In May of the following year he again proceeded to Flanders, and commanded a brigade before Tournay, where several partial actions occurred, and in the retreat to Holland. Returning to England early in 1795, he was appointed Colonel of the fifty-sixth regiment, and placed on the home staff, where he continued three years: in 1797 he was removed to the NINETEENTH regiment. On the 1st of January, 1798, he was promoted to the rank of Lieut.-General, and during the troubles in Ireland, in the summer of that year, his services were extended to that part of the kingdom, but he returned to England in November, and resumed his command on the staff. He served in Holland under His Royal Highness the Duke of York, in 1799, and was at the several engagements from the 19th of September to the 6th of October. On returning to England he was appointed to the command of the southern district, in which he continued until the peace in 1802. He was advanced to the rank of General in 1803; appointed Lieut.-Governor of the Royal Hospital at Chelsea in 1806; and removed to the sixty-second regiment in 1810. He was one of the earliest servants placed by King George III. on the household establishment of the Prince of Wales, and was many years his Royal Highness's treasurer and receiver-general; on the accession of the Prince to the throne, General Hulse was nominated treasurer of the household. On the 19th of February, 1820, on the decease of General the Right Honorable Sir David Dundas, he was appointed Governor of Chelsea Hospital. In 1821 he was Knighted. He was also appointed ranger of Windsor home park; a privy councillor; and Knight Grand Cross of the Royal Hanoverian Guelphic Order. On the accession of King William III., General Sir Samuel Hulse, G.C.H., was promoted to the rank of Field-Marshal. He died in 1837, at the advanced age of ninety years.
+ SIR HEW DALRYMPLE, BART.
+_Appointed 25th June, 1810._
+SIR HEW DALRYMPLE was appointed Ensign in the thirty-first regiment in 1763; Captain in the second battalion of the Royals in 1768, Major in the same corps in 1777, and was Knighted in 1779. He was promoted to the lieut.-colonelcy of the sixty-eighth regiment in 1781, and obtained the rank of Colonel in 1790; he afterwards exchanged into the First foot guards. He served the campaign of 1793 in the grenadier battalion of the foot guards, and was at the battle of Famars, at the siege of Valenciennes, and in the action before Dunkirk. At the conclusion of the campaign he returned to England; and was promoted to the rank of Major-General in 1794; in 1795 he was placed on the staff of the northern district; and in 1796 appointed Lieut.-Governor of Guernsey, where he held the local rank of Lieut.-General from 1799. In 1801 he was promoted to the rank of Lieut.-General, and was placed on the staff in the command of the northern district in 1802; in 1806 he was removed to the staff of Gibraltar. Receiving orders to take the command of the British army in Portugal, in 1808, he arrived in that kingdom in time to become responsible for the Convention of Cintra, by which treaty the French army evacuated that country. Sir Hew Dalrymple was promoted to the rank of General in 1812; and was advanced to the dignity of a BARONET in 1815. He obtained the colonelcy of the thirty-seventh regiment in 1798, was removed to the NINETEENTH in 1810, and to the fifty-seventh in 1811. He died in 1830.
+ SIR TOMKYNS HILGROVE TURNER.
+_Appointed 27th April, 1811._
+This officer was appointed Ensign in the third foot guards in 1782, and serving in Flanders in 1793, was at the battles of St. Amand and Famars, at the siege of Valenciennes, the action at Lincelles, and also before Dunkirk. In 1794 he was repeatedly engaged, commencing with the attack on Vaux, afterwards in several affairs during the siege of Landrecies, including the battle of Cateau; he served at the battle of Tournay; the actions at Roulaix, Monveaux, and Templeuve. In November, 1794, he was promoted to Captain and Lieut.-Colonel, and in 1801 to the rank of Colonel. He served in the expedition to Egypt; was at the battles of the 8th, 13th, and 21st of March, and the action on the west side of Alexandria. He received a medal from the Grand Seignior: and returned to England in charge of the Egyptian antiquities, now in the British Museum. In 1804 he was nominated to the rank of Brigadier-General; and he served in South America in 1807 and 1808. Returning to England in the latter year, he was promoted to the rank of Major-General, and placed on the staff of the home district: he was subsequently appointed deputy secretary at Carlton House, under the Right Honorable Colonel M'Mahon. His services were rewarded with the colonelcy of the Cape regiment, and in 1811 he was removed to the NINETEENTH regiment. He was promoted to the rank of Lieut.-General in 1813, and appointed Lieut.-Governor of Jersey in 1814. He received the Grand Cross of the Royal Hanoverian Guelphic Order; and the dignity of Knight of the Crescent of Turkey, and of St. Anne of Russia. He was promoted to the rank of General on 22nd of July, 1830. His decease occurred at Jersey, in May, 1843.
+ GENERAL SIR WARREN MARMADUKE PEACOCKE,
+K.C.H. and K.C.
+_Appointed 31st May, 1843._
+ London: Printed by WILLIAM CLOWES and SONS, Stamford Street, For Her Majesty's Stationery Office.
+ FOOTNOTES:
+[1] A company of 200 men would appear thus:--
+__| |
+| |__| | 20
+
+ 20
+
+ 20
+
+ 30
+
+2|0
+
+ 30
+
+ 20
+
+ 20
+
+ 20 | Harquebuses.
+
+Muskets.
+
+
+Halberds.
+
+
+Muskets.
+
+Harquebuses. Archers.
+
+
+ Pikes.
+
+
+
+ Pikes.
+
+
+ Archers.
+The musket carried a ball which weighed 1/10th of a pound; and the harquebus a ball which weighed 1/25th of a pound.
+[2] The 30th, 31st, and 32nd Regiments were formed as Marine corps in 1702, and were employed as such during the wars in the reign of Queen Anne. The Marine corps were embarked in the Fleet under Admiral Sir George Rooke, and were at the taking of Gibraltar, and in its subsequent defence in 1704; they were afterwards employed at the siege of Barcelona in 1705.
+[3] The brave Sir Roger Williams, in his Discourse on War, printed in 1590, observes:--"I persuade myself ten thousand of our nation would beat thirty thousand of theirs (the Spaniards) out of the field, let them be chosen where they list." Yet at this time the Spanish infantry was allowed to be the best disciplined in Europe. For instances of valour displayed by the British Infantry during the Seventy Years' War, see the Historical Record of the Third Foot, or Buffs.
+[4] _Vide_ the Historical Record of the First, or Royal Regiment of Foot.
+[5] "Under the blessing of Divine Providence, His Majesty ascribes the successes which have attended the exertions of his troops in Egypt to that determined bravery which is inherent in Britons; but His Majesty desires it may be most solemnly and forcibly impressed on the consideration of every part of the army, that it has been a strict observance of order, discipline, and military system, which has given the full energy to the native valour of the troops, and has enabled them proudly to assert the superiority of the national military character, in situations uncommonly arduous, and under circumstances of peculiar difficulty."--_General Orders in 1801._
+In the General Orders issued by Lieut.-General Sir John Hope (afterwards Lord Hopetoun), congratulating the army upon the successful result of the Battle of Corunna, on the 16th of January, 1809, it is stated:--"On no occasion has the undaunted valour of British troops ever been more manifest. At the termination of a severe and harassing march, rendered necessary by the superiority which the enemy had acquired, and which had materially impaired the efficiency of the troops, many disadvantages were to be encountered. These have all been surmounted by the conduct of the troops themselves; and the enemy has been taught, that, whatever advantages of position or of numbers he may possess, there is inherent in the British officers and soldiers a bravery that knows not how to yield,--that no circumstances can appal,--and that will ensure victory, when it is to be obtained by the exertion of any human means."
+[6] These officers are marked "Reinstated," in the Registry of Commissions.
+[7] Embarkation Return of Major-General Erle's Regiment, 15th June, 1702:--
+_Companies._
+
+
+
+
+ _Men._
+
+
+_Ships._ The Grenadiers
+
+
+
+
+
+ 51
+
+
+The Bedford.
+Major-General Erle's
+
+
+ 51 } Colonel Freke's
+
+
+
+
+
+50 }
+
+The Expedition.
+Lieut.-Colonel Hawley's
+
+50 } Captain Dejocophan's
+
+
+ 52 }
+
+The Burford. Captain Morgan's
+
+
+
+
+ 50 }
+Captain Edgworth's
+
+
+
+ 51 } Captain Craddock's
+
+
+
+ 51 }
+
+The Eagle.
+Captain Symmons'
+
+
+
+
+ 48 } Captain Prater's
+
+
+
+
+ 51 }
+
+The Plymouth.
+Captain Carey
+
+
+
+
+
+
+52 } Captain Norman
+
+
+
+
+
+ 51 }
+
+The Kent.
+(Signed)
+
+ HARRY FREKE, Lieut.-Colonel.
+ [8] _In the year 1747_ FIFES _were introduced in the regiments of infantry_.
+[9] Previously to the issue of the royal warrant of 1751, which directed the _Number_ to be painted, or embroidered, on each colour of every regiment, it had been the practice to designate regiments by the names of their _Colonels_, adding, in some instances, the colour of their _Facings_, particularly when two regiments were commanded by colonels of the same name:--for example, the _Nineteenth_ was commonly called "_the Green Howards_" between 1738 and 1748, in order to distinguish it from the Third regiment, or Buffs, of which Lieut.-General Thomas Howard was the colonel during that period.
+
+
+
+ *** END OF THE PROJECT GUTENBERG EBOOK HISTORICAL RECORD OF THE NINETEENTH, OR THE FIRST YORKSHIRE NORTH RIDING REGIMENT OF FOOT ***
+
+ Updated editions will replace the previous one—the old editions will be renamed.
+Creating the works from print editions not protected by U.S. copyright law means that no one owns a United States copyright in these works, so the Foundation (and you!) can copy and distribute it in the United States without permission and without paying copyright royalties. Special rules, set forth in the General Terms of Use part of this license, apply to copying and distributing Project Gutenberg™ electronic works to protect the PROJECT GUTENBERG™ concept and trademark. Project Gutenberg is a registered trademark, and may not be used if you charge for an eBook, except by following the terms of the trademark license, including paying royalties for use of the Project Gutenberg trademark. If you do not charge anything for copies of this eBook, complying with the trademark license is very easy. You may use this eBook for nearly any purpose such as creation of derivative works, reports, performances and research. Project Gutenberg eBooks may be modified and printed and given away—you may do practically ANYTHING in the United States with eBooks not protected by U.S. copyright law. Redistribution is subject to the trademark license, especially commercial redistribution.
+ START: FULL LICENSE
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+To protect the Project Gutenberg™ mission of promoting the free distribution of electronic works, by using or distributing this work (or any other work associated in any way with the phrase “Project Gutenberg”), you agree to comply with all the terms of the Full Project Gutenberg™ License available with this file or online at www.gutenberg.org/license.
+Section 1. General Terms of Use and Redistributing Project Gutenberg™ electronic works
+1.A. By reading or using any part of this Project Gutenberg™ electronic work, you indicate that you have read, understand, agree to and accept all the terms of this license and intellectual property (trademark/copyright) agreement. If you do not agree to abide by all the terms of this agreement, you must cease using and return or destroy all copies of Project Gutenberg™ electronic works in your possession. If you paid a fee for obtaining a copy of or access to a Project Gutenberg™ electronic work and you do not agree to be bound by the terms of this agreement, you may obtain a refund from the person or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+1.B. “Project Gutenberg” is a registered trademark. It may only be used on or associated in any way with an electronic work by people who agree to be bound by the terms of this agreement. There are a few things that you can do with most Project Gutenberg™ electronic works even without complying with the full terms of this agreement. See paragraph 1.C below. There are a lot of things you can do with Project Gutenberg™ electronic works if you follow the terms of this agreement and help preserve free future access to Project Gutenberg™ electronic works. See paragraph 1.E below.
+1.C. The Project Gutenberg Literary Archive Foundation (“the Foundation” or PGLAF), owns a compilation copyright in the collection of Project Gutenberg™ electronic works. Nearly all the individual works in the collection are in the public domain in the United States. If an individual work is unprotected by copyright law in the United States and you are located in the United States, we do not claim a right to prevent you from copying, distributing, performing, displaying or creating derivative works based on the work as long as all references to Project Gutenberg are removed. Of course, we hope that you will support the Project Gutenberg™ mission of promoting free access to electronic works by freely sharing Project Gutenberg™ works in compliance with the terms of this agreement for keeping the Project Gutenberg™ name associated with the work. You can easily comply with the terms of this agreement by keeping this work in the same format with its attached full Project Gutenberg™ License when you share it without charge with others.
+1.D. The copyright laws of the place where you are located also govern what you can do with this work. Copyright laws in most countries are in a constant state of change. If you are outside the United States, check the laws of your country in addition to the terms of this agreement before downloading, copying, displaying, performing, distributing or creating derivative works based on this work or any other Project Gutenberg™ work. The Foundation makes no representations concerning the copyright status of any work in any country other than the United States.
+1.E. Unless you have removed all references to Project Gutenberg:
+1.E.1. The following sentence, with active links to, or other immediate access to, the full Project Gutenberg™ License must appear prominently whenever any copy of a Project Gutenberg™ work (any work on which the phrase “Project Gutenberg” appears, or with which the phrase “Project Gutenberg” is associated) is accessed, displayed, performed, viewed, copied or distributed:
+This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org. If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook.
+1.E.2. If an individual Project Gutenberg™ electronic work is derived from texts not protected by U.S. copyright law (does not contain a notice indicating that it is posted with permission of the copyright holder), the work can be copied and distributed to anyone in the United States without paying any fees or charges. If you are redistributing or providing access to a work with the phrase “Project Gutenberg” associated with or appearing on the work, you must comply either with the requirements of paragraphs 1.E.1 through 1.E.7 or obtain permission for the use of the work and the Project Gutenberg™ trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+1.E.3. If an individual Project Gutenberg™ electronic work is posted with the permission of the copyright holder, your use and distribution must comply with both paragraphs 1.E.1 through 1.E.7 and any additional terms imposed by the copyright holder. Additional terms will be linked to the Project Gutenberg™ License for all works posted with the permission of the copyright holder found at the beginning of this work.
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™ License terms from this work, or any files containing a part of this work or any other work associated with Project Gutenberg™.
+1.E.5. Do not copy, display, perform, distribute or redistribute this electronic work, or any part of this electronic work, without prominently displaying the sentence set forth in paragraph 1.E.1 with active links or immediate access to the full terms of the Project Gutenberg™ License.
+1.E.6. You may convert to and distribute this work in any binary, compressed, marked up, nonproprietary or proprietary form, including any word processing or hypertext form. However, if you provide access to or distribute copies of a Project Gutenberg™ work in a format other than “Plain Vanilla ASCII” or other format used in the official version posted on the official Project Gutenberg™ website (www.gutenberg.org), you must, at no additional cost, fee or expense to the user, provide a copy, a means of exporting a copy, or a means of obtaining a copy upon request, of the work in its original “Plain Vanilla ASCII” or other form. Any alternate format must include the full Project Gutenberg™ License as specified in paragraph 1.E.1.
+1.E.7. Do not charge a fee for access to, viewing, displaying, performing, copying or distributing any Project Gutenberg™ works unless you comply with paragraph 1.E.8 or 1.E.9.
+1.E.8. You may charge a reasonable fee for copies of or providing access to or distributing Project Gutenberg™ electronic works provided that:
+• You pay a royalty fee of 20% of the gross profits you derive from the use of Project Gutenberg™ works calculated using the method you already use to calculate your applicable taxes. The fee is owed to the owner of the Project Gutenberg™ trademark, but he has agreed to donate royalties under this paragraph to the Project Gutenberg Literary Archive Foundation. Royalty payments must be paid within 60 days following each date on which you prepare (or are legally required to prepare) your periodic tax returns. Royalty payments should be clearly marked as such and sent to the Project Gutenberg Literary Archive Foundation at the address specified in Section 4, “Information about donations to the Project Gutenberg Literary Archive Foundation.”
+• You provide a full refund of any money paid by a user who notifies you in writing (or by e-mail) within 30 days of receipt that s/he does not agree to the terms of the full Project Gutenberg™ License. You must require such a user to return or destroy all copies of the works possessed in a physical medium and discontinue all use of and all access to other copies of Project Gutenberg™ works.
+• You provide, in accordance with paragraph 1.F.3, a full refund of any money paid for a work or a replacement copy, if a defect in the electronic work is discovered and reported to you within 90 days of receipt of the work.
+• You comply with all other terms of this agreement for free distribution of Project Gutenberg™ works.
+ 1.E.9. If you wish to charge a fee or distribute a Project Gutenberg™ electronic work or group of works on different terms than are set forth in this agreement, you must obtain permission in writing from the Project Gutenberg Literary Archive Foundation, the manager of the Project Gutenberg™ trademark. Contact the Foundation as set forth in Section 3 below.
+1.F.
+1.F.1. Project Gutenberg volunteers and employees expend considerable effort to identify, do copyright research on, transcribe and proofread works not protected by U.S. copyright law in creating the Project Gutenberg™ collection. Despite these efforts, Project Gutenberg™ electronic works, and the medium on which they may be stored, may contain “Defects,” such as, but not limited to, incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other medium, a computer virus, or computer codes that damage or cannot be read by your equipment.
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right of Replacement or Refund” described in paragraph 1.F.3, the Project Gutenberg Literary Archive Foundation, the owner of the Project Gutenberg™ trademark, and any other party distributing a Project Gutenberg™ electronic work under this agreement, disclaim all liability to you for damages, costs and expenses, including legal fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGE.
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a defect in this electronic work within 90 days of receiving it, you can receive a refund of the money (if any) you paid for it by sending a written explanation to the person you received the work from. If you received the work on a physical medium, you must return the medium with your written explanation. The person or entity that provided you with the defective work may elect to provide a replacement copy in lieu of a refund. If you received the work electronically, the person or entity providing it to you may choose to give you a second opportunity to receive the work electronically in lieu of a refund. If the second copy is also defective, you may demand a refund in writing without further opportunities to fix the problem.
+1.F.4. Except for the limited right of replacement or refund set forth in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+1.F.5. Some states do not allow disclaimers of certain implied warranties or the exclusion or limitation of certain types of damages. If any disclaimer or limitation set forth in this agreement violates the law of the state applicable to this agreement, the agreement shall be interpreted to make the maximum disclaimer or limitation permitted by the applicable state law. The invalidity or unenforceability of any provision of this agreement shall not void the remaining provisions.
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the trademark owner, any agent or employee of the Foundation, anyone providing copies of Project Gutenberg™ electronic works in accordance with this agreement, and any volunteers associated with the production, promotion and distribution of Project Gutenberg™ electronic works, harmless from all liability, costs and expenses, including legal fees, that arise directly or indirectly from any of the following which you do or cause to occur: (a) distribution of this or any Project Gutenberg™ work, (b) alteration, modification, or additions or deletions to any Project Gutenberg™ work, and (c) any Defect you cause.
+Section 2. Information about the Mission of Project Gutenberg™
+Project Gutenberg™ is synonymous with the free distribution of electronic works in formats readable by the widest variety of computers including obsolete, old, middle-aged and new computers. It exists because of the efforts of hundreds of volunteers and donations from people in all walks of life.
+Volunteers and financial support to provide volunteers with the assistance they need are critical to reaching Project Gutenberg™’s goals and ensuring that the Project Gutenberg™ collection will remain freely available for generations to come. In 2001, the Project Gutenberg Literary Archive Foundation was created to provide a secure and permanent future for Project Gutenberg™ and future generations. To learn more about the Project Gutenberg Literary Archive Foundation and how your efforts and donations can help, see Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+The Project Gutenberg Literary Archive Foundation is a non-profit 501(c)(3) educational corporation organized under the laws of the state of Mississippi and granted tax exempt status by the Internal Revenue Service. The Foundation’s EIN or federal tax identification number is 64-6221541. Contributions to the Project Gutenberg Literary Archive Foundation are tax deductible to the full extent permitted by U.S. federal laws and your state’s laws.
+The Foundation’s business office is located at 809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up to date contact information can be found at the Foundation’s website and official page at www.gutenberg.org/contact
+Section 4. Information about Donations to the Project Gutenberg Literary Archive Foundation
+Project Gutenberg™ depends upon and cannot survive without widespread public support and donations to carry out its mission of increasing the number of public domain and licensed works that can be freely distributed in machine-readable form accessible by the widest array of equipment including outdated equipment. Many small donations ($1 to $5,000) are particularly important to maintaining tax exempt status with the IRS.
+The Foundation is committed to complying with the laws regulating charities and charitable donations in all 50 states of the United States. Compliance requirements are not uniform and it takes a considerable effort, much paperwork and many fees to meet and keep up with these requirements. We do not solicit donations in locations where we have not received written confirmation of compliance. To SEND DONATIONS or determine the status of compliance for any particular state visit www.gutenberg.org/donate.
+While we cannot and do not solicit contributions from states where we have not met the solicitation requirements, we know of no prohibition against accepting unsolicited donations from donors in such states who approach us with offers to donate.
+International donations are gratefully accepted, but we cannot make any statements concerning tax treatment of donations received from outside the United States. U.S. laws alone swamp our small staff.
+Please check the Project Gutenberg web pages for current donation methods and addresses. Donations are accepted in a number of other ways including checks, online payments and credit card donations. To donate, please visit: www.gutenberg.org/donate.
+Section 5. General Information About Project Gutenberg™ electronic works
+Professor Michael S. Hart was the originator of the Project Gutenberg™ concept of a library of electronic works that could be freely shared with anyone. For forty years, he produced and distributed Project Gutenberg™ eBooks with only a loose network of volunteer support.
+Project Gutenberg™ eBooks are often created from several printed editions, all of which are confirmed as not protected by copyright in the U.S. unless a copyright notice is included. Thus, we do not necessarily keep eBooks in compliance with any particular paper edition.
+Most people start at our website which has the main PG search facility: www.gutenberg.org.
+This website includes information about Project Gutenberg™, including how to make donations to the Project Gutenberg Literary Archive Foundation, how to help produce our new eBooks, and how to subscribe to our email newsletter to hear about new eBooks.
+
