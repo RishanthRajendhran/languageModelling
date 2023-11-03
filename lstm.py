@@ -500,8 +500,10 @@ def evalModel(model, lossFunction, dataLoader, vocab, device="cpu", dataDesc="Te
             _, preds = torch.max(outputs, dim=-1)
 
             loss = lossFunction(outputs.reshape(-1, outputs.shape[-1]), targets.reshape(-1)).reshape(inputs.shape[0], -1)
+            nonPadMask = inputs != vocab["[PAD]"]
 
-            perplexity += (2**(loss.mean(dim=-1))).sum().item()
+            # perplexity += (2**(loss.mean(dim=-1))).sum().item()
+            perplexity += (np.exp(loss.cpu().sum(dim=-1)/nonPadMask.sum(dim=-1))).sum().item()
 
             #We are not interested in [PAD] tokens
             preds[targets == vocab["[PAD]"]] = vocab["[PAD]"]
